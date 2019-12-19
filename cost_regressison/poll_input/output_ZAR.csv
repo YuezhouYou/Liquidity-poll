@@ -1,0 +1,2593 @@
+CCY,TradeType,Firm,Size,Tenor,Spread
+ZAR,Vanilla Outright,Median,400000.0,1Y,3.0
+ZAR,Vanilla Outright,Median,1000000.0,1Y,5.0
+ZAR,Vanilla Outright,Median,2000000.0,1Y,8.0
+ZAR,Vanilla Outright,Median,4000000.0,1Y,12.0
+ZAR,Vanilla Outright,Median,10000000.0,1Y,20.0
+ZAR,Vanilla Outright,Median,20000000.0,1Y,40.0
+ZAR,Vanilla Outright,Median,400000.0,2Y,3.0
+ZAR,Vanilla Outright,Median,1000000.0,2Y,5.0
+ZAR,Vanilla Outright,Median,2000000.0,2Y,8.0
+ZAR,Vanilla Outright,Median,4000000.0,2Y,13.0
+ZAR,Vanilla Outright,Median,10000000.0,2Y,25.0
+ZAR,Vanilla Outright,Median,20000000.0,2Y,40.0
+ZAR,Vanilla Outright,Median,400000.0,5Y,3.3
+ZAR,Vanilla Outright,Median,1000000.0,5Y,5.0
+ZAR,Vanilla Outright,Median,2000000.0,5Y,10.0
+ZAR,Vanilla Outright,Median,4000000.0,5Y,15.0
+ZAR,Vanilla Outright,Median,10000000.0,5Y,25.0
+ZAR,Vanilla Outright,Median,20000000.0,5Y,45.0
+ZAR,Vanilla Outright,Median,400000.0,10Y,3.6300000000000003
+ZAR,Vanilla Outright,Median,1000000.0,10Y,5.293750000000001
+ZAR,Vanilla Outright,Median,2000000.0,10Y,10.0
+ZAR,Vanilla Outright,Median,4000000.0,10Y,15.0
+ZAR,Vanilla Outright,Median,10000000.0,10Y,25.0
+ZAR,Vanilla Outright,Median,20000000.0,10Y,50.0
+ZAR,Vanilla Outright,Median,-400000.0,1Y,3.0
+ZAR,Vanilla Outright,Median,-1000000.0,1Y,5.0
+ZAR,Vanilla Outright,Median,-2000000.0,1Y,8.0
+ZAR,Vanilla Outright,Median,-4000000.0,1Y,12.0
+ZAR,Vanilla Outright,Median,-10000000.0,1Y,20.0
+ZAR,Vanilla Outright,Median,-20000000.0,1Y,40.0
+ZAR,Vanilla Outright,Median,-400000.0,2Y,3.0
+ZAR,Vanilla Outright,Median,-1000000.0,2Y,5.0
+ZAR,Vanilla Outright,Median,-2000000.0,2Y,8.0
+ZAR,Vanilla Outright,Median,-4000000.0,2Y,13.0
+ZAR,Vanilla Outright,Median,-10000000.0,2Y,25.0
+ZAR,Vanilla Outright,Median,-20000000.0,2Y,40.0
+ZAR,Vanilla Outright,Median,-400000.0,5Y,3.135
+ZAR,Vanilla Outright,Median,-1000000.0,5Y,5.0
+ZAR,Vanilla Outright,Median,-2000000.0,5Y,10.0
+ZAR,Vanilla Outright,Median,-4000000.0,5Y,15.0
+ZAR,Vanilla Outright,Median,-10000000.0,5Y,25.0
+ZAR,Vanilla Outright,Median,-20000000.0,5Y,45.0
+ZAR,Vanilla Outright,Median,-400000.0,10Y,3.4485
+ZAR,Vanilla Outright,Median,-1000000.0,10Y,5.029062500000001
+ZAR,Vanilla Outright,Median,-2000000.0,10Y,10.0
+ZAR,Vanilla Outright,Median,-4000000.0,10Y,15.0
+ZAR,Vanilla Outright,Median,-10000000.0,10Y,25.0
+ZAR,Vanilla Outright,Median,-20000000.0,10Y,50.0
+ZAR,Vanilla Outright,DB,400000.0,1Y,4.0
+ZAR,Vanilla Outright,DB,1000000.0,1Y,7.0
+ZAR,Vanilla Outright,DB,2000000.0,1Y,11.0
+ZAR,Vanilla Outright,DB,4000000.0,1Y,15.0
+ZAR,Vanilla Outright,DB,10000000.0,1Y,40.0
+ZAR,Vanilla Outright,DB,20000000.0,1Y,50.0
+ZAR,Vanilla Outright,DB,400000.0,2Y,4.0
+ZAR,Vanilla Outright,DB,1000000.0,2Y,8.0
+ZAR,Vanilla Outright,DB,2000000.0,2Y,13.0
+ZAR,Vanilla Outright,DB,4000000.0,2Y,20.0
+ZAR,Vanilla Outright,DB,10000000.0,2Y,50.0
+ZAR,Vanilla Outright,DB,20000000.0,2Y,80.0
+ZAR,Vanilla Outright,DB,400000.0,5Y,5.0
+ZAR,Vanilla Outright,DB,1000000.0,5Y,10.0
+ZAR,Vanilla Outright,DB,2000000.0,5Y,15.0
+ZAR,Vanilla Outright,DB,4000000.0,5Y,25.0
+ZAR,Vanilla Outright,DB,10000000.0,5Y,70.0
+ZAR,Vanilla Outright,DB,20000000.0,5Y,130.0
+ZAR,Vanilla Outright,DB,400000.0,10Y,6.0
+ZAR,Vanilla Outright,DB,1000000.0,10Y,12.0
+ZAR,Vanilla Outright,DB,2000000.0,10Y,18.0
+ZAR,Vanilla Outright,DB,4000000.0,10Y,30.0
+ZAR,Vanilla Outright,DB,10000000.0,10Y,90.0
+ZAR,Vanilla Outright,DB,20000000.0,10Y,150.0
+ZAR,Vanilla Outright,DB,-400000.0,1Y,3.0
+ZAR,Vanilla Outright,DB,-1000000.0,1Y,6.0
+ZAR,Vanilla Outright,DB,-2000000.0,1Y,10.0
+ZAR,Vanilla Outright,DB,-4000000.0,1Y,12.0
+ZAR,Vanilla Outright,DB,-10000000.0,1Y,30.0
+ZAR,Vanilla Outright,DB,-20000000.0,1Y,40.0
+ZAR,Vanilla Outright,DB,-400000.0,2Y,4.0
+ZAR,Vanilla Outright,DB,-1000000.0,2Y,7.0
+ZAR,Vanilla Outright,DB,-2000000.0,2Y,12.0
+ZAR,Vanilla Outright,DB,-4000000.0,2Y,15.0
+ZAR,Vanilla Outright,DB,-10000000.0,2Y,40.0
+ZAR,Vanilla Outright,DB,-20000000.0,2Y,60.0
+ZAR,Vanilla Outright,DB,-400000.0,5Y,4.0
+ZAR,Vanilla Outright,DB,-1000000.0,5Y,8.0
+ZAR,Vanilla Outright,DB,-2000000.0,5Y,14.0
+ZAR,Vanilla Outright,DB,-4000000.0,5Y,18.0
+ZAR,Vanilla Outright,DB,-10000000.0,5Y,50.0
+ZAR,Vanilla Outright,DB,-20000000.0,5Y,100.0
+ZAR,Vanilla Outright,DB,-400000.0,10Y,5.0
+ZAR,Vanilla Outright,DB,-1000000.0,10Y,10.0
+ZAR,Vanilla Outright,DB,-2000000.0,10Y,16.0
+ZAR,Vanilla Outright,DB,-4000000.0,10Y,25.0
+ZAR,Vanilla Outright,DB,-10000000.0,10Y,60.0
+ZAR,Vanilla Outright,DB,-20000000.0,10Y,130.0
+ZAR,Vanilla Outright,BNP,400000.0,1Y,2.0
+ZAR,Vanilla Outright,BNP,1000000.0,1Y,3.0
+ZAR,Vanilla Outright,BNP,2000000.0,1Y,5.0
+ZAR,Vanilla Outright,BNP,4000000.0,1Y,8.0
+ZAR,Vanilla Outright,BNP,10000000.0,1Y,12.0
+ZAR,Vanilla Outright,BNP,20000000.0,1Y,16.0
+ZAR,Vanilla Outright,BNP,400000.0,2Y,2.0
+ZAR,Vanilla Outright,BNP,1000000.0,2Y,3.0
+ZAR,Vanilla Outright,BNP,2000000.0,2Y,6.0
+ZAR,Vanilla Outright,BNP,4000000.0,2Y,9.0
+ZAR,Vanilla Outright,BNP,10000000.0,2Y,13.0
+ZAR,Vanilla Outright,BNP,20000000.0,2Y,17.0
+ZAR,Vanilla Outright,BNP,400000.0,5Y,3.0
+ZAR,Vanilla Outright,BNP,1000000.0,5Y,4.0
+ZAR,Vanilla Outright,BNP,2000000.0,5Y,7.0
+ZAR,Vanilla Outright,BNP,4000000.0,5Y,10.0
+ZAR,Vanilla Outright,BNP,10000000.0,5Y,14.0
+ZAR,Vanilla Outright,BNP,20000000.0,5Y,18.0
+ZAR,Vanilla Outright,BNP,400000.0,10Y,3.0
+ZAR,Vanilla Outright,BNP,1000000.0,10Y,5.0
+ZAR,Vanilla Outright,BNP,2000000.0,10Y,8.0
+ZAR,Vanilla Outright,BNP,4000000.0,10Y,12.0
+ZAR,Vanilla Outright,BNP,10000000.0,10Y,16.0
+ZAR,Vanilla Outright,BNP,20000000.0,10Y,20.0
+ZAR,Vanilla Outright,BNP,-400000.0,1Y,2.0
+ZAR,Vanilla Outright,BNP,-1000000.0,1Y,3.0
+ZAR,Vanilla Outright,BNP,-2000000.0,1Y,5.0
+ZAR,Vanilla Outright,BNP,-4000000.0,1Y,8.0
+ZAR,Vanilla Outright,BNP,-10000000.0,1Y,12.0
+ZAR,Vanilla Outright,BNP,-20000000.0,1Y,16.0
+ZAR,Vanilla Outright,BNP,-400000.0,2Y,2.0
+ZAR,Vanilla Outright,BNP,-1000000.0,2Y,3.0
+ZAR,Vanilla Outright,BNP,-2000000.0,2Y,6.0
+ZAR,Vanilla Outright,BNP,-4000000.0,2Y,9.0
+ZAR,Vanilla Outright,BNP,-10000000.0,2Y,13.0
+ZAR,Vanilla Outright,BNP,-20000000.0,2Y,17.0
+ZAR,Vanilla Outright,BNP,-400000.0,5Y,3.0
+ZAR,Vanilla Outright,BNP,-1000000.0,5Y,4.0
+ZAR,Vanilla Outright,BNP,-2000000.0,5Y,7.0
+ZAR,Vanilla Outright,BNP,-4000000.0,5Y,10.0
+ZAR,Vanilla Outright,BNP,-10000000.0,5Y,14.0
+ZAR,Vanilla Outright,BNP,-20000000.0,5Y,18.0
+ZAR,Vanilla Outright,BNP,-400000.0,10Y,3.0
+ZAR,Vanilla Outright,BNP,-1000000.0,10Y,5.0
+ZAR,Vanilla Outright,BNP,-2000000.0,10Y,8.0
+ZAR,Vanilla Outright,BNP,-4000000.0,10Y,12.0
+ZAR,Vanilla Outright,BNP,-10000000.0,10Y,16.0
+ZAR,Vanilla Outright,BNP,-20000000.0,10Y,20.0
+ZAR,Vanilla Outright,RABO,400000.0,1Y,
+ZAR,Vanilla Outright,RABO,1000000.0,1Y,
+ZAR,Vanilla Outright,RABO,2000000.0,1Y,
+ZAR,Vanilla Outright,RABO,4000000.0,1Y,
+ZAR,Vanilla Outright,RABO,10000000.0,1Y,
+ZAR,Vanilla Outright,RABO,20000000.0,1Y,
+ZAR,Vanilla Outright,RABO,400000.0,2Y,
+ZAR,Vanilla Outright,RABO,1000000.0,2Y,
+ZAR,Vanilla Outright,RABO,2000000.0,2Y,
+ZAR,Vanilla Outright,RABO,4000000.0,2Y,
+ZAR,Vanilla Outright,RABO,10000000.0,2Y,
+ZAR,Vanilla Outright,RABO,20000000.0,2Y,
+ZAR,Vanilla Outright,RABO,400000.0,5Y,
+ZAR,Vanilla Outright,RABO,1000000.0,5Y,
+ZAR,Vanilla Outright,RABO,2000000.0,5Y,
+ZAR,Vanilla Outright,RABO,4000000.0,5Y,
+ZAR,Vanilla Outright,RABO,10000000.0,5Y,
+ZAR,Vanilla Outright,RABO,20000000.0,5Y,
+ZAR,Vanilla Outright,RABO,400000.0,10Y,
+ZAR,Vanilla Outright,RABO,1000000.0,10Y,
+ZAR,Vanilla Outright,RABO,2000000.0,10Y,
+ZAR,Vanilla Outright,RABO,4000000.0,10Y,
+ZAR,Vanilla Outright,RABO,10000000.0,10Y,
+ZAR,Vanilla Outright,RABO,20000000.0,10Y,
+ZAR,Vanilla Outright,RABO,-400000.0,1Y,
+ZAR,Vanilla Outright,RABO,-1000000.0,1Y,
+ZAR,Vanilla Outright,RABO,-2000000.0,1Y,
+ZAR,Vanilla Outright,RABO,-4000000.0,1Y,
+ZAR,Vanilla Outright,RABO,-10000000.0,1Y,
+ZAR,Vanilla Outright,RABO,-20000000.0,1Y,
+ZAR,Vanilla Outright,RABO,-400000.0,2Y,
+ZAR,Vanilla Outright,RABO,-1000000.0,2Y,
+ZAR,Vanilla Outright,RABO,-2000000.0,2Y,
+ZAR,Vanilla Outright,RABO,-4000000.0,2Y,
+ZAR,Vanilla Outright,RABO,-10000000.0,2Y,
+ZAR,Vanilla Outright,RABO,-20000000.0,2Y,
+ZAR,Vanilla Outright,RABO,-400000.0,5Y,
+ZAR,Vanilla Outright,RABO,-1000000.0,5Y,
+ZAR,Vanilla Outright,RABO,-2000000.0,5Y,
+ZAR,Vanilla Outright,RABO,-4000000.0,5Y,
+ZAR,Vanilla Outright,RABO,-10000000.0,5Y,
+ZAR,Vanilla Outright,RABO,-20000000.0,5Y,
+ZAR,Vanilla Outright,RABO,-400000.0,10Y,
+ZAR,Vanilla Outright,RABO,-1000000.0,10Y,
+ZAR,Vanilla Outright,RABO,-2000000.0,10Y,
+ZAR,Vanilla Outright,RABO,-4000000.0,10Y,
+ZAR,Vanilla Outright,RABO,-10000000.0,10Y,
+ZAR,Vanilla Outright,RABO,-20000000.0,10Y,
+ZAR,Vanilla Outright,Nomura,400000.0,1Y,
+ZAR,Vanilla Outright,Nomura,1000000.0,1Y,
+ZAR,Vanilla Outright,Nomura,2000000.0,1Y,
+ZAR,Vanilla Outright,Nomura,4000000.0,1Y,
+ZAR,Vanilla Outright,Nomura,10000000.0,1Y,
+ZAR,Vanilla Outright,Nomura,20000000.0,1Y,
+ZAR,Vanilla Outright,Nomura,400000.0,2Y,
+ZAR,Vanilla Outright,Nomura,1000000.0,2Y,
+ZAR,Vanilla Outright,Nomura,2000000.0,2Y,
+ZAR,Vanilla Outright,Nomura,4000000.0,2Y,
+ZAR,Vanilla Outright,Nomura,10000000.0,2Y,
+ZAR,Vanilla Outright,Nomura,20000000.0,2Y,
+ZAR,Vanilla Outright,Nomura,400000.0,5Y,
+ZAR,Vanilla Outright,Nomura,1000000.0,5Y,
+ZAR,Vanilla Outright,Nomura,2000000.0,5Y,
+ZAR,Vanilla Outright,Nomura,4000000.0,5Y,
+ZAR,Vanilla Outright,Nomura,10000000.0,5Y,
+ZAR,Vanilla Outright,Nomura,20000000.0,5Y,
+ZAR,Vanilla Outright,Nomura,400000.0,10Y,
+ZAR,Vanilla Outright,Nomura,1000000.0,10Y,
+ZAR,Vanilla Outright,Nomura,2000000.0,10Y,
+ZAR,Vanilla Outright,Nomura,4000000.0,10Y,
+ZAR,Vanilla Outright,Nomura,10000000.0,10Y,
+ZAR,Vanilla Outright,Nomura,20000000.0,10Y,
+ZAR,Vanilla Outright,Nomura,-400000.0,1Y,
+ZAR,Vanilla Outright,Nomura,-1000000.0,1Y,
+ZAR,Vanilla Outright,Nomura,-2000000.0,1Y,
+ZAR,Vanilla Outright,Nomura,-4000000.0,1Y,
+ZAR,Vanilla Outright,Nomura,-10000000.0,1Y,
+ZAR,Vanilla Outright,Nomura,-20000000.0,1Y,
+ZAR,Vanilla Outright,Nomura,-400000.0,2Y,
+ZAR,Vanilla Outright,Nomura,-1000000.0,2Y,
+ZAR,Vanilla Outright,Nomura,-2000000.0,2Y,
+ZAR,Vanilla Outright,Nomura,-4000000.0,2Y,
+ZAR,Vanilla Outright,Nomura,-10000000.0,2Y,
+ZAR,Vanilla Outright,Nomura,-20000000.0,2Y,
+ZAR,Vanilla Outright,Nomura,-400000.0,5Y,
+ZAR,Vanilla Outright,Nomura,-1000000.0,5Y,
+ZAR,Vanilla Outright,Nomura,-2000000.0,5Y,
+ZAR,Vanilla Outright,Nomura,-4000000.0,5Y,
+ZAR,Vanilla Outright,Nomura,-10000000.0,5Y,
+ZAR,Vanilla Outright,Nomura,-20000000.0,5Y,
+ZAR,Vanilla Outright,Nomura,-400000.0,10Y,
+ZAR,Vanilla Outright,Nomura,-1000000.0,10Y,
+ZAR,Vanilla Outright,Nomura,-2000000.0,10Y,
+ZAR,Vanilla Outright,Nomura,-4000000.0,10Y,
+ZAR,Vanilla Outright,Nomura,-10000000.0,10Y,
+ZAR,Vanilla Outright,Nomura,-20000000.0,10Y,
+ZAR,Vanilla Outright,UBS,400000.0,1Y,
+ZAR,Vanilla Outright,UBS,1000000.0,1Y,
+ZAR,Vanilla Outright,UBS,2000000.0,1Y,
+ZAR,Vanilla Outright,UBS,4000000.0,1Y,
+ZAR,Vanilla Outright,UBS,10000000.0,1Y,
+ZAR,Vanilla Outright,UBS,20000000.0,1Y,
+ZAR,Vanilla Outright,UBS,400000.0,2Y,
+ZAR,Vanilla Outright,UBS,1000000.0,2Y,
+ZAR,Vanilla Outright,UBS,2000000.0,2Y,
+ZAR,Vanilla Outright,UBS,4000000.0,2Y,
+ZAR,Vanilla Outright,UBS,10000000.0,2Y,
+ZAR,Vanilla Outright,UBS,20000000.0,2Y,
+ZAR,Vanilla Outright,UBS,400000.0,5Y,
+ZAR,Vanilla Outright,UBS,1000000.0,5Y,
+ZAR,Vanilla Outright,UBS,2000000.0,5Y,
+ZAR,Vanilla Outright,UBS,4000000.0,5Y,
+ZAR,Vanilla Outright,UBS,10000000.0,5Y,
+ZAR,Vanilla Outright,UBS,20000000.0,5Y,
+ZAR,Vanilla Outright,UBS,400000.0,10Y,
+ZAR,Vanilla Outright,UBS,1000000.0,10Y,
+ZAR,Vanilla Outright,UBS,2000000.0,10Y,
+ZAR,Vanilla Outright,UBS,4000000.0,10Y,
+ZAR,Vanilla Outright,UBS,10000000.0,10Y,
+ZAR,Vanilla Outright,UBS,20000000.0,10Y,
+ZAR,Vanilla Outright,UBS,-400000.0,1Y,
+ZAR,Vanilla Outright,UBS,-1000000.0,1Y,
+ZAR,Vanilla Outright,UBS,-2000000.0,1Y,
+ZAR,Vanilla Outright,UBS,-4000000.0,1Y,
+ZAR,Vanilla Outright,UBS,-10000000.0,1Y,
+ZAR,Vanilla Outright,UBS,-20000000.0,1Y,
+ZAR,Vanilla Outright,UBS,-400000.0,2Y,
+ZAR,Vanilla Outright,UBS,-1000000.0,2Y,
+ZAR,Vanilla Outright,UBS,-2000000.0,2Y,
+ZAR,Vanilla Outright,UBS,-4000000.0,2Y,
+ZAR,Vanilla Outright,UBS,-10000000.0,2Y,
+ZAR,Vanilla Outright,UBS,-20000000.0,2Y,
+ZAR,Vanilla Outright,UBS,-400000.0,5Y,
+ZAR,Vanilla Outright,UBS,-1000000.0,5Y,
+ZAR,Vanilla Outright,UBS,-2000000.0,5Y,
+ZAR,Vanilla Outright,UBS,-4000000.0,5Y,
+ZAR,Vanilla Outright,UBS,-10000000.0,5Y,
+ZAR,Vanilla Outright,UBS,-20000000.0,5Y,
+ZAR,Vanilla Outright,UBS,-400000.0,10Y,
+ZAR,Vanilla Outright,UBS,-1000000.0,10Y,
+ZAR,Vanilla Outright,UBS,-2000000.0,10Y,
+ZAR,Vanilla Outright,UBS,-4000000.0,10Y,
+ZAR,Vanilla Outright,UBS,-10000000.0,10Y,
+ZAR,Vanilla Outright,UBS,-20000000.0,10Y,
+ZAR,Vanilla Outright,BMO,400000.0,1Y,
+ZAR,Vanilla Outright,BMO,1000000.0,1Y,
+ZAR,Vanilla Outright,BMO,2000000.0,1Y,
+ZAR,Vanilla Outright,BMO,4000000.0,1Y,
+ZAR,Vanilla Outright,BMO,10000000.0,1Y,
+ZAR,Vanilla Outright,BMO,20000000.0,1Y,
+ZAR,Vanilla Outright,BMO,400000.0,2Y,
+ZAR,Vanilla Outright,BMO,1000000.0,2Y,
+ZAR,Vanilla Outright,BMO,2000000.0,2Y,
+ZAR,Vanilla Outright,BMO,4000000.0,2Y,
+ZAR,Vanilla Outright,BMO,10000000.0,2Y,
+ZAR,Vanilla Outright,BMO,20000000.0,2Y,
+ZAR,Vanilla Outright,BMO,400000.0,5Y,
+ZAR,Vanilla Outright,BMO,1000000.0,5Y,
+ZAR,Vanilla Outright,BMO,2000000.0,5Y,
+ZAR,Vanilla Outright,BMO,4000000.0,5Y,
+ZAR,Vanilla Outright,BMO,10000000.0,5Y,
+ZAR,Vanilla Outright,BMO,20000000.0,5Y,
+ZAR,Vanilla Outright,BMO,400000.0,10Y,
+ZAR,Vanilla Outright,BMO,1000000.0,10Y,
+ZAR,Vanilla Outright,BMO,2000000.0,10Y,
+ZAR,Vanilla Outright,BMO,4000000.0,10Y,
+ZAR,Vanilla Outright,BMO,10000000.0,10Y,
+ZAR,Vanilla Outright,BMO,20000000.0,10Y,
+ZAR,Vanilla Outright,BMO,-400000.0,1Y,
+ZAR,Vanilla Outright,BMO,-1000000.0,1Y,
+ZAR,Vanilla Outright,BMO,-2000000.0,1Y,
+ZAR,Vanilla Outright,BMO,-4000000.0,1Y,
+ZAR,Vanilla Outright,BMO,-10000000.0,1Y,
+ZAR,Vanilla Outright,BMO,-20000000.0,1Y,
+ZAR,Vanilla Outright,BMO,-400000.0,2Y,
+ZAR,Vanilla Outright,BMO,-1000000.0,2Y,
+ZAR,Vanilla Outright,BMO,-2000000.0,2Y,
+ZAR,Vanilla Outright,BMO,-4000000.0,2Y,
+ZAR,Vanilla Outright,BMO,-10000000.0,2Y,
+ZAR,Vanilla Outright,BMO,-20000000.0,2Y,
+ZAR,Vanilla Outright,BMO,-400000.0,5Y,
+ZAR,Vanilla Outright,BMO,-1000000.0,5Y,
+ZAR,Vanilla Outright,BMO,-2000000.0,5Y,
+ZAR,Vanilla Outright,BMO,-4000000.0,5Y,
+ZAR,Vanilla Outright,BMO,-10000000.0,5Y,
+ZAR,Vanilla Outright,BMO,-20000000.0,5Y,
+ZAR,Vanilla Outright,BMO,-400000.0,10Y,
+ZAR,Vanilla Outright,BMO,-1000000.0,10Y,
+ZAR,Vanilla Outright,BMO,-2000000.0,10Y,
+ZAR,Vanilla Outright,BMO,-4000000.0,10Y,
+ZAR,Vanilla Outright,BMO,-10000000.0,10Y,
+ZAR,Vanilla Outright,BMO,-20000000.0,10Y,
+ZAR,Vanilla Outright,TD,400000.0,1Y,
+ZAR,Vanilla Outright,TD,1000000.0,1Y,
+ZAR,Vanilla Outright,TD,2000000.0,1Y,
+ZAR,Vanilla Outright,TD,4000000.0,1Y,
+ZAR,Vanilla Outright,TD,10000000.0,1Y,
+ZAR,Vanilla Outright,TD,20000000.0,1Y,
+ZAR,Vanilla Outright,TD,400000.0,2Y,
+ZAR,Vanilla Outright,TD,1000000.0,2Y,
+ZAR,Vanilla Outright,TD,2000000.0,2Y,
+ZAR,Vanilla Outright,TD,4000000.0,2Y,
+ZAR,Vanilla Outright,TD,10000000.0,2Y,
+ZAR,Vanilla Outright,TD,20000000.0,2Y,
+ZAR,Vanilla Outright,TD,400000.0,5Y,
+ZAR,Vanilla Outright,TD,1000000.0,5Y,
+ZAR,Vanilla Outright,TD,2000000.0,5Y,
+ZAR,Vanilla Outright,TD,4000000.0,5Y,
+ZAR,Vanilla Outright,TD,10000000.0,5Y,
+ZAR,Vanilla Outright,TD,20000000.0,5Y,
+ZAR,Vanilla Outright,TD,400000.0,10Y,
+ZAR,Vanilla Outright,TD,1000000.0,10Y,
+ZAR,Vanilla Outright,TD,2000000.0,10Y,
+ZAR,Vanilla Outright,TD,4000000.0,10Y,
+ZAR,Vanilla Outright,TD,10000000.0,10Y,
+ZAR,Vanilla Outright,TD,20000000.0,10Y,
+ZAR,Vanilla Outright,TD,-400000.0,1Y,
+ZAR,Vanilla Outright,TD,-1000000.0,1Y,
+ZAR,Vanilla Outright,TD,-2000000.0,1Y,
+ZAR,Vanilla Outright,TD,-4000000.0,1Y,
+ZAR,Vanilla Outright,TD,-10000000.0,1Y,
+ZAR,Vanilla Outright,TD,-20000000.0,1Y,
+ZAR,Vanilla Outright,TD,-400000.0,2Y,
+ZAR,Vanilla Outright,TD,-1000000.0,2Y,
+ZAR,Vanilla Outright,TD,-2000000.0,2Y,
+ZAR,Vanilla Outright,TD,-4000000.0,2Y,
+ZAR,Vanilla Outright,TD,-10000000.0,2Y,
+ZAR,Vanilla Outright,TD,-20000000.0,2Y,
+ZAR,Vanilla Outright,TD,-400000.0,5Y,
+ZAR,Vanilla Outright,TD,-1000000.0,5Y,
+ZAR,Vanilla Outright,TD,-2000000.0,5Y,
+ZAR,Vanilla Outright,TD,-4000000.0,5Y,
+ZAR,Vanilla Outright,TD,-10000000.0,5Y,
+ZAR,Vanilla Outright,TD,-20000000.0,5Y,
+ZAR,Vanilla Outright,TD,-400000.0,10Y,
+ZAR,Vanilla Outright,TD,-1000000.0,10Y,
+ZAR,Vanilla Outright,TD,-2000000.0,10Y,
+ZAR,Vanilla Outright,TD,-4000000.0,10Y,
+ZAR,Vanilla Outright,TD,-10000000.0,10Y,
+ZAR,Vanilla Outright,TD,-20000000.0,10Y,
+ZAR,Vanilla Outright,Credit Suisse,400000.0,1Y,
+ZAR,Vanilla Outright,Credit Suisse,1000000.0,1Y,
+ZAR,Vanilla Outright,Credit Suisse,2000000.0,1Y,
+ZAR,Vanilla Outright,Credit Suisse,4000000.0,1Y,
+ZAR,Vanilla Outright,Credit Suisse,10000000.0,1Y,
+ZAR,Vanilla Outright,Credit Suisse,20000000.0,1Y,
+ZAR,Vanilla Outright,Credit Suisse,400000.0,2Y,
+ZAR,Vanilla Outright,Credit Suisse,1000000.0,2Y,
+ZAR,Vanilla Outright,Credit Suisse,2000000.0,2Y,
+ZAR,Vanilla Outright,Credit Suisse,4000000.0,2Y,
+ZAR,Vanilla Outright,Credit Suisse,10000000.0,2Y,
+ZAR,Vanilla Outright,Credit Suisse,20000000.0,2Y,
+ZAR,Vanilla Outright,Credit Suisse,400000.0,5Y,
+ZAR,Vanilla Outright,Credit Suisse,1000000.0,5Y,
+ZAR,Vanilla Outright,Credit Suisse,2000000.0,5Y,
+ZAR,Vanilla Outright,Credit Suisse,4000000.0,5Y,
+ZAR,Vanilla Outright,Credit Suisse,10000000.0,5Y,
+ZAR,Vanilla Outright,Credit Suisse,20000000.0,5Y,
+ZAR,Vanilla Outright,Credit Suisse,400000.0,10Y,
+ZAR,Vanilla Outright,Credit Suisse,1000000.0,10Y,
+ZAR,Vanilla Outright,Credit Suisse,2000000.0,10Y,
+ZAR,Vanilla Outright,Credit Suisse,4000000.0,10Y,
+ZAR,Vanilla Outright,Credit Suisse,10000000.0,10Y,
+ZAR,Vanilla Outright,Credit Suisse,20000000.0,10Y,
+ZAR,Vanilla Outright,Credit Suisse,-400000.0,1Y,
+ZAR,Vanilla Outright,Credit Suisse,-1000000.0,1Y,
+ZAR,Vanilla Outright,Credit Suisse,-2000000.0,1Y,
+ZAR,Vanilla Outright,Credit Suisse,-4000000.0,1Y,
+ZAR,Vanilla Outright,Credit Suisse,-10000000.0,1Y,
+ZAR,Vanilla Outright,Credit Suisse,-20000000.0,1Y,
+ZAR,Vanilla Outright,Credit Suisse,-400000.0,2Y,
+ZAR,Vanilla Outright,Credit Suisse,-1000000.0,2Y,
+ZAR,Vanilla Outright,Credit Suisse,-2000000.0,2Y,
+ZAR,Vanilla Outright,Credit Suisse,-4000000.0,2Y,
+ZAR,Vanilla Outright,Credit Suisse,-10000000.0,2Y,
+ZAR,Vanilla Outright,Credit Suisse,-20000000.0,2Y,
+ZAR,Vanilla Outright,Credit Suisse,-400000.0,5Y,
+ZAR,Vanilla Outright,Credit Suisse,-1000000.0,5Y,
+ZAR,Vanilla Outright,Credit Suisse,-2000000.0,5Y,
+ZAR,Vanilla Outright,Credit Suisse,-4000000.0,5Y,
+ZAR,Vanilla Outright,Credit Suisse,-10000000.0,5Y,
+ZAR,Vanilla Outright,Credit Suisse,-20000000.0,5Y,
+ZAR,Vanilla Outright,Credit Suisse,-400000.0,10Y,
+ZAR,Vanilla Outright,Credit Suisse,-1000000.0,10Y,
+ZAR,Vanilla Outright,Credit Suisse,-2000000.0,10Y,
+ZAR,Vanilla Outright,Credit Suisse,-4000000.0,10Y,
+ZAR,Vanilla Outright,Credit Suisse,-10000000.0,10Y,
+ZAR,Vanilla Outright,Credit Suisse,-20000000.0,10Y,
+ZAR,Vanilla Outright,HSBC,400000.0,1Y,6.0
+ZAR,Vanilla Outright,HSBC,1000000.0,1Y,8.0
+ZAR,Vanilla Outright,HSBC,2000000.0,1Y,10.0
+ZAR,Vanilla Outright,HSBC,4000000.0,1Y,15.0
+ZAR,Vanilla Outright,HSBC,10000000.0,1Y,25.0
+ZAR,Vanilla Outright,HSBC,20000000.0,1Y,40.0
+ZAR,Vanilla Outright,HSBC,400000.0,2Y,6.0
+ZAR,Vanilla Outright,HSBC,1000000.0,2Y,8.0
+ZAR,Vanilla Outright,HSBC,2000000.0,2Y,10.0
+ZAR,Vanilla Outright,HSBC,4000000.0,2Y,15.0
+ZAR,Vanilla Outright,HSBC,10000000.0,2Y,25.0
+ZAR,Vanilla Outright,HSBC,20000000.0,2Y,40.0
+ZAR,Vanilla Outright,HSBC,400000.0,5Y,6.0
+ZAR,Vanilla Outright,HSBC,1000000.0,5Y,8.0
+ZAR,Vanilla Outright,HSBC,2000000.0,5Y,10.0
+ZAR,Vanilla Outright,HSBC,4000000.0,5Y,15.0
+ZAR,Vanilla Outright,HSBC,10000000.0,5Y,25.0
+ZAR,Vanilla Outright,HSBC,20000000.0,5Y,40.0
+ZAR,Vanilla Outright,HSBC,400000.0,10Y,6.0
+ZAR,Vanilla Outright,HSBC,1000000.0,10Y,8.0
+ZAR,Vanilla Outright,HSBC,2000000.0,10Y,10.0
+ZAR,Vanilla Outright,HSBC,4000000.0,10Y,15.0
+ZAR,Vanilla Outright,HSBC,10000000.0,10Y,25.0
+ZAR,Vanilla Outright,HSBC,20000000.0,10Y,40.0
+ZAR,Vanilla Outright,HSBC,-400000.0,1Y,6.0
+ZAR,Vanilla Outright,HSBC,-1000000.0,1Y,8.0
+ZAR,Vanilla Outright,HSBC,-2000000.0,1Y,10.0
+ZAR,Vanilla Outright,HSBC,-4000000.0,1Y,15.0
+ZAR,Vanilla Outright,HSBC,-10000000.0,1Y,25.0
+ZAR,Vanilla Outright,HSBC,-20000000.0,1Y,40.0
+ZAR,Vanilla Outright,HSBC,-400000.0,2Y,6.0
+ZAR,Vanilla Outright,HSBC,-1000000.0,2Y,8.0
+ZAR,Vanilla Outright,HSBC,-2000000.0,2Y,10.0
+ZAR,Vanilla Outright,HSBC,-4000000.0,2Y,15.0
+ZAR,Vanilla Outright,HSBC,-10000000.0,2Y,25.0
+ZAR,Vanilla Outright,HSBC,-20000000.0,2Y,40.0
+ZAR,Vanilla Outright,HSBC,-400000.0,5Y,6.0
+ZAR,Vanilla Outright,HSBC,-1000000.0,5Y,8.0
+ZAR,Vanilla Outright,HSBC,-2000000.0,5Y,10.0
+ZAR,Vanilla Outright,HSBC,-4000000.0,5Y,15.0
+ZAR,Vanilla Outright,HSBC,-10000000.0,5Y,25.0
+ZAR,Vanilla Outright,HSBC,-20000000.0,5Y,40.0
+ZAR,Vanilla Outright,HSBC,-400000.0,10Y,6.0
+ZAR,Vanilla Outright,HSBC,-1000000.0,10Y,8.0
+ZAR,Vanilla Outright,HSBC,-2000000.0,10Y,10.0
+ZAR,Vanilla Outright,HSBC,-4000000.0,10Y,15.0
+ZAR,Vanilla Outright,HSBC,-10000000.0,10Y,25.0
+ZAR,Vanilla Outright,HSBC,-20000000.0,10Y,40.0
+ZAR,Vanilla Outright,Goldman,400000.0,1Y,3.0
+ZAR,Vanilla Outright,Goldman,1000000.0,1Y,5.0
+ZAR,Vanilla Outright,Goldman,2000000.0,1Y,8.0
+ZAR,Vanilla Outright,Goldman,4000000.0,1Y,12.0
+ZAR,Vanilla Outright,Goldman,10000000.0,1Y,20.0
+ZAR,Vanilla Outright,Goldman,20000000.0,1Y,40.0
+ZAR,Vanilla Outright,Goldman,400000.0,2Y,3.0
+ZAR,Vanilla Outright,Goldman,1000000.0,2Y,5.0
+ZAR,Vanilla Outright,Goldman,2000000.0,2Y,8.0
+ZAR,Vanilla Outright,Goldman,4000000.0,2Y,12.0
+ZAR,Vanilla Outright,Goldman,10000000.0,2Y,20.0
+ZAR,Vanilla Outright,Goldman,20000000.0,2Y,40.0
+ZAR,Vanilla Outright,Goldman,400000.0,5Y,3.0
+ZAR,Vanilla Outright,Goldman,1000000.0,5Y,5.0
+ZAR,Vanilla Outright,Goldman,2000000.0,5Y,10.0
+ZAR,Vanilla Outright,Goldman,4000000.0,5Y,15.0
+ZAR,Vanilla Outright,Goldman,10000000.0,5Y,25.0
+ZAR,Vanilla Outright,Goldman,20000000.0,5Y,50.0
+ZAR,Vanilla Outright,Goldman,400000.0,10Y,3.0
+ZAR,Vanilla Outright,Goldman,1000000.0,10Y,5.0
+ZAR,Vanilla Outright,Goldman,2000000.0,10Y,10.0
+ZAR,Vanilla Outright,Goldman,4000000.0,10Y,15.0
+ZAR,Vanilla Outright,Goldman,10000000.0,10Y,25.0
+ZAR,Vanilla Outright,Goldman,20000000.0,10Y,50.0
+ZAR,Vanilla Outright,Goldman,-400000.0,1Y,3.0
+ZAR,Vanilla Outright,Goldman,-1000000.0,1Y,5.0
+ZAR,Vanilla Outright,Goldman,-2000000.0,1Y,8.0
+ZAR,Vanilla Outright,Goldman,-4000000.0,1Y,12.0
+ZAR,Vanilla Outright,Goldman,-10000000.0,1Y,20.0
+ZAR,Vanilla Outright,Goldman,-20000000.0,1Y,40.0
+ZAR,Vanilla Outright,Goldman,-400000.0,2Y,3.0
+ZAR,Vanilla Outright,Goldman,-1000000.0,2Y,5.0
+ZAR,Vanilla Outright,Goldman,-2000000.0,2Y,8.0
+ZAR,Vanilla Outright,Goldman,-4000000.0,2Y,12.0
+ZAR,Vanilla Outright,Goldman,-10000000.0,2Y,20.0
+ZAR,Vanilla Outright,Goldman,-20000000.0,2Y,40.0
+ZAR,Vanilla Outright,Goldman,-400000.0,5Y,3.0
+ZAR,Vanilla Outright,Goldman,-1000000.0,5Y,5.0
+ZAR,Vanilla Outright,Goldman,-2000000.0,5Y,10.0
+ZAR,Vanilla Outright,Goldman,-4000000.0,5Y,15.0
+ZAR,Vanilla Outright,Goldman,-10000000.0,5Y,25.0
+ZAR,Vanilla Outright,Goldman,-20000000.0,5Y,50.0
+ZAR,Vanilla Outright,Goldman,-400000.0,10Y,3.0
+ZAR,Vanilla Outright,Goldman,-1000000.0,10Y,5.0
+ZAR,Vanilla Outright,Goldman,-2000000.0,10Y,10.0
+ZAR,Vanilla Outright,Goldman,-4000000.0,10Y,15.0
+ZAR,Vanilla Outright,Goldman,-10000000.0,10Y,25.0
+ZAR,Vanilla Outright,Goldman,-20000000.0,10Y,50.0
+ZAR,Vanilla Outright,Wells Fargo,400000.0,1Y,3.0
+ZAR,Vanilla Outright,Wells Fargo,1000000.0,1Y,4.375
+ZAR,Vanilla Outright,Wells Fargo,2000000.0,1Y,6.25
+ZAR,Vanilla Outright,Wells Fargo,4000000.0,1Y,9.375
+ZAR,Vanilla Outright,Wells Fargo,10000000.0,1Y,15.625
+ZAR,Vanilla Outright,Wells Fargo,20000000.0,1Y,21.875
+ZAR,Vanilla Outright,Wells Fargo,400000.0,2Y,3.0
+ZAR,Vanilla Outright,Wells Fargo,1000000.0,2Y,4.375
+ZAR,Vanilla Outright,Wells Fargo,2000000.0,2Y,6.25
+ZAR,Vanilla Outright,Wells Fargo,4000000.0,2Y,9.375
+ZAR,Vanilla Outright,Wells Fargo,10000000.0,2Y,15.625
+ZAR,Vanilla Outright,Wells Fargo,20000000.0,2Y,21.875
+ZAR,Vanilla Outright,Wells Fargo,400000.0,5Y,3.3
+ZAR,Vanilla Outright,Wells Fargo,1000000.0,5Y,4.812500000000001
+ZAR,Vanilla Outright,Wells Fargo,2000000.0,5Y,6.875
+ZAR,Vanilla Outright,Wells Fargo,4000000.0,5Y,10.3125
+ZAR,Vanilla Outright,Wells Fargo,10000000.0,5Y,17.187500000000004
+ZAR,Vanilla Outright,Wells Fargo,20000000.0,5Y,24.0625
+ZAR,Vanilla Outright,Wells Fargo,400000.0,10Y,3.6300000000000003
+ZAR,Vanilla Outright,Wells Fargo,1000000.0,10Y,5.293750000000001
+ZAR,Vanilla Outright,Wells Fargo,2000000.0,10Y,7.562500000000001
+ZAR,Vanilla Outright,Wells Fargo,4000000.0,10Y,11.343750000000002
+ZAR,Vanilla Outright,Wells Fargo,10000000.0,10Y,18.906250000000004
+ZAR,Vanilla Outright,Wells Fargo,20000000.0,10Y,26.46875
+ZAR,Vanilla Outright,Wells Fargo,-400000.0,1Y,2.85
+ZAR,Vanilla Outright,Wells Fargo,-1000000.0,1Y,4.15625
+ZAR,Vanilla Outright,Wells Fargo,-2000000.0,1Y,5.9375
+ZAR,Vanilla Outright,Wells Fargo,-4000000.0,1Y,8.90625
+ZAR,Vanilla Outright,Wells Fargo,-10000000.0,1Y,14.84375
+ZAR,Vanilla Outright,Wells Fargo,-20000000.0,1Y,20.78125
+ZAR,Vanilla Outright,Wells Fargo,-400000.0,2Y,2.85
+ZAR,Vanilla Outright,Wells Fargo,-1000000.0,2Y,4.15625
+ZAR,Vanilla Outright,Wells Fargo,-2000000.0,2Y,5.9375
+ZAR,Vanilla Outright,Wells Fargo,-4000000.0,2Y,8.90625
+ZAR,Vanilla Outright,Wells Fargo,-10000000.0,2Y,14.84375
+ZAR,Vanilla Outright,Wells Fargo,-20000000.0,2Y,20.78125
+ZAR,Vanilla Outright,Wells Fargo,-400000.0,5Y,3.135
+ZAR,Vanilla Outright,Wells Fargo,-1000000.0,5Y,4.571875
+ZAR,Vanilla Outright,Wells Fargo,-2000000.0,5Y,6.53125
+ZAR,Vanilla Outright,Wells Fargo,-4000000.0,5Y,9.796875
+ZAR,Vanilla Outright,Wells Fargo,-10000000.0,5Y,16.328125000000004
+ZAR,Vanilla Outright,Wells Fargo,-20000000.0,5Y,22.859374999999996
+ZAR,Vanilla Outright,Wells Fargo,-400000.0,10Y,3.4485
+ZAR,Vanilla Outright,Wells Fargo,-1000000.0,10Y,5.029062500000001
+ZAR,Vanilla Outright,Wells Fargo,-2000000.0,10Y,7.184375000000001
+ZAR,Vanilla Outright,Wells Fargo,-4000000.0,10Y,10.7765625
+ZAR,Vanilla Outright,Wells Fargo,-10000000.0,10Y,17.960937500000004
+ZAR,Vanilla Outright,Wells Fargo,-20000000.0,10Y,25.145312500000003
+ZAR,Vanilla Outright,Citi,400000.0,1Y,2.0
+ZAR,Vanilla Outright,Citi,1000000.0,1Y,3.0
+ZAR,Vanilla Outright,Citi,2000000.0,1Y,5.0
+ZAR,Vanilla Outright,Citi,4000000.0,1Y,8.0
+ZAR,Vanilla Outright,Citi,10000000.0,1Y,20.0
+ZAR,Vanilla Outright,Citi,20000000.0,1Y,35.0
+ZAR,Vanilla Outright,Citi,400000.0,2Y,3.0
+ZAR,Vanilla Outright,Citi,1000000.0,2Y,5.0
+ZAR,Vanilla Outright,Citi,2000000.0,2Y,7.0
+ZAR,Vanilla Outright,Citi,4000000.0,2Y,13.0
+ZAR,Vanilla Outright,Citi,10000000.0,2Y,25.0
+ZAR,Vanilla Outright,Citi,20000000.0,2Y,40.0
+ZAR,Vanilla Outright,Citi,400000.0,5Y,3.0
+ZAR,Vanilla Outright,Citi,1000000.0,5Y,5.0
+ZAR,Vanilla Outright,Citi,2000000.0,5Y,9.0
+ZAR,Vanilla Outright,Citi,4000000.0,5Y,15.0
+ZAR,Vanilla Outright,Citi,10000000.0,5Y,30.0
+ZAR,Vanilla Outright,Citi,20000000.0,5Y,45.0
+ZAR,Vanilla Outright,Citi,400000.0,10Y,3.0
+ZAR,Vanilla Outright,Citi,1000000.0,10Y,4.0
+ZAR,Vanilla Outright,Citi,2000000.0,10Y,10.0
+ZAR,Vanilla Outright,Citi,4000000.0,10Y,20.0
+ZAR,Vanilla Outright,Citi,10000000.0,10Y,35.0
+ZAR,Vanilla Outright,Citi,20000000.0,10Y,55.0
+ZAR,Vanilla Outright,Citi,-400000.0,1Y,2.0
+ZAR,Vanilla Outright,Citi,-1000000.0,1Y,3.0
+ZAR,Vanilla Outright,Citi,-2000000.0,1Y,5.0
+ZAR,Vanilla Outright,Citi,-4000000.0,1Y,8.0
+ZAR,Vanilla Outright,Citi,-10000000.0,1Y,20.0
+ZAR,Vanilla Outright,Citi,-20000000.0,1Y,35.0
+ZAR,Vanilla Outright,Citi,-400000.0,2Y,3.0
+ZAR,Vanilla Outright,Citi,-1000000.0,2Y,5.0
+ZAR,Vanilla Outright,Citi,-2000000.0,2Y,7.0
+ZAR,Vanilla Outright,Citi,-4000000.0,2Y,13.0
+ZAR,Vanilla Outright,Citi,-10000000.0,2Y,25.0
+ZAR,Vanilla Outright,Citi,-20000000.0,2Y,40.0
+ZAR,Vanilla Outright,Citi,-400000.0,5Y,3.0
+ZAR,Vanilla Outright,Citi,-1000000.0,5Y,5.0
+ZAR,Vanilla Outright,Citi,-2000000.0,5Y,9.0
+ZAR,Vanilla Outright,Citi,-4000000.0,5Y,15.0
+ZAR,Vanilla Outright,Citi,-10000000.0,5Y,30.0
+ZAR,Vanilla Outright,Citi,-20000000.0,5Y,45.0
+ZAR,Vanilla Outright,Citi,-400000.0,10Y,3.0
+ZAR,Vanilla Outright,Citi,-1000000.0,10Y,4.0
+ZAR,Vanilla Outright,Citi,-2000000.0,10Y,10.0
+ZAR,Vanilla Outright,Citi,-4000000.0,10Y,20.0
+ZAR,Vanilla Outright,Citi,-10000000.0,10Y,35.0
+ZAR,Vanilla Outright,Citi,-20000000.0,10Y,55.0
+ZAR,Vanilla Outright,RBS,400000.0,1Y,
+ZAR,Vanilla Outright,RBS,1000000.0,1Y,
+ZAR,Vanilla Outright,RBS,2000000.0,1Y,
+ZAR,Vanilla Outright,RBS,4000000.0,1Y,
+ZAR,Vanilla Outright,RBS,10000000.0,1Y,
+ZAR,Vanilla Outright,RBS,20000000.0,1Y,
+ZAR,Vanilla Outright,RBS,400000.0,2Y,
+ZAR,Vanilla Outright,RBS,1000000.0,2Y,
+ZAR,Vanilla Outright,RBS,2000000.0,2Y,
+ZAR,Vanilla Outright,RBS,4000000.0,2Y,
+ZAR,Vanilla Outright,RBS,10000000.0,2Y,
+ZAR,Vanilla Outright,RBS,20000000.0,2Y,
+ZAR,Vanilla Outright,RBS,400000.0,5Y,
+ZAR,Vanilla Outright,RBS,1000000.0,5Y,
+ZAR,Vanilla Outright,RBS,2000000.0,5Y,
+ZAR,Vanilla Outright,RBS,4000000.0,5Y,
+ZAR,Vanilla Outright,RBS,10000000.0,5Y,
+ZAR,Vanilla Outright,RBS,20000000.0,5Y,
+ZAR,Vanilla Outright,RBS,400000.0,10Y,
+ZAR,Vanilla Outright,RBS,1000000.0,10Y,
+ZAR,Vanilla Outright,RBS,2000000.0,10Y,
+ZAR,Vanilla Outright,RBS,4000000.0,10Y,
+ZAR,Vanilla Outright,RBS,10000000.0,10Y,
+ZAR,Vanilla Outright,RBS,20000000.0,10Y,
+ZAR,Vanilla Outright,RBS,-400000.0,1Y,
+ZAR,Vanilla Outright,RBS,-1000000.0,1Y,
+ZAR,Vanilla Outright,RBS,-2000000.0,1Y,
+ZAR,Vanilla Outright,RBS,-4000000.0,1Y,
+ZAR,Vanilla Outright,RBS,-10000000.0,1Y,
+ZAR,Vanilla Outright,RBS,-20000000.0,1Y,
+ZAR,Vanilla Outright,RBS,-400000.0,2Y,
+ZAR,Vanilla Outright,RBS,-1000000.0,2Y,
+ZAR,Vanilla Outright,RBS,-2000000.0,2Y,
+ZAR,Vanilla Outright,RBS,-4000000.0,2Y,
+ZAR,Vanilla Outright,RBS,-10000000.0,2Y,
+ZAR,Vanilla Outright,RBS,-20000000.0,2Y,
+ZAR,Vanilla Outright,RBS,-400000.0,5Y,
+ZAR,Vanilla Outright,RBS,-1000000.0,5Y,
+ZAR,Vanilla Outright,RBS,-2000000.0,5Y,
+ZAR,Vanilla Outright,RBS,-4000000.0,5Y,
+ZAR,Vanilla Outright,RBS,-10000000.0,5Y,
+ZAR,Vanilla Outright,RBS,-20000000.0,5Y,
+ZAR,Vanilla Outright,RBS,-400000.0,10Y,
+ZAR,Vanilla Outright,RBS,-1000000.0,10Y,
+ZAR,Vanilla Outright,RBS,-2000000.0,10Y,
+ZAR,Vanilla Outright,RBS,-4000000.0,10Y,
+ZAR,Vanilla Outright,RBS,-10000000.0,10Y,
+ZAR,Vanilla Outright,RBS,-20000000.0,10Y,
+ZAR,Vanilla Outright,BAML,400000.0,1Y,2.0
+ZAR,Vanilla Outright,BAML,1000000.0,1Y,4.0
+ZAR,Vanilla Outright,BAML,2000000.0,1Y,7.0
+ZAR,Vanilla Outright,BAML,4000000.0,1Y,15.0
+ZAR,Vanilla Outright,BAML,10000000.0,1Y,25.0
+ZAR,Vanilla Outright,BAML,20000000.0,1Y,50.0
+ZAR,Vanilla Outright,BAML,400000.0,2Y,2.0
+ZAR,Vanilla Outright,BAML,1000000.0,2Y,4.0
+ZAR,Vanilla Outright,BAML,2000000.0,2Y,7.0
+ZAR,Vanilla Outright,BAML,4000000.0,2Y,15.0
+ZAR,Vanilla Outright,BAML,10000000.0,2Y,25.0
+ZAR,Vanilla Outright,BAML,20000000.0,2Y,50.0
+ZAR,Vanilla Outright,BAML,400000.0,5Y,2.0
+ZAR,Vanilla Outright,BAML,1000000.0,5Y,5.0
+ZAR,Vanilla Outright,BAML,2000000.0,5Y,10.0
+ZAR,Vanilla Outright,BAML,4000000.0,5Y,20.0
+ZAR,Vanilla Outright,BAML,10000000.0,5Y,30.0
+ZAR,Vanilla Outright,BAML,20000000.0,5Y,60.0
+ZAR,Vanilla Outright,BAML,400000.0,10Y,2.0
+ZAR,Vanilla Outright,BAML,1000000.0,10Y,5.0
+ZAR,Vanilla Outright,BAML,2000000.0,10Y,10.0
+ZAR,Vanilla Outright,BAML,4000000.0,10Y,20.0
+ZAR,Vanilla Outright,BAML,10000000.0,10Y,30.0
+ZAR,Vanilla Outright,BAML,20000000.0,10Y,60.0
+ZAR,Vanilla Outright,BAML,-400000.0,1Y,2.0
+ZAR,Vanilla Outright,BAML,-1000000.0,1Y,4.0
+ZAR,Vanilla Outright,BAML,-2000000.0,1Y,7.0
+ZAR,Vanilla Outright,BAML,-4000000.0,1Y,15.0
+ZAR,Vanilla Outright,BAML,-10000000.0,1Y,25.0
+ZAR,Vanilla Outright,BAML,-20000000.0,1Y,50.0
+ZAR,Vanilla Outright,BAML,-400000.0,2Y,2.0
+ZAR,Vanilla Outright,BAML,-1000000.0,2Y,4.0
+ZAR,Vanilla Outright,BAML,-2000000.0,2Y,7.0
+ZAR,Vanilla Outright,BAML,-4000000.0,2Y,15.0
+ZAR,Vanilla Outright,BAML,-10000000.0,2Y,25.0
+ZAR,Vanilla Outright,BAML,-20000000.0,2Y,50.0
+ZAR,Vanilla Outright,BAML,-400000.0,5Y,2.0
+ZAR,Vanilla Outright,BAML,-1000000.0,5Y,5.0
+ZAR,Vanilla Outright,BAML,-2000000.0,5Y,10.0
+ZAR,Vanilla Outright,BAML,-4000000.0,5Y,20.0
+ZAR,Vanilla Outright,BAML,-10000000.0,5Y,30.0
+ZAR,Vanilla Outright,BAML,-20000000.0,5Y,60.0
+ZAR,Vanilla Outright,BAML,-400000.0,10Y,2.0
+ZAR,Vanilla Outright,BAML,-1000000.0,10Y,5.0
+ZAR,Vanilla Outright,BAML,-2000000.0,10Y,10.0
+ZAR,Vanilla Outright,BAML,-4000000.0,10Y,20.0
+ZAR,Vanilla Outright,BAML,-10000000.0,10Y,30.0
+ZAR,Vanilla Outright,BAML,-20000000.0,10Y,60.0
+ZAR,Vanilla Outright,Morgan Stanley,400000.0,1Y,10.0
+ZAR,Vanilla Outright,Morgan Stanley,1000000.0,1Y,15.0
+ZAR,Vanilla Outright,Morgan Stanley,2000000.0,1Y,20.0
+ZAR,Vanilla Outright,Morgan Stanley,4000000.0,1Y,30.0
+ZAR,Vanilla Outright,Morgan Stanley,10000000.0,1Y,40.0
+ZAR,Vanilla Outright,Morgan Stanley,20000000.0,1Y,50.0
+ZAR,Vanilla Outright,Morgan Stanley,400000.0,2Y,15.0
+ZAR,Vanilla Outright,Morgan Stanley,1000000.0,2Y,20.0
+ZAR,Vanilla Outright,Morgan Stanley,2000000.0,2Y,30.0
+ZAR,Vanilla Outright,Morgan Stanley,4000000.0,2Y,40.0
+ZAR,Vanilla Outright,Morgan Stanley,10000000.0,2Y,50.0
+ZAR,Vanilla Outright,Morgan Stanley,20000000.0,2Y,60.0
+ZAR,Vanilla Outright,Morgan Stanley,400000.0,5Y,20.0
+ZAR,Vanilla Outright,Morgan Stanley,1000000.0,5Y,30.0
+ZAR,Vanilla Outright,Morgan Stanley,2000000.0,5Y,40.0
+ZAR,Vanilla Outright,Morgan Stanley,4000000.0,5Y,50.0
+ZAR,Vanilla Outright,Morgan Stanley,10000000.0,5Y,60.0
+ZAR,Vanilla Outright,Morgan Stanley,20000000.0,5Y,80.0
+ZAR,Vanilla Outright,Morgan Stanley,400000.0,10Y,20.0
+ZAR,Vanilla Outright,Morgan Stanley,1000000.0,10Y,30.0
+ZAR,Vanilla Outright,Morgan Stanley,2000000.0,10Y,40.0
+ZAR,Vanilla Outright,Morgan Stanley,4000000.0,10Y,50.0
+ZAR,Vanilla Outright,Morgan Stanley,10000000.0,10Y,60.0
+ZAR,Vanilla Outright,Morgan Stanley,20000000.0,10Y,80.0
+ZAR,Vanilla Outright,Morgan Stanley,-400000.0,1Y,10.0
+ZAR,Vanilla Outright,Morgan Stanley,-1000000.0,1Y,15.0
+ZAR,Vanilla Outright,Morgan Stanley,-2000000.0,1Y,20.0
+ZAR,Vanilla Outright,Morgan Stanley,-4000000.0,1Y,30.0
+ZAR,Vanilla Outright,Morgan Stanley,-10000000.0,1Y,40.0
+ZAR,Vanilla Outright,Morgan Stanley,-20000000.0,1Y,50.0
+ZAR,Vanilla Outright,Morgan Stanley,-400000.0,2Y,15.0
+ZAR,Vanilla Outright,Morgan Stanley,-1000000.0,2Y,20.0
+ZAR,Vanilla Outright,Morgan Stanley,-2000000.0,2Y,30.0
+ZAR,Vanilla Outright,Morgan Stanley,-4000000.0,2Y,40.0
+ZAR,Vanilla Outright,Morgan Stanley,-10000000.0,2Y,50.0
+ZAR,Vanilla Outright,Morgan Stanley,-20000000.0,2Y,60.0
+ZAR,Vanilla Outright,Morgan Stanley,-400000.0,5Y,20.0
+ZAR,Vanilla Outright,Morgan Stanley,-1000000.0,5Y,30.0
+ZAR,Vanilla Outright,Morgan Stanley,-2000000.0,5Y,40.0
+ZAR,Vanilla Outright,Morgan Stanley,-4000000.0,5Y,50.0
+ZAR,Vanilla Outright,Morgan Stanley,-10000000.0,5Y,60.0
+ZAR,Vanilla Outright,Morgan Stanley,-20000000.0,5Y,80.0
+ZAR,Vanilla Outright,Morgan Stanley,-400000.0,10Y,20.0
+ZAR,Vanilla Outright,Morgan Stanley,-1000000.0,10Y,30.0
+ZAR,Vanilla Outright,Morgan Stanley,-2000000.0,10Y,40.0
+ZAR,Vanilla Outright,Morgan Stanley,-4000000.0,10Y,50.0
+ZAR,Vanilla Outright,Morgan Stanley,-10000000.0,10Y,60.0
+ZAR,Vanilla Outright,Morgan Stanley,-20000000.0,10Y,80.0
+ZAR,Vanilla Outright,Scotia,400000.0,1Y,
+ZAR,Vanilla Outright,Scotia,1000000.0,1Y,
+ZAR,Vanilla Outright,Scotia,2000000.0,1Y,
+ZAR,Vanilla Outright,Scotia,4000000.0,1Y,
+ZAR,Vanilla Outright,Scotia,10000000.0,1Y,
+ZAR,Vanilla Outright,Scotia,20000000.0,1Y,
+ZAR,Vanilla Outright,Scotia,400000.0,2Y,
+ZAR,Vanilla Outright,Scotia,1000000.0,2Y,
+ZAR,Vanilla Outright,Scotia,2000000.0,2Y,
+ZAR,Vanilla Outright,Scotia,4000000.0,2Y,
+ZAR,Vanilla Outright,Scotia,10000000.0,2Y,
+ZAR,Vanilla Outright,Scotia,20000000.0,2Y,
+ZAR,Vanilla Outright,Scotia,400000.0,5Y,
+ZAR,Vanilla Outright,Scotia,1000000.0,5Y,
+ZAR,Vanilla Outright,Scotia,2000000.0,5Y,
+ZAR,Vanilla Outright,Scotia,4000000.0,5Y,
+ZAR,Vanilla Outright,Scotia,10000000.0,5Y,
+ZAR,Vanilla Outright,Scotia,20000000.0,5Y,
+ZAR,Vanilla Outright,Scotia,400000.0,10Y,
+ZAR,Vanilla Outright,Scotia,1000000.0,10Y,
+ZAR,Vanilla Outright,Scotia,2000000.0,10Y,
+ZAR,Vanilla Outright,Scotia,4000000.0,10Y,
+ZAR,Vanilla Outright,Scotia,10000000.0,10Y,
+ZAR,Vanilla Outright,Scotia,20000000.0,10Y,
+ZAR,Vanilla Outright,Scotia,-400000.0,1Y,
+ZAR,Vanilla Outright,Scotia,-1000000.0,1Y,
+ZAR,Vanilla Outright,Scotia,-2000000.0,1Y,
+ZAR,Vanilla Outright,Scotia,-4000000.0,1Y,
+ZAR,Vanilla Outright,Scotia,-10000000.0,1Y,
+ZAR,Vanilla Outright,Scotia,-20000000.0,1Y,
+ZAR,Vanilla Outright,Scotia,-400000.0,2Y,
+ZAR,Vanilla Outright,Scotia,-1000000.0,2Y,
+ZAR,Vanilla Outright,Scotia,-2000000.0,2Y,
+ZAR,Vanilla Outright,Scotia,-4000000.0,2Y,
+ZAR,Vanilla Outright,Scotia,-10000000.0,2Y,
+ZAR,Vanilla Outright,Scotia,-20000000.0,2Y,
+ZAR,Vanilla Outright,Scotia,-400000.0,5Y,
+ZAR,Vanilla Outright,Scotia,-1000000.0,5Y,
+ZAR,Vanilla Outright,Scotia,-2000000.0,5Y,
+ZAR,Vanilla Outright,Scotia,-4000000.0,5Y,
+ZAR,Vanilla Outright,Scotia,-10000000.0,5Y,
+ZAR,Vanilla Outright,Scotia,-20000000.0,5Y,
+ZAR,Vanilla Outright,Scotia,-400000.0,10Y,
+ZAR,Vanilla Outright,Scotia,-1000000.0,10Y,
+ZAR,Vanilla Outright,Scotia,-2000000.0,10Y,
+ZAR,Vanilla Outright,Scotia,-4000000.0,10Y,
+ZAR,Vanilla Outright,Scotia,-10000000.0,10Y,
+ZAR,Vanilla Outright,Scotia,-20000000.0,10Y,
+ZAR,Vanilla Outright,JPM,400000.0,1Y,16.0
+ZAR,Vanilla Outright,JPM,1000000.0,1Y,24.0
+ZAR,Vanilla Outright,JPM,2000000.0,1Y,32.0
+ZAR,Vanilla Outright,JPM,4000000.0,1Y,44.0
+ZAR,Vanilla Outright,JPM,10000000.0,1Y,80.0
+ZAR,Vanilla Outright,JPM,20000000.0,1Y,100.0
+ZAR,Vanilla Outright,JPM,400000.0,2Y,16.0
+ZAR,Vanilla Outright,JPM,1000000.0,2Y,24.0
+ZAR,Vanilla Outright,JPM,2000000.0,2Y,32.0
+ZAR,Vanilla Outright,JPM,4000000.0,2Y,44.0
+ZAR,Vanilla Outright,JPM,10000000.0,2Y,80.0
+ZAR,Vanilla Outright,JPM,20000000.0,2Y,100.0
+ZAR,Vanilla Outright,JPM,400000.0,5Y,16.0
+ZAR,Vanilla Outright,JPM,1000000.0,5Y,24.0
+ZAR,Vanilla Outright,JPM,2000000.0,5Y,32.0
+ZAR,Vanilla Outright,JPM,4000000.0,5Y,44.0
+ZAR,Vanilla Outright,JPM,10000000.0,5Y,80.0
+ZAR,Vanilla Outright,JPM,20000000.0,5Y,100.0
+ZAR,Vanilla Outright,JPM,400000.0,10Y,20.0
+ZAR,Vanilla Outright,JPM,1000000.0,10Y,28.0
+ZAR,Vanilla Outright,JPM,2000000.0,10Y,36.0
+ZAR,Vanilla Outright,JPM,4000000.0,10Y,44.0
+ZAR,Vanilla Outright,JPM,10000000.0,10Y,80.0
+ZAR,Vanilla Outright,JPM,20000000.0,10Y,100.0
+ZAR,Vanilla Outright,JPM,-400000.0,1Y,16.0
+ZAR,Vanilla Outright,JPM,-1000000.0,1Y,24.0
+ZAR,Vanilla Outright,JPM,-2000000.0,1Y,32.0
+ZAR,Vanilla Outright,JPM,-4000000.0,1Y,44.0
+ZAR,Vanilla Outright,JPM,-10000000.0,1Y,80.0
+ZAR,Vanilla Outright,JPM,-20000000.0,1Y,100.0
+ZAR,Vanilla Outright,JPM,-400000.0,2Y,16.0
+ZAR,Vanilla Outright,JPM,-1000000.0,2Y,24.0
+ZAR,Vanilla Outright,JPM,-2000000.0,2Y,32.0
+ZAR,Vanilla Outright,JPM,-4000000.0,2Y,44.0
+ZAR,Vanilla Outright,JPM,-10000000.0,2Y,80.0
+ZAR,Vanilla Outright,JPM,-20000000.0,2Y,100.0
+ZAR,Vanilla Outright,JPM,-400000.0,5Y,16.0
+ZAR,Vanilla Outright,JPM,-1000000.0,5Y,24.0
+ZAR,Vanilla Outright,JPM,-2000000.0,5Y,32.0
+ZAR,Vanilla Outright,JPM,-4000000.0,5Y,44.0
+ZAR,Vanilla Outright,JPM,-10000000.0,5Y,80.0
+ZAR,Vanilla Outright,JPM,-20000000.0,5Y,100.0
+ZAR,Vanilla Outright,JPM,-400000.0,10Y,20.0
+ZAR,Vanilla Outright,JPM,-1000000.0,10Y,28.0
+ZAR,Vanilla Outright,JPM,-2000000.0,10Y,36.0
+ZAR,Vanilla Outright,JPM,-4000000.0,10Y,44.0
+ZAR,Vanilla Outright,JPM,-10000000.0,10Y,80.0
+ZAR,Vanilla Outright,JPM,-20000000.0,10Y,100.0
+ZAR,Vanilla Outright,SocGen,400000.0,1Y,3.0
+ZAR,Vanilla Outright,SocGen,1000000.0,1Y,3.0
+ZAR,Vanilla Outright,SocGen,2000000.0,1Y,4.0
+ZAR,Vanilla Outright,SocGen,4000000.0,1Y,7.0
+ZAR,Vanilla Outright,SocGen,10000000.0,1Y,10.0
+ZAR,Vanilla Outright,SocGen,20000000.0,1Y,16.0
+ZAR,Vanilla Outright,SocGen,400000.0,2Y,3.0
+ZAR,Vanilla Outright,SocGen,1000000.0,2Y,3.0
+ZAR,Vanilla Outright,SocGen,2000000.0,2Y,4.0
+ZAR,Vanilla Outright,SocGen,4000000.0,2Y,7.0
+ZAR,Vanilla Outright,SocGen,10000000.0,2Y,10.0
+ZAR,Vanilla Outright,SocGen,20000000.0,2Y,16.0
+ZAR,Vanilla Outright,SocGen,400000.0,5Y,3.0
+ZAR,Vanilla Outright,SocGen,1000000.0,5Y,3.0
+ZAR,Vanilla Outright,SocGen,2000000.0,5Y,4.0
+ZAR,Vanilla Outright,SocGen,4000000.0,5Y,8.0
+ZAR,Vanilla Outright,SocGen,10000000.0,5Y,11.0
+ZAR,Vanilla Outright,SocGen,20000000.0,5Y,18.0
+ZAR,Vanilla Outright,SocGen,400000.0,10Y,3.0
+ZAR,Vanilla Outright,SocGen,1000000.0,10Y,3.0
+ZAR,Vanilla Outright,SocGen,2000000.0,10Y,5.0
+ZAR,Vanilla Outright,SocGen,4000000.0,10Y,8.0
+ZAR,Vanilla Outright,SocGen,10000000.0,10Y,12.0
+ZAR,Vanilla Outright,SocGen,20000000.0,10Y,20.0
+ZAR,Vanilla Outright,SocGen,-400000.0,1Y,3.0
+ZAR,Vanilla Outright,SocGen,-1000000.0,1Y,3.0
+ZAR,Vanilla Outright,SocGen,-2000000.0,1Y,4.0
+ZAR,Vanilla Outright,SocGen,-4000000.0,1Y,7.0
+ZAR,Vanilla Outright,SocGen,-10000000.0,1Y,10.0
+ZAR,Vanilla Outright,SocGen,-20000000.0,1Y,16.0
+ZAR,Vanilla Outright,SocGen,-400000.0,2Y,3.0
+ZAR,Vanilla Outright,SocGen,-1000000.0,2Y,3.0
+ZAR,Vanilla Outright,SocGen,-2000000.0,2Y,4.0
+ZAR,Vanilla Outright,SocGen,-4000000.0,2Y,7.0
+ZAR,Vanilla Outright,SocGen,-10000000.0,2Y,10.0
+ZAR,Vanilla Outright,SocGen,-20000000.0,2Y,16.0
+ZAR,Vanilla Outright,SocGen,-400000.0,5Y,3.0
+ZAR,Vanilla Outright,SocGen,-1000000.0,5Y,3.0
+ZAR,Vanilla Outright,SocGen,-2000000.0,5Y,4.0
+ZAR,Vanilla Outright,SocGen,-4000000.0,5Y,8.0
+ZAR,Vanilla Outright,SocGen,-10000000.0,5Y,11.0
+ZAR,Vanilla Outright,SocGen,-20000000.0,5Y,18.0
+ZAR,Vanilla Outright,SocGen,-400000.0,10Y,3.0
+ZAR,Vanilla Outright,SocGen,-1000000.0,10Y,3.0
+ZAR,Vanilla Outright,SocGen,-2000000.0,10Y,5.0
+ZAR,Vanilla Outright,SocGen,-4000000.0,10Y,8.0
+ZAR,Vanilla Outright,SocGen,-10000000.0,10Y,12.0
+ZAR,Vanilla Outright,SocGen,-20000000.0,10Y,20.0
+ZAR,Vanilla Outright,Barclays,400000.0,1Y,4.0
+ZAR,Vanilla Outright,Barclays,1000000.0,1Y,6.0
+ZAR,Vanilla Outright,Barclays,2000000.0,1Y,8.0
+ZAR,Vanilla Outright,Barclays,4000000.0,1Y,10.0
+ZAR,Vanilla Outright,Barclays,10000000.0,1Y,15.0
+ZAR,Vanilla Outright,Barclays,20000000.0,1Y,20.0
+ZAR,Vanilla Outright,Barclays,400000.0,2Y,4.0
+ZAR,Vanilla Outright,Barclays,1000000.0,2Y,6.0
+ZAR,Vanilla Outright,Barclays,2000000.0,2Y,8.0
+ZAR,Vanilla Outright,Barclays,4000000.0,2Y,10.0
+ZAR,Vanilla Outright,Barclays,10000000.0,2Y,15.0
+ZAR,Vanilla Outright,Barclays,20000000.0,2Y,20.0
+ZAR,Vanilla Outright,Barclays,400000.0,5Y,4.0
+ZAR,Vanilla Outright,Barclays,1000000.0,5Y,6.0
+ZAR,Vanilla Outright,Barclays,2000000.0,5Y,8.0
+ZAR,Vanilla Outright,Barclays,4000000.0,5Y,10.0
+ZAR,Vanilla Outright,Barclays,10000000.0,5Y,15.0
+ZAR,Vanilla Outright,Barclays,20000000.0,5Y,20.0
+ZAR,Vanilla Outright,Barclays,400000.0,10Y,4.0
+ZAR,Vanilla Outright,Barclays,1000000.0,10Y,6.0
+ZAR,Vanilla Outright,Barclays,2000000.0,10Y,8.0
+ZAR,Vanilla Outright,Barclays,4000000.0,10Y,10.0
+ZAR,Vanilla Outright,Barclays,10000000.0,10Y,15.0
+ZAR,Vanilla Outright,Barclays,20000000.0,10Y,20.0
+ZAR,Vanilla Outright,Barclays,-400000.0,1Y,4.0
+ZAR,Vanilla Outright,Barclays,-1000000.0,1Y,6.0
+ZAR,Vanilla Outright,Barclays,-2000000.0,1Y,8.0
+ZAR,Vanilla Outright,Barclays,-4000000.0,1Y,10.0
+ZAR,Vanilla Outright,Barclays,-10000000.0,1Y,15.0
+ZAR,Vanilla Outright,Barclays,-20000000.0,1Y,20.0
+ZAR,Vanilla Outright,Barclays,-400000.0,2Y,4.0
+ZAR,Vanilla Outright,Barclays,-1000000.0,2Y,6.0
+ZAR,Vanilla Outright,Barclays,-2000000.0,2Y,8.0
+ZAR,Vanilla Outright,Barclays,-4000000.0,2Y,10.0
+ZAR,Vanilla Outright,Barclays,-10000000.0,2Y,15.0
+ZAR,Vanilla Outright,Barclays,-20000000.0,2Y,20.0
+ZAR,Vanilla Outright,Barclays,-400000.0,5Y,4.0
+ZAR,Vanilla Outright,Barclays,-1000000.0,5Y,6.0
+ZAR,Vanilla Outright,Barclays,-2000000.0,5Y,8.0
+ZAR,Vanilla Outright,Barclays,-4000000.0,5Y,10.0
+ZAR,Vanilla Outright,Barclays,-10000000.0,5Y,15.0
+ZAR,Vanilla Outright,Barclays,-20000000.0,5Y,20.0
+ZAR,Vanilla Outright,Barclays,-400000.0,10Y,4.0
+ZAR,Vanilla Outright,Barclays,-1000000.0,10Y,6.0
+ZAR,Vanilla Outright,Barclays,-2000000.0,10Y,8.0
+ZAR,Vanilla Outright,Barclays,-4000000.0,10Y,10.0
+ZAR,Vanilla Outright,Barclays,-10000000.0,10Y,15.0
+ZAR,Vanilla Outright,Barclays,-20000000.0,10Y,20.0
+ZAR,Vanilla Outright,RBC,400000.0,1Y,
+ZAR,Vanilla Outright,RBC,1000000.0,1Y,
+ZAR,Vanilla Outright,RBC,2000000.0,1Y,
+ZAR,Vanilla Outright,RBC,4000000.0,1Y,
+ZAR,Vanilla Outright,RBC,10000000.0,1Y,
+ZAR,Vanilla Outright,RBC,20000000.0,1Y,
+ZAR,Vanilla Outright,RBC,400000.0,2Y,
+ZAR,Vanilla Outright,RBC,1000000.0,2Y,
+ZAR,Vanilla Outright,RBC,2000000.0,2Y,
+ZAR,Vanilla Outright,RBC,4000000.0,2Y,
+ZAR,Vanilla Outright,RBC,10000000.0,2Y,
+ZAR,Vanilla Outright,RBC,20000000.0,2Y,
+ZAR,Vanilla Outright,RBC,400000.0,5Y,
+ZAR,Vanilla Outright,RBC,1000000.0,5Y,
+ZAR,Vanilla Outright,RBC,2000000.0,5Y,
+ZAR,Vanilla Outright,RBC,4000000.0,5Y,
+ZAR,Vanilla Outright,RBC,10000000.0,5Y,
+ZAR,Vanilla Outright,RBC,20000000.0,5Y,
+ZAR,Vanilla Outright,RBC,400000.0,10Y,
+ZAR,Vanilla Outright,RBC,1000000.0,10Y,
+ZAR,Vanilla Outright,RBC,2000000.0,10Y,
+ZAR,Vanilla Outright,RBC,4000000.0,10Y,
+ZAR,Vanilla Outright,RBC,10000000.0,10Y,
+ZAR,Vanilla Outright,RBC,20000000.0,10Y,
+ZAR,Vanilla Outright,RBC,-400000.0,1Y,
+ZAR,Vanilla Outright,RBC,-1000000.0,1Y,
+ZAR,Vanilla Outright,RBC,-2000000.0,1Y,
+ZAR,Vanilla Outright,RBC,-4000000.0,1Y,
+ZAR,Vanilla Outright,RBC,-10000000.0,1Y,
+ZAR,Vanilla Outright,RBC,-20000000.0,1Y,
+ZAR,Vanilla Outright,RBC,-400000.0,2Y,
+ZAR,Vanilla Outright,RBC,-1000000.0,2Y,
+ZAR,Vanilla Outright,RBC,-2000000.0,2Y,
+ZAR,Vanilla Outright,RBC,-4000000.0,2Y,
+ZAR,Vanilla Outright,RBC,-10000000.0,2Y,
+ZAR,Vanilla Outright,RBC,-20000000.0,2Y,
+ZAR,Vanilla Outright,RBC,-400000.0,5Y,
+ZAR,Vanilla Outright,RBC,-1000000.0,5Y,
+ZAR,Vanilla Outright,RBC,-2000000.0,5Y,
+ZAR,Vanilla Outright,RBC,-4000000.0,5Y,
+ZAR,Vanilla Outright,RBC,-10000000.0,5Y,
+ZAR,Vanilla Outright,RBC,-20000000.0,5Y,
+ZAR,Vanilla Outright,RBC,-400000.0,10Y,
+ZAR,Vanilla Outright,RBC,-1000000.0,10Y,
+ZAR,Vanilla Outright,RBC,-2000000.0,10Y,
+ZAR,Vanilla Outright,RBC,-4000000.0,10Y,
+ZAR,Vanilla Outright,RBC,-10000000.0,10Y,
+ZAR,Vanilla Outright,RBC,-20000000.0,10Y,
+ZAR,Vanilla Outright,Credit Agricole,400000.0,1Y,
+ZAR,Vanilla Outright,Credit Agricole,1000000.0,1Y,
+ZAR,Vanilla Outright,Credit Agricole,2000000.0,1Y,
+ZAR,Vanilla Outright,Credit Agricole,4000000.0,1Y,
+ZAR,Vanilla Outright,Credit Agricole,10000000.0,1Y,
+ZAR,Vanilla Outright,Credit Agricole,20000000.0,1Y,
+ZAR,Vanilla Outright,Credit Agricole,400000.0,2Y,
+ZAR,Vanilla Outright,Credit Agricole,1000000.0,2Y,
+ZAR,Vanilla Outright,Credit Agricole,2000000.0,2Y,
+ZAR,Vanilla Outright,Credit Agricole,4000000.0,2Y,
+ZAR,Vanilla Outright,Credit Agricole,10000000.0,2Y,
+ZAR,Vanilla Outright,Credit Agricole,20000000.0,2Y,
+ZAR,Vanilla Outright,Credit Agricole,400000.0,5Y,
+ZAR,Vanilla Outright,Credit Agricole,1000000.0,5Y,
+ZAR,Vanilla Outright,Credit Agricole,2000000.0,5Y,
+ZAR,Vanilla Outright,Credit Agricole,4000000.0,5Y,
+ZAR,Vanilla Outright,Credit Agricole,10000000.0,5Y,
+ZAR,Vanilla Outright,Credit Agricole,20000000.0,5Y,
+ZAR,Vanilla Outright,Credit Agricole,400000.0,10Y,
+ZAR,Vanilla Outright,Credit Agricole,1000000.0,10Y,
+ZAR,Vanilla Outright,Credit Agricole,2000000.0,10Y,
+ZAR,Vanilla Outright,Credit Agricole,4000000.0,10Y,
+ZAR,Vanilla Outright,Credit Agricole,10000000.0,10Y,
+ZAR,Vanilla Outright,Credit Agricole,20000000.0,10Y,
+ZAR,Vanilla Outright,Credit Agricole,-400000.0,1Y,
+ZAR,Vanilla Outright,Credit Agricole,-1000000.0,1Y,
+ZAR,Vanilla Outright,Credit Agricole,-2000000.0,1Y,
+ZAR,Vanilla Outright,Credit Agricole,-4000000.0,1Y,
+ZAR,Vanilla Outright,Credit Agricole,-10000000.0,1Y,
+ZAR,Vanilla Outright,Credit Agricole,-20000000.0,1Y,
+ZAR,Vanilla Outright,Credit Agricole,-400000.0,2Y,
+ZAR,Vanilla Outright,Credit Agricole,-1000000.0,2Y,
+ZAR,Vanilla Outright,Credit Agricole,-2000000.0,2Y,
+ZAR,Vanilla Outright,Credit Agricole,-4000000.0,2Y,
+ZAR,Vanilla Outright,Credit Agricole,-10000000.0,2Y,
+ZAR,Vanilla Outright,Credit Agricole,-20000000.0,2Y,
+ZAR,Vanilla Outright,Credit Agricole,-400000.0,5Y,
+ZAR,Vanilla Outright,Credit Agricole,-1000000.0,5Y,
+ZAR,Vanilla Outright,Credit Agricole,-2000000.0,5Y,
+ZAR,Vanilla Outright,Credit Agricole,-4000000.0,5Y,
+ZAR,Vanilla Outright,Credit Agricole,-10000000.0,5Y,
+ZAR,Vanilla Outright,Credit Agricole,-20000000.0,5Y,
+ZAR,Vanilla Outright,Credit Agricole,-400000.0,10Y,
+ZAR,Vanilla Outright,Credit Agricole,-1000000.0,10Y,
+ZAR,Vanilla Outright,Credit Agricole,-2000000.0,10Y,
+ZAR,Vanilla Outright,Credit Agricole,-4000000.0,10Y,
+ZAR,Vanilla Outright,Credit Agricole,-10000000.0,10Y,
+ZAR,Vanilla Outright,Credit Agricole,-20000000.0,10Y,
+ZAR,Vanilla Outright,Santander,400000.0,1Y,
+ZAR,Vanilla Outright,Santander,1000000.0,1Y,
+ZAR,Vanilla Outright,Santander,2000000.0,1Y,
+ZAR,Vanilla Outright,Santander,4000000.0,1Y,
+ZAR,Vanilla Outright,Santander,10000000.0,1Y,
+ZAR,Vanilla Outright,Santander,20000000.0,1Y,
+ZAR,Vanilla Outright,Santander,400000.0,2Y,
+ZAR,Vanilla Outright,Santander,1000000.0,2Y,
+ZAR,Vanilla Outright,Santander,2000000.0,2Y,
+ZAR,Vanilla Outright,Santander,4000000.0,2Y,
+ZAR,Vanilla Outright,Santander,10000000.0,2Y,
+ZAR,Vanilla Outright,Santander,20000000.0,2Y,
+ZAR,Vanilla Outright,Santander,400000.0,5Y,
+ZAR,Vanilla Outright,Santander,1000000.0,5Y,
+ZAR,Vanilla Outright,Santander,2000000.0,5Y,
+ZAR,Vanilla Outright,Santander,4000000.0,5Y,
+ZAR,Vanilla Outright,Santander,10000000.0,5Y,
+ZAR,Vanilla Outright,Santander,20000000.0,5Y,
+ZAR,Vanilla Outright,Santander,400000.0,10Y,
+ZAR,Vanilla Outright,Santander,1000000.0,10Y,
+ZAR,Vanilla Outright,Santander,2000000.0,10Y,
+ZAR,Vanilla Outright,Santander,4000000.0,10Y,
+ZAR,Vanilla Outright,Santander,10000000.0,10Y,
+ZAR,Vanilla Outright,Santander,20000000.0,10Y,
+ZAR,Vanilla Outright,Santander,-400000.0,1Y,
+ZAR,Vanilla Outright,Santander,-1000000.0,1Y,
+ZAR,Vanilla Outright,Santander,-2000000.0,1Y,
+ZAR,Vanilla Outright,Santander,-4000000.0,1Y,
+ZAR,Vanilla Outright,Santander,-10000000.0,1Y,
+ZAR,Vanilla Outright,Santander,-20000000.0,1Y,
+ZAR,Vanilla Outright,Santander,-400000.0,2Y,
+ZAR,Vanilla Outright,Santander,-1000000.0,2Y,
+ZAR,Vanilla Outright,Santander,-2000000.0,2Y,
+ZAR,Vanilla Outright,Santander,-4000000.0,2Y,
+ZAR,Vanilla Outright,Santander,-10000000.0,2Y,
+ZAR,Vanilla Outright,Santander,-20000000.0,2Y,
+ZAR,Vanilla Outright,Santander,-400000.0,5Y,
+ZAR,Vanilla Outright,Santander,-1000000.0,5Y,
+ZAR,Vanilla Outright,Santander,-2000000.0,5Y,
+ZAR,Vanilla Outright,Santander,-4000000.0,5Y,
+ZAR,Vanilla Outright,Santander,-10000000.0,5Y,
+ZAR,Vanilla Outright,Santander,-20000000.0,5Y,
+ZAR,Vanilla Outright,Santander,-400000.0,10Y,
+ZAR,Vanilla Outright,Santander,-1000000.0,10Y,
+ZAR,Vanilla Outright,Santander,-2000000.0,10Y,
+ZAR,Vanilla Outright,Santander,-4000000.0,10Y,
+ZAR,Vanilla Outright,Santander,-10000000.0,10Y,
+ZAR,Vanilla Outright,Santander,-20000000.0,10Y,
+ZAR,Vanilla Outright,BBVA,400000.0,1Y,
+ZAR,Vanilla Outright,BBVA,1000000.0,1Y,
+ZAR,Vanilla Outright,BBVA,2000000.0,1Y,
+ZAR,Vanilla Outright,BBVA,4000000.0,1Y,
+ZAR,Vanilla Outright,BBVA,10000000.0,1Y,
+ZAR,Vanilla Outright,BBVA,20000000.0,1Y,
+ZAR,Vanilla Outright,BBVA,400000.0,2Y,
+ZAR,Vanilla Outright,BBVA,1000000.0,2Y,
+ZAR,Vanilla Outright,BBVA,2000000.0,2Y,
+ZAR,Vanilla Outright,BBVA,4000000.0,2Y,
+ZAR,Vanilla Outright,BBVA,10000000.0,2Y,
+ZAR,Vanilla Outright,BBVA,20000000.0,2Y,
+ZAR,Vanilla Outright,BBVA,400000.0,5Y,
+ZAR,Vanilla Outright,BBVA,1000000.0,5Y,
+ZAR,Vanilla Outright,BBVA,2000000.0,5Y,
+ZAR,Vanilla Outright,BBVA,4000000.0,5Y,
+ZAR,Vanilla Outright,BBVA,10000000.0,5Y,
+ZAR,Vanilla Outright,BBVA,20000000.0,5Y,
+ZAR,Vanilla Outright,BBVA,400000.0,10Y,
+ZAR,Vanilla Outright,BBVA,1000000.0,10Y,
+ZAR,Vanilla Outright,BBVA,2000000.0,10Y,
+ZAR,Vanilla Outright,BBVA,4000000.0,10Y,
+ZAR,Vanilla Outright,BBVA,10000000.0,10Y,
+ZAR,Vanilla Outright,BBVA,20000000.0,10Y,
+ZAR,Vanilla Outright,BBVA,-400000.0,1Y,
+ZAR,Vanilla Outright,BBVA,-1000000.0,1Y,
+ZAR,Vanilla Outright,BBVA,-2000000.0,1Y,
+ZAR,Vanilla Outright,BBVA,-4000000.0,1Y,
+ZAR,Vanilla Outright,BBVA,-10000000.0,1Y,
+ZAR,Vanilla Outright,BBVA,-20000000.0,1Y,
+ZAR,Vanilla Outright,BBVA,-400000.0,2Y,
+ZAR,Vanilla Outright,BBVA,-1000000.0,2Y,
+ZAR,Vanilla Outright,BBVA,-2000000.0,2Y,
+ZAR,Vanilla Outright,BBVA,-4000000.0,2Y,
+ZAR,Vanilla Outright,BBVA,-10000000.0,2Y,
+ZAR,Vanilla Outright,BBVA,-20000000.0,2Y,
+ZAR,Vanilla Outright,BBVA,-400000.0,5Y,
+ZAR,Vanilla Outright,BBVA,-1000000.0,5Y,
+ZAR,Vanilla Outright,BBVA,-2000000.0,5Y,
+ZAR,Vanilla Outright,BBVA,-4000000.0,5Y,
+ZAR,Vanilla Outright,BBVA,-10000000.0,5Y,
+ZAR,Vanilla Outright,BBVA,-20000000.0,5Y,
+ZAR,Vanilla Outright,BBVA,-400000.0,10Y,
+ZAR,Vanilla Outright,BBVA,-1000000.0,10Y,
+ZAR,Vanilla Outright,BBVA,-2000000.0,10Y,
+ZAR,Vanilla Outright,BBVA,-4000000.0,10Y,
+ZAR,Vanilla Outright,BBVA,-10000000.0,10Y,
+ZAR,Vanilla Outright,BBVA,-20000000.0,10Y,
+ZAR,Vanilla Curve Spread,Median,400000.0,1Y_2Y,3.0
+ZAR,Vanilla Curve Spread,Median,1000000.0,1Y_2Y,4.0
+ZAR,Vanilla Curve Spread,Median,2000000.0,1Y_2Y,6.0
+ZAR,Vanilla Curve Spread,Median,4000000.0,1Y_2Y,8.0
+ZAR,Vanilla Curve Spread,Median,10000000.0,1Y_2Y,15.0
+ZAR,Vanilla Curve Spread,Median,20000000.0,1Y_2Y,20.0
+ZAR,Vanilla Curve Spread,Median,400000.0,1Y_5Y,3.0
+ZAR,Vanilla Curve Spread,Median,1000000.0,1Y_5Y,4.0
+ZAR,Vanilla Curve Spread,Median,2000000.0,1Y_5Y,7.0
+ZAR,Vanilla Curve Spread,Median,4000000.0,1Y_5Y,10.0
+ZAR,Vanilla Curve Spread,Median,10000000.0,1Y_5Y,15.0
+ZAR,Vanilla Curve Spread,Median,20000000.0,1Y_5Y,30.0
+ZAR,Vanilla Curve Spread,Median,400000.0,1Y_10Y,3.0
+ZAR,Vanilla Curve Spread,Median,1000000.0,1Y_10Y,4.0
+ZAR,Vanilla Curve Spread,Median,2000000.0,1Y_10Y,8.0
+ZAR,Vanilla Curve Spread,Median,4000000.0,1Y_10Y,12.0
+ZAR,Vanilla Curve Spread,Median,10000000.0,1Y_10Y,20.0
+ZAR,Vanilla Curve Spread,Median,20000000.0,1Y_10Y,40.0
+ZAR,Vanilla Curve Spread,Median,400000.0,2Y_5Y,3.0
+ZAR,Vanilla Curve Spread,Median,1000000.0,2Y_5Y,4.0
+ZAR,Vanilla Curve Spread,Median,2000000.0,2Y_5Y,6.0
+ZAR,Vanilla Curve Spread,Median,4000000.0,2Y_5Y,8.0
+ZAR,Vanilla Curve Spread,Median,10000000.0,2Y_5Y,15.0
+ZAR,Vanilla Curve Spread,Median,20000000.0,2Y_5Y,24.0
+ZAR,Vanilla Curve Spread,Median,400000.0,2Y_10Y,3.0
+ZAR,Vanilla Curve Spread,Median,1000000.0,2Y_10Y,4.0
+ZAR,Vanilla Curve Spread,Median,2000000.0,2Y_10Y,7.0
+ZAR,Vanilla Curve Spread,Median,4000000.0,2Y_10Y,12.0
+ZAR,Vanilla Curve Spread,Median,10000000.0,2Y_10Y,20.0
+ZAR,Vanilla Curve Spread,Median,20000000.0,2Y_10Y,30.0
+ZAR,Vanilla Curve Spread,Median,400000.0,5Y_10Y,3.0
+ZAR,Vanilla Curve Spread,Median,1000000.0,5Y_10Y,4.0
+ZAR,Vanilla Curve Spread,Median,2000000.0,5Y_10Y,6.0
+ZAR,Vanilla Curve Spread,Median,4000000.0,5Y_10Y,8.0
+ZAR,Vanilla Curve Spread,Median,10000000.0,5Y_10Y,15.0
+ZAR,Vanilla Curve Spread,Median,20000000.0,5Y_10Y,24.0
+ZAR,Vanilla Curve Spread,DB,400000.0,1Y_2Y,3.0
+ZAR,Vanilla Curve Spread,DB,1000000.0,1Y_2Y,5.0
+ZAR,Vanilla Curve Spread,DB,2000000.0,1Y_2Y,8.0
+ZAR,Vanilla Curve Spread,DB,4000000.0,1Y_2Y,12.0
+ZAR,Vanilla Curve Spread,DB,10000000.0,1Y_2Y,20.0
+ZAR,Vanilla Curve Spread,DB,20000000.0,1Y_2Y,35.0
+ZAR,Vanilla Curve Spread,DB,400000.0,1Y_5Y,4.0
+ZAR,Vanilla Curve Spread,DB,1000000.0,1Y_5Y,6.0
+ZAR,Vanilla Curve Spread,DB,2000000.0,1Y_5Y,10.0
+ZAR,Vanilla Curve Spread,DB,4000000.0,1Y_5Y,15.0
+ZAR,Vanilla Curve Spread,DB,10000000.0,1Y_5Y,25.0
+ZAR,Vanilla Curve Spread,DB,20000000.0,1Y_5Y,45.0
+ZAR,Vanilla Curve Spread,DB,400000.0,1Y_10Y,6.0
+ZAR,Vanilla Curve Spread,DB,1000000.0,1Y_10Y,7.0
+ZAR,Vanilla Curve Spread,DB,2000000.0,1Y_10Y,12.0
+ZAR,Vanilla Curve Spread,DB,4000000.0,1Y_10Y,20.0
+ZAR,Vanilla Curve Spread,DB,10000000.0,1Y_10Y,35.0
+ZAR,Vanilla Curve Spread,DB,20000000.0,1Y_10Y,60.0
+ZAR,Vanilla Curve Spread,DB,400000.0,2Y_5Y,5.0
+ZAR,Vanilla Curve Spread,DB,1000000.0,2Y_5Y,8.0
+ZAR,Vanilla Curve Spread,DB,2000000.0,2Y_5Y,12.0
+ZAR,Vanilla Curve Spread,DB,4000000.0,2Y_5Y,20.0
+ZAR,Vanilla Curve Spread,DB,10000000.0,2Y_5Y,40.0
+ZAR,Vanilla Curve Spread,DB,20000000.0,2Y_5Y,60.0
+ZAR,Vanilla Curve Spread,DB,400000.0,2Y_10Y,5.0
+ZAR,Vanilla Curve Spread,DB,1000000.0,2Y_10Y,8.0
+ZAR,Vanilla Curve Spread,DB,2000000.0,2Y_10Y,12.0
+ZAR,Vanilla Curve Spread,DB,4000000.0,2Y_10Y,22.0
+ZAR,Vanilla Curve Spread,DB,10000000.0,2Y_10Y,40.0
+ZAR,Vanilla Curve Spread,DB,20000000.0,2Y_10Y,60.0
+ZAR,Vanilla Curve Spread,DB,400000.0,5Y_10Y,4.0
+ZAR,Vanilla Curve Spread,DB,1000000.0,5Y_10Y,6.0
+ZAR,Vanilla Curve Spread,DB,2000000.0,5Y_10Y,8.0
+ZAR,Vanilla Curve Spread,DB,4000000.0,5Y_10Y,15.0
+ZAR,Vanilla Curve Spread,DB,10000000.0,5Y_10Y,25.0
+ZAR,Vanilla Curve Spread,DB,20000000.0,5Y_10Y,35.0
+ZAR,Vanilla Curve Spread,BNP,400000.0,1Y_2Y,1.0
+ZAR,Vanilla Curve Spread,BNP,1000000.0,1Y_2Y,2.0
+ZAR,Vanilla Curve Spread,BNP,2000000.0,1Y_2Y,3.0
+ZAR,Vanilla Curve Spread,BNP,4000000.0,1Y_2Y,4.0
+ZAR,Vanilla Curve Spread,BNP,10000000.0,1Y_2Y,5.0
+ZAR,Vanilla Curve Spread,BNP,20000000.0,1Y_2Y,6.0
+ZAR,Vanilla Curve Spread,BNP,400000.0,1Y_5Y,2.0
+ZAR,Vanilla Curve Spread,BNP,1000000.0,1Y_5Y,3.0
+ZAR,Vanilla Curve Spread,BNP,2000000.0,1Y_5Y,5.0
+ZAR,Vanilla Curve Spread,BNP,4000000.0,1Y_5Y,7.0
+ZAR,Vanilla Curve Spread,BNP,10000000.0,1Y_5Y,10.0
+ZAR,Vanilla Curve Spread,BNP,20000000.0,1Y_5Y,15.0
+ZAR,Vanilla Curve Spread,BNP,400000.0,1Y_10Y,2.0
+ZAR,Vanilla Curve Spread,BNP,1000000.0,1Y_10Y,4.0
+ZAR,Vanilla Curve Spread,BNP,2000000.0,1Y_10Y,6.0
+ZAR,Vanilla Curve Spread,BNP,4000000.0,1Y_10Y,9.0
+ZAR,Vanilla Curve Spread,BNP,10000000.0,1Y_10Y,12.0
+ZAR,Vanilla Curve Spread,BNP,20000000.0,1Y_10Y,17.0
+ZAR,Vanilla Curve Spread,BNP,400000.0,2Y_5Y,1.0
+ZAR,Vanilla Curve Spread,BNP,1000000.0,2Y_5Y,3.0
+ZAR,Vanilla Curve Spread,BNP,2000000.0,2Y_5Y,4.0
+ZAR,Vanilla Curve Spread,BNP,4000000.0,2Y_5Y,6.0
+ZAR,Vanilla Curve Spread,BNP,10000000.0,2Y_5Y,8.0
+ZAR,Vanilla Curve Spread,BNP,20000000.0,2Y_5Y,12.0
+ZAR,Vanilla Curve Spread,BNP,400000.0,2Y_10Y,2.0
+ZAR,Vanilla Curve Spread,BNP,1000000.0,2Y_10Y,3.0
+ZAR,Vanilla Curve Spread,BNP,2000000.0,2Y_10Y,5.0
+ZAR,Vanilla Curve Spread,BNP,4000000.0,2Y_10Y,7.0
+ZAR,Vanilla Curve Spread,BNP,10000000.0,2Y_10Y,10.0
+ZAR,Vanilla Curve Spread,BNP,20000000.0,2Y_10Y,15.0
+ZAR,Vanilla Curve Spread,BNP,400000.0,5Y_10Y,1.0
+ZAR,Vanilla Curve Spread,BNP,1000000.0,5Y_10Y,2.0
+ZAR,Vanilla Curve Spread,BNP,2000000.0,5Y_10Y,2.5
+ZAR,Vanilla Curve Spread,BNP,4000000.0,5Y_10Y,4.0
+ZAR,Vanilla Curve Spread,BNP,10000000.0,5Y_10Y,6.0
+ZAR,Vanilla Curve Spread,BNP,20000000.0,5Y_10Y,8.0
+ZAR,Vanilla Curve Spread,RABO,400000.0,1Y_2Y,
+ZAR,Vanilla Curve Spread,RABO,1000000.0,1Y_2Y,
+ZAR,Vanilla Curve Spread,RABO,2000000.0,1Y_2Y,
+ZAR,Vanilla Curve Spread,RABO,4000000.0,1Y_2Y,
+ZAR,Vanilla Curve Spread,RABO,10000000.0,1Y_2Y,
+ZAR,Vanilla Curve Spread,RABO,20000000.0,1Y_2Y,
+ZAR,Vanilla Curve Spread,RABO,400000.0,1Y_5Y,
+ZAR,Vanilla Curve Spread,RABO,1000000.0,1Y_5Y,
+ZAR,Vanilla Curve Spread,RABO,2000000.0,1Y_5Y,
+ZAR,Vanilla Curve Spread,RABO,4000000.0,1Y_5Y,
+ZAR,Vanilla Curve Spread,RABO,10000000.0,1Y_5Y,
+ZAR,Vanilla Curve Spread,RABO,20000000.0,1Y_5Y,
+ZAR,Vanilla Curve Spread,RABO,400000.0,1Y_10Y,
+ZAR,Vanilla Curve Spread,RABO,1000000.0,1Y_10Y,
+ZAR,Vanilla Curve Spread,RABO,2000000.0,1Y_10Y,
+ZAR,Vanilla Curve Spread,RABO,4000000.0,1Y_10Y,
+ZAR,Vanilla Curve Spread,RABO,10000000.0,1Y_10Y,
+ZAR,Vanilla Curve Spread,RABO,20000000.0,1Y_10Y,
+ZAR,Vanilla Curve Spread,RABO,400000.0,2Y_5Y,
+ZAR,Vanilla Curve Spread,RABO,1000000.0,2Y_5Y,
+ZAR,Vanilla Curve Spread,RABO,2000000.0,2Y_5Y,
+ZAR,Vanilla Curve Spread,RABO,4000000.0,2Y_5Y,
+ZAR,Vanilla Curve Spread,RABO,10000000.0,2Y_5Y,
+ZAR,Vanilla Curve Spread,RABO,20000000.0,2Y_5Y,
+ZAR,Vanilla Curve Spread,RABO,400000.0,2Y_10Y,
+ZAR,Vanilla Curve Spread,RABO,1000000.0,2Y_10Y,
+ZAR,Vanilla Curve Spread,RABO,2000000.0,2Y_10Y,
+ZAR,Vanilla Curve Spread,RABO,4000000.0,2Y_10Y,
+ZAR,Vanilla Curve Spread,RABO,10000000.0,2Y_10Y,
+ZAR,Vanilla Curve Spread,RABO,20000000.0,2Y_10Y,
+ZAR,Vanilla Curve Spread,RABO,400000.0,5Y_10Y,
+ZAR,Vanilla Curve Spread,RABO,1000000.0,5Y_10Y,
+ZAR,Vanilla Curve Spread,RABO,2000000.0,5Y_10Y,
+ZAR,Vanilla Curve Spread,RABO,4000000.0,5Y_10Y,
+ZAR,Vanilla Curve Spread,RABO,10000000.0,5Y_10Y,
+ZAR,Vanilla Curve Spread,RABO,20000000.0,5Y_10Y,
+ZAR,Vanilla Curve Spread,Nomura,400000.0,1Y_2Y,
+ZAR,Vanilla Curve Spread,Nomura,1000000.0,1Y_2Y,
+ZAR,Vanilla Curve Spread,Nomura,2000000.0,1Y_2Y,
+ZAR,Vanilla Curve Spread,Nomura,4000000.0,1Y_2Y,
+ZAR,Vanilla Curve Spread,Nomura,10000000.0,1Y_2Y,
+ZAR,Vanilla Curve Spread,Nomura,20000000.0,1Y_2Y,
+ZAR,Vanilla Curve Spread,Nomura,400000.0,1Y_5Y,
+ZAR,Vanilla Curve Spread,Nomura,1000000.0,1Y_5Y,
+ZAR,Vanilla Curve Spread,Nomura,2000000.0,1Y_5Y,
+ZAR,Vanilla Curve Spread,Nomura,4000000.0,1Y_5Y,
+ZAR,Vanilla Curve Spread,Nomura,10000000.0,1Y_5Y,
+ZAR,Vanilla Curve Spread,Nomura,20000000.0,1Y_5Y,
+ZAR,Vanilla Curve Spread,Nomura,400000.0,1Y_10Y,
+ZAR,Vanilla Curve Spread,Nomura,1000000.0,1Y_10Y,
+ZAR,Vanilla Curve Spread,Nomura,2000000.0,1Y_10Y,
+ZAR,Vanilla Curve Spread,Nomura,4000000.0,1Y_10Y,
+ZAR,Vanilla Curve Spread,Nomura,10000000.0,1Y_10Y,
+ZAR,Vanilla Curve Spread,Nomura,20000000.0,1Y_10Y,
+ZAR,Vanilla Curve Spread,Nomura,400000.0,2Y_5Y,
+ZAR,Vanilla Curve Spread,Nomura,1000000.0,2Y_5Y,
+ZAR,Vanilla Curve Spread,Nomura,2000000.0,2Y_5Y,
+ZAR,Vanilla Curve Spread,Nomura,4000000.0,2Y_5Y,
+ZAR,Vanilla Curve Spread,Nomura,10000000.0,2Y_5Y,
+ZAR,Vanilla Curve Spread,Nomura,20000000.0,2Y_5Y,
+ZAR,Vanilla Curve Spread,Nomura,400000.0,2Y_10Y,
+ZAR,Vanilla Curve Spread,Nomura,1000000.0,2Y_10Y,
+ZAR,Vanilla Curve Spread,Nomura,2000000.0,2Y_10Y,
+ZAR,Vanilla Curve Spread,Nomura,4000000.0,2Y_10Y,
+ZAR,Vanilla Curve Spread,Nomura,10000000.0,2Y_10Y,
+ZAR,Vanilla Curve Spread,Nomura,20000000.0,2Y_10Y,
+ZAR,Vanilla Curve Spread,Nomura,400000.0,5Y_10Y,
+ZAR,Vanilla Curve Spread,Nomura,1000000.0,5Y_10Y,
+ZAR,Vanilla Curve Spread,Nomura,2000000.0,5Y_10Y,
+ZAR,Vanilla Curve Spread,Nomura,4000000.0,5Y_10Y,
+ZAR,Vanilla Curve Spread,Nomura,10000000.0,5Y_10Y,
+ZAR,Vanilla Curve Spread,Nomura,20000000.0,5Y_10Y,
+ZAR,Vanilla Curve Spread,UBS,400000.0,1Y_2Y,
+ZAR,Vanilla Curve Spread,UBS,1000000.0,1Y_2Y,
+ZAR,Vanilla Curve Spread,UBS,2000000.0,1Y_2Y,
+ZAR,Vanilla Curve Spread,UBS,4000000.0,1Y_2Y,
+ZAR,Vanilla Curve Spread,UBS,10000000.0,1Y_2Y,
+ZAR,Vanilla Curve Spread,UBS,20000000.0,1Y_2Y,
+ZAR,Vanilla Curve Spread,UBS,400000.0,1Y_5Y,
+ZAR,Vanilla Curve Spread,UBS,1000000.0,1Y_5Y,
+ZAR,Vanilla Curve Spread,UBS,2000000.0,1Y_5Y,
+ZAR,Vanilla Curve Spread,UBS,4000000.0,1Y_5Y,
+ZAR,Vanilla Curve Spread,UBS,10000000.0,1Y_5Y,
+ZAR,Vanilla Curve Spread,UBS,20000000.0,1Y_5Y,
+ZAR,Vanilla Curve Spread,UBS,400000.0,1Y_10Y,
+ZAR,Vanilla Curve Spread,UBS,1000000.0,1Y_10Y,
+ZAR,Vanilla Curve Spread,UBS,2000000.0,1Y_10Y,
+ZAR,Vanilla Curve Spread,UBS,4000000.0,1Y_10Y,
+ZAR,Vanilla Curve Spread,UBS,10000000.0,1Y_10Y,
+ZAR,Vanilla Curve Spread,UBS,20000000.0,1Y_10Y,
+ZAR,Vanilla Curve Spread,UBS,400000.0,2Y_5Y,
+ZAR,Vanilla Curve Spread,UBS,1000000.0,2Y_5Y,
+ZAR,Vanilla Curve Spread,UBS,2000000.0,2Y_5Y,
+ZAR,Vanilla Curve Spread,UBS,4000000.0,2Y_5Y,
+ZAR,Vanilla Curve Spread,UBS,10000000.0,2Y_5Y,
+ZAR,Vanilla Curve Spread,UBS,20000000.0,2Y_5Y,
+ZAR,Vanilla Curve Spread,UBS,400000.0,2Y_10Y,
+ZAR,Vanilla Curve Spread,UBS,1000000.0,2Y_10Y,
+ZAR,Vanilla Curve Spread,UBS,2000000.0,2Y_10Y,
+ZAR,Vanilla Curve Spread,UBS,4000000.0,2Y_10Y,
+ZAR,Vanilla Curve Spread,UBS,10000000.0,2Y_10Y,
+ZAR,Vanilla Curve Spread,UBS,20000000.0,2Y_10Y,
+ZAR,Vanilla Curve Spread,UBS,400000.0,5Y_10Y,
+ZAR,Vanilla Curve Spread,UBS,1000000.0,5Y_10Y,
+ZAR,Vanilla Curve Spread,UBS,2000000.0,5Y_10Y,
+ZAR,Vanilla Curve Spread,UBS,4000000.0,5Y_10Y,
+ZAR,Vanilla Curve Spread,UBS,10000000.0,5Y_10Y,
+ZAR,Vanilla Curve Spread,UBS,20000000.0,5Y_10Y,
+ZAR,Vanilla Curve Spread,BMO,400000.0,1Y_2Y,
+ZAR,Vanilla Curve Spread,BMO,1000000.0,1Y_2Y,
+ZAR,Vanilla Curve Spread,BMO,2000000.0,1Y_2Y,
+ZAR,Vanilla Curve Spread,BMO,4000000.0,1Y_2Y,
+ZAR,Vanilla Curve Spread,BMO,10000000.0,1Y_2Y,
+ZAR,Vanilla Curve Spread,BMO,20000000.0,1Y_2Y,
+ZAR,Vanilla Curve Spread,BMO,400000.0,1Y_5Y,
+ZAR,Vanilla Curve Spread,BMO,1000000.0,1Y_5Y,
+ZAR,Vanilla Curve Spread,BMO,2000000.0,1Y_5Y,
+ZAR,Vanilla Curve Spread,BMO,4000000.0,1Y_5Y,
+ZAR,Vanilla Curve Spread,BMO,10000000.0,1Y_5Y,
+ZAR,Vanilla Curve Spread,BMO,20000000.0,1Y_5Y,
+ZAR,Vanilla Curve Spread,BMO,400000.0,1Y_10Y,
+ZAR,Vanilla Curve Spread,BMO,1000000.0,1Y_10Y,
+ZAR,Vanilla Curve Spread,BMO,2000000.0,1Y_10Y,
+ZAR,Vanilla Curve Spread,BMO,4000000.0,1Y_10Y,
+ZAR,Vanilla Curve Spread,BMO,10000000.0,1Y_10Y,
+ZAR,Vanilla Curve Spread,BMO,20000000.0,1Y_10Y,
+ZAR,Vanilla Curve Spread,BMO,400000.0,2Y_5Y,
+ZAR,Vanilla Curve Spread,BMO,1000000.0,2Y_5Y,
+ZAR,Vanilla Curve Spread,BMO,2000000.0,2Y_5Y,
+ZAR,Vanilla Curve Spread,BMO,4000000.0,2Y_5Y,
+ZAR,Vanilla Curve Spread,BMO,10000000.0,2Y_5Y,
+ZAR,Vanilla Curve Spread,BMO,20000000.0,2Y_5Y,
+ZAR,Vanilla Curve Spread,BMO,400000.0,2Y_10Y,
+ZAR,Vanilla Curve Spread,BMO,1000000.0,2Y_10Y,
+ZAR,Vanilla Curve Spread,BMO,2000000.0,2Y_10Y,
+ZAR,Vanilla Curve Spread,BMO,4000000.0,2Y_10Y,
+ZAR,Vanilla Curve Spread,BMO,10000000.0,2Y_10Y,
+ZAR,Vanilla Curve Spread,BMO,20000000.0,2Y_10Y,
+ZAR,Vanilla Curve Spread,BMO,400000.0,5Y_10Y,
+ZAR,Vanilla Curve Spread,BMO,1000000.0,5Y_10Y,
+ZAR,Vanilla Curve Spread,BMO,2000000.0,5Y_10Y,
+ZAR,Vanilla Curve Spread,BMO,4000000.0,5Y_10Y,
+ZAR,Vanilla Curve Spread,BMO,10000000.0,5Y_10Y,
+ZAR,Vanilla Curve Spread,BMO,20000000.0,5Y_10Y,
+ZAR,Vanilla Curve Spread,TD,400000.0,1Y_2Y,
+ZAR,Vanilla Curve Spread,TD,1000000.0,1Y_2Y,
+ZAR,Vanilla Curve Spread,TD,2000000.0,1Y_2Y,
+ZAR,Vanilla Curve Spread,TD,4000000.0,1Y_2Y,
+ZAR,Vanilla Curve Spread,TD,10000000.0,1Y_2Y,
+ZAR,Vanilla Curve Spread,TD,20000000.0,1Y_2Y,
+ZAR,Vanilla Curve Spread,TD,400000.0,1Y_5Y,
+ZAR,Vanilla Curve Spread,TD,1000000.0,1Y_5Y,
+ZAR,Vanilla Curve Spread,TD,2000000.0,1Y_5Y,
+ZAR,Vanilla Curve Spread,TD,4000000.0,1Y_5Y,
+ZAR,Vanilla Curve Spread,TD,10000000.0,1Y_5Y,
+ZAR,Vanilla Curve Spread,TD,20000000.0,1Y_5Y,
+ZAR,Vanilla Curve Spread,TD,400000.0,1Y_10Y,
+ZAR,Vanilla Curve Spread,TD,1000000.0,1Y_10Y,
+ZAR,Vanilla Curve Spread,TD,2000000.0,1Y_10Y,
+ZAR,Vanilla Curve Spread,TD,4000000.0,1Y_10Y,
+ZAR,Vanilla Curve Spread,TD,10000000.0,1Y_10Y,
+ZAR,Vanilla Curve Spread,TD,20000000.0,1Y_10Y,
+ZAR,Vanilla Curve Spread,TD,400000.0,2Y_5Y,
+ZAR,Vanilla Curve Spread,TD,1000000.0,2Y_5Y,
+ZAR,Vanilla Curve Spread,TD,2000000.0,2Y_5Y,
+ZAR,Vanilla Curve Spread,TD,4000000.0,2Y_5Y,
+ZAR,Vanilla Curve Spread,TD,10000000.0,2Y_5Y,
+ZAR,Vanilla Curve Spread,TD,20000000.0,2Y_5Y,
+ZAR,Vanilla Curve Spread,TD,400000.0,2Y_10Y,
+ZAR,Vanilla Curve Spread,TD,1000000.0,2Y_10Y,
+ZAR,Vanilla Curve Spread,TD,2000000.0,2Y_10Y,
+ZAR,Vanilla Curve Spread,TD,4000000.0,2Y_10Y,
+ZAR,Vanilla Curve Spread,TD,10000000.0,2Y_10Y,
+ZAR,Vanilla Curve Spread,TD,20000000.0,2Y_10Y,
+ZAR,Vanilla Curve Spread,TD,400000.0,5Y_10Y,
+ZAR,Vanilla Curve Spread,TD,1000000.0,5Y_10Y,
+ZAR,Vanilla Curve Spread,TD,2000000.0,5Y_10Y,
+ZAR,Vanilla Curve Spread,TD,4000000.0,5Y_10Y,
+ZAR,Vanilla Curve Spread,TD,10000000.0,5Y_10Y,
+ZAR,Vanilla Curve Spread,TD,20000000.0,5Y_10Y,
+ZAR,Vanilla Curve Spread,Credit Suisse,400000.0,1Y_2Y,
+ZAR,Vanilla Curve Spread,Credit Suisse,1000000.0,1Y_2Y,
+ZAR,Vanilla Curve Spread,Credit Suisse,2000000.0,1Y_2Y,
+ZAR,Vanilla Curve Spread,Credit Suisse,4000000.0,1Y_2Y,
+ZAR,Vanilla Curve Spread,Credit Suisse,10000000.0,1Y_2Y,
+ZAR,Vanilla Curve Spread,Credit Suisse,20000000.0,1Y_2Y,
+ZAR,Vanilla Curve Spread,Credit Suisse,400000.0,1Y_5Y,
+ZAR,Vanilla Curve Spread,Credit Suisse,1000000.0,1Y_5Y,
+ZAR,Vanilla Curve Spread,Credit Suisse,2000000.0,1Y_5Y,
+ZAR,Vanilla Curve Spread,Credit Suisse,4000000.0,1Y_5Y,
+ZAR,Vanilla Curve Spread,Credit Suisse,10000000.0,1Y_5Y,
+ZAR,Vanilla Curve Spread,Credit Suisse,20000000.0,1Y_5Y,
+ZAR,Vanilla Curve Spread,Credit Suisse,400000.0,1Y_10Y,
+ZAR,Vanilla Curve Spread,Credit Suisse,1000000.0,1Y_10Y,
+ZAR,Vanilla Curve Spread,Credit Suisse,2000000.0,1Y_10Y,
+ZAR,Vanilla Curve Spread,Credit Suisse,4000000.0,1Y_10Y,
+ZAR,Vanilla Curve Spread,Credit Suisse,10000000.0,1Y_10Y,
+ZAR,Vanilla Curve Spread,Credit Suisse,20000000.0,1Y_10Y,
+ZAR,Vanilla Curve Spread,Credit Suisse,400000.0,2Y_5Y,
+ZAR,Vanilla Curve Spread,Credit Suisse,1000000.0,2Y_5Y,
+ZAR,Vanilla Curve Spread,Credit Suisse,2000000.0,2Y_5Y,
+ZAR,Vanilla Curve Spread,Credit Suisse,4000000.0,2Y_5Y,
+ZAR,Vanilla Curve Spread,Credit Suisse,10000000.0,2Y_5Y,
+ZAR,Vanilla Curve Spread,Credit Suisse,20000000.0,2Y_5Y,
+ZAR,Vanilla Curve Spread,Credit Suisse,400000.0,2Y_10Y,
+ZAR,Vanilla Curve Spread,Credit Suisse,1000000.0,2Y_10Y,
+ZAR,Vanilla Curve Spread,Credit Suisse,2000000.0,2Y_10Y,
+ZAR,Vanilla Curve Spread,Credit Suisse,4000000.0,2Y_10Y,
+ZAR,Vanilla Curve Spread,Credit Suisse,10000000.0,2Y_10Y,
+ZAR,Vanilla Curve Spread,Credit Suisse,20000000.0,2Y_10Y,
+ZAR,Vanilla Curve Spread,Credit Suisse,400000.0,5Y_10Y,
+ZAR,Vanilla Curve Spread,Credit Suisse,1000000.0,5Y_10Y,
+ZAR,Vanilla Curve Spread,Credit Suisse,2000000.0,5Y_10Y,
+ZAR,Vanilla Curve Spread,Credit Suisse,4000000.0,5Y_10Y,
+ZAR,Vanilla Curve Spread,Credit Suisse,10000000.0,5Y_10Y,
+ZAR,Vanilla Curve Spread,Credit Suisse,20000000.0,5Y_10Y,
+ZAR,Vanilla Curve Spread,HSBC,400000.0,1Y_2Y,4.0
+ZAR,Vanilla Curve Spread,HSBC,1000000.0,1Y_2Y,5.0
+ZAR,Vanilla Curve Spread,HSBC,2000000.0,1Y_2Y,7.0
+ZAR,Vanilla Curve Spread,HSBC,4000000.0,1Y_2Y,10.0
+ZAR,Vanilla Curve Spread,HSBC,10000000.0,1Y_2Y,15.0
+ZAR,Vanilla Curve Spread,HSBC,20000000.0,1Y_2Y,20.0
+ZAR,Vanilla Curve Spread,HSBC,400000.0,1Y_5Y,4.0
+ZAR,Vanilla Curve Spread,HSBC,1000000.0,1Y_5Y,5.0
+ZAR,Vanilla Curve Spread,HSBC,2000000.0,1Y_5Y,7.0
+ZAR,Vanilla Curve Spread,HSBC,4000000.0,1Y_5Y,10.0
+ZAR,Vanilla Curve Spread,HSBC,10000000.0,1Y_5Y,15.0
+ZAR,Vanilla Curve Spread,HSBC,20000000.0,1Y_5Y,20.0
+ZAR,Vanilla Curve Spread,HSBC,400000.0,1Y_10Y,4.0
+ZAR,Vanilla Curve Spread,HSBC,1000000.0,1Y_10Y,5.0
+ZAR,Vanilla Curve Spread,HSBC,2000000.0,1Y_10Y,7.0
+ZAR,Vanilla Curve Spread,HSBC,4000000.0,1Y_10Y,10.0
+ZAR,Vanilla Curve Spread,HSBC,10000000.0,1Y_10Y,15.0
+ZAR,Vanilla Curve Spread,HSBC,20000000.0,1Y_10Y,20.0
+ZAR,Vanilla Curve Spread,HSBC,400000.0,2Y_5Y,4.0
+ZAR,Vanilla Curve Spread,HSBC,1000000.0,2Y_5Y,5.0
+ZAR,Vanilla Curve Spread,HSBC,2000000.0,2Y_5Y,7.0
+ZAR,Vanilla Curve Spread,HSBC,4000000.0,2Y_5Y,10.0
+ZAR,Vanilla Curve Spread,HSBC,10000000.0,2Y_5Y,15.0
+ZAR,Vanilla Curve Spread,HSBC,20000000.0,2Y_5Y,20.0
+ZAR,Vanilla Curve Spread,HSBC,400000.0,2Y_10Y,4.0
+ZAR,Vanilla Curve Spread,HSBC,1000000.0,2Y_10Y,5.0
+ZAR,Vanilla Curve Spread,HSBC,2000000.0,2Y_10Y,7.0
+ZAR,Vanilla Curve Spread,HSBC,4000000.0,2Y_10Y,10.0
+ZAR,Vanilla Curve Spread,HSBC,10000000.0,2Y_10Y,15.0
+ZAR,Vanilla Curve Spread,HSBC,20000000.0,2Y_10Y,20.0
+ZAR,Vanilla Curve Spread,HSBC,400000.0,5Y_10Y,4.0
+ZAR,Vanilla Curve Spread,HSBC,1000000.0,5Y_10Y,5.0
+ZAR,Vanilla Curve Spread,HSBC,2000000.0,5Y_10Y,7.0
+ZAR,Vanilla Curve Spread,HSBC,4000000.0,5Y_10Y,10.0
+ZAR,Vanilla Curve Spread,HSBC,10000000.0,5Y_10Y,15.0
+ZAR,Vanilla Curve Spread,HSBC,20000000.0,5Y_10Y,20.0
+ZAR,Vanilla Curve Spread,Goldman,400000.0,1Y_2Y,3.0
+ZAR,Vanilla Curve Spread,Goldman,1000000.0,1Y_2Y,4.0
+ZAR,Vanilla Curve Spread,Goldman,2000000.0,1Y_2Y,8.0
+ZAR,Vanilla Curve Spread,Goldman,4000000.0,1Y_2Y,12.0
+ZAR,Vanilla Curve Spread,Goldman,10000000.0,1Y_2Y,20.0
+ZAR,Vanilla Curve Spread,Goldman,20000000.0,1Y_2Y,40.0
+ZAR,Vanilla Curve Spread,Goldman,400000.0,1Y_5Y,3.0
+ZAR,Vanilla Curve Spread,Goldman,1000000.0,1Y_5Y,4.0
+ZAR,Vanilla Curve Spread,Goldman,2000000.0,1Y_5Y,8.0
+ZAR,Vanilla Curve Spread,Goldman,4000000.0,1Y_5Y,12.0
+ZAR,Vanilla Curve Spread,Goldman,10000000.0,1Y_5Y,20.0
+ZAR,Vanilla Curve Spread,Goldman,20000000.0,1Y_5Y,40.0
+ZAR,Vanilla Curve Spread,Goldman,400000.0,1Y_10Y,3.0
+ZAR,Vanilla Curve Spread,Goldman,1000000.0,1Y_10Y,4.0
+ZAR,Vanilla Curve Spread,Goldman,2000000.0,1Y_10Y,8.0
+ZAR,Vanilla Curve Spread,Goldman,4000000.0,1Y_10Y,12.0
+ZAR,Vanilla Curve Spread,Goldman,10000000.0,1Y_10Y,20.0
+ZAR,Vanilla Curve Spread,Goldman,20000000.0,1Y_10Y,40.0
+ZAR,Vanilla Curve Spread,Goldman,400000.0,2Y_5Y,3.0
+ZAR,Vanilla Curve Spread,Goldman,1000000.0,2Y_5Y,4.0
+ZAR,Vanilla Curve Spread,Goldman,2000000.0,2Y_5Y,8.0
+ZAR,Vanilla Curve Spread,Goldman,4000000.0,2Y_5Y,12.0
+ZAR,Vanilla Curve Spread,Goldman,10000000.0,2Y_5Y,20.0
+ZAR,Vanilla Curve Spread,Goldman,20000000.0,2Y_5Y,40.0
+ZAR,Vanilla Curve Spread,Goldman,400000.0,2Y_10Y,3.0
+ZAR,Vanilla Curve Spread,Goldman,1000000.0,2Y_10Y,4.0
+ZAR,Vanilla Curve Spread,Goldman,2000000.0,2Y_10Y,8.0
+ZAR,Vanilla Curve Spread,Goldman,4000000.0,2Y_10Y,12.0
+ZAR,Vanilla Curve Spread,Goldman,10000000.0,2Y_10Y,20.0
+ZAR,Vanilla Curve Spread,Goldman,20000000.0,2Y_10Y,40.0
+ZAR,Vanilla Curve Spread,Goldman,400000.0,5Y_10Y,3.0
+ZAR,Vanilla Curve Spread,Goldman,1000000.0,5Y_10Y,4.0
+ZAR,Vanilla Curve Spread,Goldman,2000000.0,5Y_10Y,8.0
+ZAR,Vanilla Curve Spread,Goldman,4000000.0,5Y_10Y,12.0
+ZAR,Vanilla Curve Spread,Goldman,10000000.0,5Y_10Y,20.0
+ZAR,Vanilla Curve Spread,Goldman,20000000.0,5Y_10Y,40.0
+ZAR,Vanilla Curve Spread,Wells Fargo,400000.0,1Y_2Y,1.58203125
+ZAR,Vanilla Curve Spread,Wells Fargo,1000000.0,1Y_2Y,2.109375
+ZAR,Vanilla Curve Spread,Wells Fargo,2000000.0,1Y_2Y,3.09375
+ZAR,Vanilla Curve Spread,Wells Fargo,4000000.0,1Y_2Y,4.640625
+ZAR,Vanilla Curve Spread,Wells Fargo,10000000.0,1Y_2Y,6.1875
+ZAR,Vanilla Curve Spread,Wells Fargo,20000000.0,1Y_2Y,9.0234375
+ZAR,Vanilla Curve Spread,Wells Fargo,400000.0,1Y_5Y,2.109375
+ZAR,Vanilla Curve Spread,Wells Fargo,1000000.0,1Y_5Y,2.8125
+ZAR,Vanilla Curve Spread,Wells Fargo,2000000.0,1Y_5Y,5.2734375
+ZAR,Vanilla Curve Spread,Wells Fargo,4000000.0,1Y_5Y,7.03125
+ZAR,Vanilla Curve Spread,Wells Fargo,10000000.0,1Y_5Y,10.546875
+ZAR,Vanilla Curve Spread,Wells Fargo,20000000.0,1Y_5Y,16.11328125
+ZAR,Vanilla Curve Spread,Wells Fargo,400000.0,1Y_10Y,2.109375
+ZAR,Vanilla Curve Spread,Wells Fargo,1000000.0,1Y_10Y,2.8125
+ZAR,Vanilla Curve Spread,Wells Fargo,2000000.0,1Y_10Y,5.2734375
+ZAR,Vanilla Curve Spread,Wells Fargo,4000000.0,1Y_10Y,8.7890625
+ZAR,Vanilla Curve Spread,Wells Fargo,10000000.0,1Y_10Y,14.0625
+ZAR,Vanilla Curve Spread,Wells Fargo,20000000.0,1Y_10Y,19.04296875
+ZAR,Vanilla Curve Spread,Wells Fargo,400000.0,2Y_5Y,1.58203125
+ZAR,Vanilla Curve Spread,Wells Fargo,1000000.0,2Y_5Y,2.109375
+ZAR,Vanilla Curve Spread,Wells Fargo,2000000.0,2Y_5Y,4.39453125
+ZAR,Vanilla Curve Spread,Wells Fargo,4000000.0,2Y_5Y,6.15234375
+ZAR,Vanilla Curve Spread,Wells Fargo,10000000.0,2Y_5Y,8.7890625
+ZAR,Vanilla Curve Spread,Wells Fargo,20000000.0,2Y_5Y,14.6484375
+ZAR,Vanilla Curve Spread,Wells Fargo,400000.0,2Y_10Y,2.109375
+ZAR,Vanilla Curve Spread,Wells Fargo,1000000.0,2Y_10Y,2.8125
+ZAR,Vanilla Curve Spread,Wells Fargo,2000000.0,2Y_10Y,5.2734375
+ZAR,Vanilla Curve Spread,Wells Fargo,4000000.0,2Y_10Y,7.03125
+ZAR,Vanilla Curve Spread,Wells Fargo,10000000.0,2Y_10Y,12.3046875
+ZAR,Vanilla Curve Spread,Wells Fargo,20000000.0,2Y_10Y,17.578125
+ZAR,Vanilla Curve Spread,Wells Fargo,400000.0,5Y_10Y,1.58203125
+ZAR,Vanilla Curve Spread,Wells Fargo,1000000.0,5Y_10Y,2.109375
+ZAR,Vanilla Curve Spread,Wells Fargo,2000000.0,5Y_10Y,4.39453125
+ZAR,Vanilla Curve Spread,Wells Fargo,4000000.0,5Y_10Y,6.15234375
+ZAR,Vanilla Curve Spread,Wells Fargo,10000000.0,5Y_10Y,10.546875
+ZAR,Vanilla Curve Spread,Wells Fargo,20000000.0,5Y_10Y,16.11328125
+ZAR,Vanilla Curve Spread,Citi,400000.0,1Y_2Y,2.0
+ZAR,Vanilla Curve Spread,Citi,1000000.0,1Y_2Y,4.0
+ZAR,Vanilla Curve Spread,Citi,2000000.0,1Y_2Y,6.0
+ZAR,Vanilla Curve Spread,Citi,4000000.0,1Y_2Y,8.0
+ZAR,Vanilla Curve Spread,Citi,10000000.0,1Y_2Y,20.0
+ZAR,Vanilla Curve Spread,Citi,20000000.0,1Y_2Y,35.0
+ZAR,Vanilla Curve Spread,Citi,400000.0,1Y_5Y,3.0
+ZAR,Vanilla Curve Spread,Citi,1000000.0,1Y_5Y,6.0
+ZAR,Vanilla Curve Spread,Citi,2000000.0,1Y_5Y,10.0
+ZAR,Vanilla Curve Spread,Citi,4000000.0,1Y_5Y,15.0
+ZAR,Vanilla Curve Spread,Citi,10000000.0,1Y_5Y,20.0
+ZAR,Vanilla Curve Spread,Citi,20000000.0,1Y_5Y,35.0
+ZAR,Vanilla Curve Spread,Citi,400000.0,1Y_10Y,3.0
+ZAR,Vanilla Curve Spread,Citi,1000000.0,1Y_10Y,7.0
+ZAR,Vanilla Curve Spread,Citi,2000000.0,1Y_10Y,12.0
+ZAR,Vanilla Curve Spread,Citi,4000000.0,1Y_10Y,20.0
+ZAR,Vanilla Curve Spread,Citi,10000000.0,1Y_10Y,30.0
+ZAR,Vanilla Curve Spread,Citi,20000000.0,1Y_10Y,40.0
+ZAR,Vanilla Curve Spread,Citi,400000.0,2Y_5Y,2.0
+ZAR,Vanilla Curve Spread,Citi,1000000.0,2Y_5Y,4.0
+ZAR,Vanilla Curve Spread,Citi,2000000.0,2Y_5Y,6.0
+ZAR,Vanilla Curve Spread,Citi,4000000.0,2Y_5Y,8.0
+ZAR,Vanilla Curve Spread,Citi,10000000.0,2Y_5Y,20.0
+ZAR,Vanilla Curve Spread,Citi,20000000.0,2Y_5Y,35.0
+ZAR,Vanilla Curve Spread,Citi,400000.0,2Y_10Y,3.0
+ZAR,Vanilla Curve Spread,Citi,1000000.0,2Y_10Y,4.0
+ZAR,Vanilla Curve Spread,Citi,2000000.0,2Y_10Y,10.0
+ZAR,Vanilla Curve Spread,Citi,4000000.0,2Y_10Y,20.0
+ZAR,Vanilla Curve Spread,Citi,10000000.0,2Y_10Y,30.0
+ZAR,Vanilla Curve Spread,Citi,20000000.0,2Y_10Y,35.0
+ZAR,Vanilla Curve Spread,Citi,400000.0,5Y_10Y,2.0
+ZAR,Vanilla Curve Spread,Citi,1000000.0,5Y_10Y,3.0
+ZAR,Vanilla Curve Spread,Citi,2000000.0,5Y_10Y,5.0
+ZAR,Vanilla Curve Spread,Citi,4000000.0,5Y_10Y,8.0
+ZAR,Vanilla Curve Spread,Citi,10000000.0,5Y_10Y,15.0
+ZAR,Vanilla Curve Spread,Citi,20000000.0,5Y_10Y,30.0
+ZAR,Vanilla Curve Spread,RBS,400000.0,1Y_2Y,
+ZAR,Vanilla Curve Spread,RBS,1000000.0,1Y_2Y,
+ZAR,Vanilla Curve Spread,RBS,2000000.0,1Y_2Y,
+ZAR,Vanilla Curve Spread,RBS,4000000.0,1Y_2Y,
+ZAR,Vanilla Curve Spread,RBS,10000000.0,1Y_2Y,
+ZAR,Vanilla Curve Spread,RBS,20000000.0,1Y_2Y,
+ZAR,Vanilla Curve Spread,RBS,400000.0,1Y_5Y,
+ZAR,Vanilla Curve Spread,RBS,1000000.0,1Y_5Y,
+ZAR,Vanilla Curve Spread,RBS,2000000.0,1Y_5Y,
+ZAR,Vanilla Curve Spread,RBS,4000000.0,1Y_5Y,
+ZAR,Vanilla Curve Spread,RBS,10000000.0,1Y_5Y,
+ZAR,Vanilla Curve Spread,RBS,20000000.0,1Y_5Y,
+ZAR,Vanilla Curve Spread,RBS,400000.0,1Y_10Y,
+ZAR,Vanilla Curve Spread,RBS,1000000.0,1Y_10Y,
+ZAR,Vanilla Curve Spread,RBS,2000000.0,1Y_10Y,
+ZAR,Vanilla Curve Spread,RBS,4000000.0,1Y_10Y,
+ZAR,Vanilla Curve Spread,RBS,10000000.0,1Y_10Y,
+ZAR,Vanilla Curve Spread,RBS,20000000.0,1Y_10Y,
+ZAR,Vanilla Curve Spread,RBS,400000.0,2Y_5Y,
+ZAR,Vanilla Curve Spread,RBS,1000000.0,2Y_5Y,
+ZAR,Vanilla Curve Spread,RBS,2000000.0,2Y_5Y,
+ZAR,Vanilla Curve Spread,RBS,4000000.0,2Y_5Y,
+ZAR,Vanilla Curve Spread,RBS,10000000.0,2Y_5Y,
+ZAR,Vanilla Curve Spread,RBS,20000000.0,2Y_5Y,
+ZAR,Vanilla Curve Spread,RBS,400000.0,2Y_10Y,
+ZAR,Vanilla Curve Spread,RBS,1000000.0,2Y_10Y,
+ZAR,Vanilla Curve Spread,RBS,2000000.0,2Y_10Y,
+ZAR,Vanilla Curve Spread,RBS,4000000.0,2Y_10Y,
+ZAR,Vanilla Curve Spread,RBS,10000000.0,2Y_10Y,
+ZAR,Vanilla Curve Spread,RBS,20000000.0,2Y_10Y,
+ZAR,Vanilla Curve Spread,RBS,400000.0,5Y_10Y,
+ZAR,Vanilla Curve Spread,RBS,1000000.0,5Y_10Y,
+ZAR,Vanilla Curve Spread,RBS,2000000.0,5Y_10Y,
+ZAR,Vanilla Curve Spread,RBS,4000000.0,5Y_10Y,
+ZAR,Vanilla Curve Spread,RBS,10000000.0,5Y_10Y,
+ZAR,Vanilla Curve Spread,RBS,20000000.0,5Y_10Y,
+ZAR,Vanilla Curve Spread,BAML,400000.0,1Y_2Y,0.6
+ZAR,Vanilla Curve Spread,BAML,1000000.0,1Y_2Y,1.2
+ZAR,Vanilla Curve Spread,BAML,2000000.0,1Y_2Y,2.1
+ZAR,Vanilla Curve Spread,BAML,4000000.0,1Y_2Y,4.5
+ZAR,Vanilla Curve Spread,BAML,10000000.0,1Y_2Y,7.5
+ZAR,Vanilla Curve Spread,BAML,20000000.0,1Y_2Y,15.0
+ZAR,Vanilla Curve Spread,BAML,400000.0,1Y_5Y,1.0
+ZAR,Vanilla Curve Spread,BAML,1000000.0,1Y_5Y,2.5
+ZAR,Vanilla Curve Spread,BAML,2000000.0,1Y_5Y,5.0
+ZAR,Vanilla Curve Spread,BAML,4000000.0,1Y_5Y,10.0
+ZAR,Vanilla Curve Spread,BAML,10000000.0,1Y_5Y,15.0
+ZAR,Vanilla Curve Spread,BAML,20000000.0,1Y_5Y,30.0
+ZAR,Vanilla Curve Spread,BAML,400000.0,1Y_10Y,1.6
+ZAR,Vanilla Curve Spread,BAML,1000000.0,1Y_10Y,4.0
+ZAR,Vanilla Curve Spread,BAML,2000000.0,1Y_10Y,8.0
+ZAR,Vanilla Curve Spread,BAML,4000000.0,1Y_10Y,16.0
+ZAR,Vanilla Curve Spread,BAML,10000000.0,1Y_10Y,24.0
+ZAR,Vanilla Curve Spread,BAML,20000000.0,1Y_10Y,48.0
+ZAR,Vanilla Curve Spread,BAML,400000.0,2Y_5Y,0.8
+ZAR,Vanilla Curve Spread,BAML,1000000.0,2Y_5Y,2.0
+ZAR,Vanilla Curve Spread,BAML,2000000.0,2Y_5Y,4.0
+ZAR,Vanilla Curve Spread,BAML,4000000.0,2Y_5Y,8.0
+ZAR,Vanilla Curve Spread,BAML,10000000.0,2Y_5Y,12.0
+ZAR,Vanilla Curve Spread,BAML,20000000.0,2Y_5Y,24.0
+ZAR,Vanilla Curve Spread,BAML,400000.0,2Y_10Y,1.4
+ZAR,Vanilla Curve Spread,BAML,1000000.0,2Y_10Y,3.5
+ZAR,Vanilla Curve Spread,BAML,2000000.0,2Y_10Y,7.0
+ZAR,Vanilla Curve Spread,BAML,4000000.0,2Y_10Y,14.0
+ZAR,Vanilla Curve Spread,BAML,10000000.0,2Y_10Y,21.0
+ZAR,Vanilla Curve Spread,BAML,20000000.0,2Y_10Y,42.0
+ZAR,Vanilla Curve Spread,BAML,400000.0,5Y_10Y,0.8
+ZAR,Vanilla Curve Spread,BAML,1000000.0,5Y_10Y,2.0
+ZAR,Vanilla Curve Spread,BAML,2000000.0,5Y_10Y,4.0
+ZAR,Vanilla Curve Spread,BAML,4000000.0,5Y_10Y,8.0
+ZAR,Vanilla Curve Spread,BAML,10000000.0,5Y_10Y,12.0
+ZAR,Vanilla Curve Spread,BAML,20000000.0,5Y_10Y,24.0
+ZAR,Vanilla Curve Spread,Morgan Stanley,400000.0,1Y_2Y,5.0
+ZAR,Vanilla Curve Spread,Morgan Stanley,1000000.0,1Y_2Y,10.0
+ZAR,Vanilla Curve Spread,Morgan Stanley,2000000.0,1Y_2Y,10.0
+ZAR,Vanilla Curve Spread,Morgan Stanley,4000000.0,1Y_2Y,15.0
+ZAR,Vanilla Curve Spread,Morgan Stanley,10000000.0,1Y_2Y,20.0
+ZAR,Vanilla Curve Spread,Morgan Stanley,20000000.0,1Y_2Y,25.0
+ZAR,Vanilla Curve Spread,Morgan Stanley,400000.0,1Y_5Y,8.0
+ZAR,Vanilla Curve Spread,Morgan Stanley,1000000.0,1Y_5Y,10.0
+ZAR,Vanilla Curve Spread,Morgan Stanley,2000000.0,1Y_5Y,15.0
+ZAR,Vanilla Curve Spread,Morgan Stanley,4000000.0,1Y_5Y,20.0
+ZAR,Vanilla Curve Spread,Morgan Stanley,10000000.0,1Y_5Y,25.0
+ZAR,Vanilla Curve Spread,Morgan Stanley,20000000.0,1Y_5Y,30.0
+ZAR,Vanilla Curve Spread,Morgan Stanley,400000.0,1Y_10Y,10.0
+ZAR,Vanilla Curve Spread,Morgan Stanley,1000000.0,1Y_10Y,15.0
+ZAR,Vanilla Curve Spread,Morgan Stanley,2000000.0,1Y_10Y,20.0
+ZAR,Vanilla Curve Spread,Morgan Stanley,4000000.0,1Y_10Y,25.0
+ZAR,Vanilla Curve Spread,Morgan Stanley,10000000.0,1Y_10Y,30.0
+ZAR,Vanilla Curve Spread,Morgan Stanley,20000000.0,1Y_10Y,40.0
+ZAR,Vanilla Curve Spread,Morgan Stanley,400000.0,2Y_5Y,8.0
+ZAR,Vanilla Curve Spread,Morgan Stanley,1000000.0,2Y_5Y,10.0
+ZAR,Vanilla Curve Spread,Morgan Stanley,2000000.0,2Y_5Y,15.0
+ZAR,Vanilla Curve Spread,Morgan Stanley,4000000.0,2Y_5Y,20.0
+ZAR,Vanilla Curve Spread,Morgan Stanley,10000000.0,2Y_5Y,25.0
+ZAR,Vanilla Curve Spread,Morgan Stanley,20000000.0,2Y_5Y,30.0
+ZAR,Vanilla Curve Spread,Morgan Stanley,400000.0,2Y_10Y,8.0
+ZAR,Vanilla Curve Spread,Morgan Stanley,1000000.0,2Y_10Y,10.0
+ZAR,Vanilla Curve Spread,Morgan Stanley,2000000.0,2Y_10Y,15.0
+ZAR,Vanilla Curve Spread,Morgan Stanley,4000000.0,2Y_10Y,20.0
+ZAR,Vanilla Curve Spread,Morgan Stanley,10000000.0,2Y_10Y,25.0
+ZAR,Vanilla Curve Spread,Morgan Stanley,20000000.0,2Y_10Y,30.0
+ZAR,Vanilla Curve Spread,Morgan Stanley,400000.0,5Y_10Y,5.0
+ZAR,Vanilla Curve Spread,Morgan Stanley,1000000.0,5Y_10Y,10.0
+ZAR,Vanilla Curve Spread,Morgan Stanley,2000000.0,5Y_10Y,10.0
+ZAR,Vanilla Curve Spread,Morgan Stanley,4000000.0,5Y_10Y,15.0
+ZAR,Vanilla Curve Spread,Morgan Stanley,10000000.0,5Y_10Y,20.0
+ZAR,Vanilla Curve Spread,Morgan Stanley,20000000.0,5Y_10Y,25.0
+ZAR,Vanilla Curve Spread,Scotia,400000.0,1Y_2Y,
+ZAR,Vanilla Curve Spread,Scotia,1000000.0,1Y_2Y,
+ZAR,Vanilla Curve Spread,Scotia,2000000.0,1Y_2Y,
+ZAR,Vanilla Curve Spread,Scotia,4000000.0,1Y_2Y,
+ZAR,Vanilla Curve Spread,Scotia,10000000.0,1Y_2Y,
+ZAR,Vanilla Curve Spread,Scotia,20000000.0,1Y_2Y,
+ZAR,Vanilla Curve Spread,Scotia,400000.0,1Y_5Y,
+ZAR,Vanilla Curve Spread,Scotia,1000000.0,1Y_5Y,
+ZAR,Vanilla Curve Spread,Scotia,2000000.0,1Y_5Y,
+ZAR,Vanilla Curve Spread,Scotia,4000000.0,1Y_5Y,
+ZAR,Vanilla Curve Spread,Scotia,10000000.0,1Y_5Y,
+ZAR,Vanilla Curve Spread,Scotia,20000000.0,1Y_5Y,
+ZAR,Vanilla Curve Spread,Scotia,400000.0,1Y_10Y,
+ZAR,Vanilla Curve Spread,Scotia,1000000.0,1Y_10Y,
+ZAR,Vanilla Curve Spread,Scotia,2000000.0,1Y_10Y,
+ZAR,Vanilla Curve Spread,Scotia,4000000.0,1Y_10Y,
+ZAR,Vanilla Curve Spread,Scotia,10000000.0,1Y_10Y,
+ZAR,Vanilla Curve Spread,Scotia,20000000.0,1Y_10Y,
+ZAR,Vanilla Curve Spread,Scotia,400000.0,2Y_5Y,
+ZAR,Vanilla Curve Spread,Scotia,1000000.0,2Y_5Y,
+ZAR,Vanilla Curve Spread,Scotia,2000000.0,2Y_5Y,
+ZAR,Vanilla Curve Spread,Scotia,4000000.0,2Y_5Y,
+ZAR,Vanilla Curve Spread,Scotia,10000000.0,2Y_5Y,
+ZAR,Vanilla Curve Spread,Scotia,20000000.0,2Y_5Y,
+ZAR,Vanilla Curve Spread,Scotia,400000.0,2Y_10Y,
+ZAR,Vanilla Curve Spread,Scotia,1000000.0,2Y_10Y,
+ZAR,Vanilla Curve Spread,Scotia,2000000.0,2Y_10Y,
+ZAR,Vanilla Curve Spread,Scotia,4000000.0,2Y_10Y,
+ZAR,Vanilla Curve Spread,Scotia,10000000.0,2Y_10Y,
+ZAR,Vanilla Curve Spread,Scotia,20000000.0,2Y_10Y,
+ZAR,Vanilla Curve Spread,Scotia,400000.0,5Y_10Y,
+ZAR,Vanilla Curve Spread,Scotia,1000000.0,5Y_10Y,
+ZAR,Vanilla Curve Spread,Scotia,2000000.0,5Y_10Y,
+ZAR,Vanilla Curve Spread,Scotia,4000000.0,5Y_10Y,
+ZAR,Vanilla Curve Spread,Scotia,10000000.0,5Y_10Y,
+ZAR,Vanilla Curve Spread,Scotia,20000000.0,5Y_10Y,
+ZAR,Vanilla Curve Spread,JPM,400000.0,1Y_2Y,8.0
+ZAR,Vanilla Curve Spread,JPM,1000000.0,1Y_2Y,16.0
+ZAR,Vanilla Curve Spread,JPM,2000000.0,1Y_2Y,20.0
+ZAR,Vanilla Curve Spread,JPM,4000000.0,1Y_2Y,32.0
+ZAR,Vanilla Curve Spread,JPM,10000000.0,1Y_2Y,60.0
+ZAR,Vanilla Curve Spread,JPM,20000000.0,1Y_2Y,80.0
+ZAR,Vanilla Curve Spread,JPM,400000.0,1Y_5Y,12.0
+ZAR,Vanilla Curve Spread,JPM,1000000.0,1Y_5Y,20.0
+ZAR,Vanilla Curve Spread,JPM,2000000.0,1Y_5Y,24.0
+ZAR,Vanilla Curve Spread,JPM,4000000.0,1Y_5Y,40.0
+ZAR,Vanilla Curve Spread,JPM,10000000.0,1Y_5Y,60.0
+ZAR,Vanilla Curve Spread,JPM,20000000.0,1Y_5Y,80.0
+ZAR,Vanilla Curve Spread,JPM,400000.0,1Y_10Y,12.0
+ZAR,Vanilla Curve Spread,JPM,1000000.0,1Y_10Y,20.0
+ZAR,Vanilla Curve Spread,JPM,2000000.0,1Y_10Y,24.0
+ZAR,Vanilla Curve Spread,JPM,4000000.0,1Y_10Y,40.0
+ZAR,Vanilla Curve Spread,JPM,10000000.0,1Y_10Y,60.0
+ZAR,Vanilla Curve Spread,JPM,20000000.0,1Y_10Y,80.0
+ZAR,Vanilla Curve Spread,JPM,400000.0,2Y_5Y,8.0
+ZAR,Vanilla Curve Spread,JPM,1000000.0,2Y_5Y,16.0
+ZAR,Vanilla Curve Spread,JPM,2000000.0,2Y_5Y,20.0
+ZAR,Vanilla Curve Spread,JPM,4000000.0,2Y_5Y,32.0
+ZAR,Vanilla Curve Spread,JPM,10000000.0,2Y_5Y,60.0
+ZAR,Vanilla Curve Spread,JPM,20000000.0,2Y_5Y,80.0
+ZAR,Vanilla Curve Spread,JPM,400000.0,2Y_10Y,8.0
+ZAR,Vanilla Curve Spread,JPM,1000000.0,2Y_10Y,16.0
+ZAR,Vanilla Curve Spread,JPM,2000000.0,2Y_10Y,20.0
+ZAR,Vanilla Curve Spread,JPM,4000000.0,2Y_10Y,32.0
+ZAR,Vanilla Curve Spread,JPM,10000000.0,2Y_10Y,60.0
+ZAR,Vanilla Curve Spread,JPM,20000000.0,2Y_10Y,80.0
+ZAR,Vanilla Curve Spread,JPM,400000.0,5Y_10Y,8.0
+ZAR,Vanilla Curve Spread,JPM,1000000.0,5Y_10Y,16.0
+ZAR,Vanilla Curve Spread,JPM,2000000.0,5Y_10Y,20.0
+ZAR,Vanilla Curve Spread,JPM,4000000.0,5Y_10Y,32.0
+ZAR,Vanilla Curve Spread,JPM,10000000.0,5Y_10Y,60.0
+ZAR,Vanilla Curve Spread,JPM,20000000.0,5Y_10Y,80.0
+ZAR,Vanilla Curve Spread,SocGen,400000.0,1Y_2Y,2.0
+ZAR,Vanilla Curve Spread,SocGen,1000000.0,1Y_2Y,3.0
+ZAR,Vanilla Curve Spread,SocGen,2000000.0,1Y_2Y,4.0
+ZAR,Vanilla Curve Spread,SocGen,4000000.0,1Y_2Y,5.0
+ZAR,Vanilla Curve Spread,SocGen,10000000.0,1Y_2Y,6.0
+ZAR,Vanilla Curve Spread,SocGen,20000000.0,1Y_2Y,7.0
+ZAR,Vanilla Curve Spread,SocGen,400000.0,1Y_5Y,2.0
+ZAR,Vanilla Curve Spread,SocGen,1000000.0,1Y_5Y,3.0
+ZAR,Vanilla Curve Spread,SocGen,2000000.0,1Y_5Y,4.0
+ZAR,Vanilla Curve Spread,SocGen,4000000.0,1Y_5Y,5.0
+ZAR,Vanilla Curve Spread,SocGen,10000000.0,1Y_5Y,6.0
+ZAR,Vanilla Curve Spread,SocGen,20000000.0,1Y_5Y,7.0
+ZAR,Vanilla Curve Spread,SocGen,400000.0,1Y_10Y,2.0
+ZAR,Vanilla Curve Spread,SocGen,1000000.0,1Y_10Y,3.0
+ZAR,Vanilla Curve Spread,SocGen,2000000.0,1Y_10Y,4.0
+ZAR,Vanilla Curve Spread,SocGen,4000000.0,1Y_10Y,5.0
+ZAR,Vanilla Curve Spread,SocGen,10000000.0,1Y_10Y,6.0
+ZAR,Vanilla Curve Spread,SocGen,20000000.0,1Y_10Y,7.0
+ZAR,Vanilla Curve Spread,SocGen,400000.0,2Y_5Y,2.0
+ZAR,Vanilla Curve Spread,SocGen,1000000.0,2Y_5Y,3.0
+ZAR,Vanilla Curve Spread,SocGen,2000000.0,2Y_5Y,4.0
+ZAR,Vanilla Curve Spread,SocGen,4000000.0,2Y_5Y,5.0
+ZAR,Vanilla Curve Spread,SocGen,10000000.0,2Y_5Y,6.0
+ZAR,Vanilla Curve Spread,SocGen,20000000.0,2Y_5Y,7.0
+ZAR,Vanilla Curve Spread,SocGen,400000.0,2Y_10Y,2.0
+ZAR,Vanilla Curve Spread,SocGen,1000000.0,2Y_10Y,3.0
+ZAR,Vanilla Curve Spread,SocGen,2000000.0,2Y_10Y,4.0
+ZAR,Vanilla Curve Spread,SocGen,4000000.0,2Y_10Y,5.0
+ZAR,Vanilla Curve Spread,SocGen,10000000.0,2Y_10Y,6.0
+ZAR,Vanilla Curve Spread,SocGen,20000000.0,2Y_10Y,7.0
+ZAR,Vanilla Curve Spread,SocGen,400000.0,5Y_10Y,2.0
+ZAR,Vanilla Curve Spread,SocGen,1000000.0,5Y_10Y,3.0
+ZAR,Vanilla Curve Spread,SocGen,2000000.0,5Y_10Y,4.0
+ZAR,Vanilla Curve Spread,SocGen,4000000.0,5Y_10Y,5.0
+ZAR,Vanilla Curve Spread,SocGen,10000000.0,5Y_10Y,6.0
+ZAR,Vanilla Curve Spread,SocGen,20000000.0,5Y_10Y,7.0
+ZAR,Vanilla Curve Spread,Barclays,400000.0,1Y_2Y,3.0
+ZAR,Vanilla Curve Spread,Barclays,1000000.0,1Y_2Y,4.0
+ZAR,Vanilla Curve Spread,Barclays,2000000.0,1Y_2Y,6.0
+ZAR,Vanilla Curve Spread,Barclays,4000000.0,1Y_2Y,8.0
+ZAR,Vanilla Curve Spread,Barclays,10000000.0,1Y_2Y,10.0
+ZAR,Vanilla Curve Spread,Barclays,20000000.0,1Y_2Y,12.0
+ZAR,Vanilla Curve Spread,Barclays,400000.0,1Y_5Y,3.0
+ZAR,Vanilla Curve Spread,Barclays,1000000.0,1Y_5Y,4.0
+ZAR,Vanilla Curve Spread,Barclays,2000000.0,1Y_5Y,6.0
+ZAR,Vanilla Curve Spread,Barclays,4000000.0,1Y_5Y,8.0
+ZAR,Vanilla Curve Spread,Barclays,10000000.0,1Y_5Y,10.0
+ZAR,Vanilla Curve Spread,Barclays,20000000.0,1Y_5Y,12.0
+ZAR,Vanilla Curve Spread,Barclays,400000.0,1Y_10Y,3.0
+ZAR,Vanilla Curve Spread,Barclays,1000000.0,1Y_10Y,4.0
+ZAR,Vanilla Curve Spread,Barclays,2000000.0,1Y_10Y,6.0
+ZAR,Vanilla Curve Spread,Barclays,4000000.0,1Y_10Y,8.0
+ZAR,Vanilla Curve Spread,Barclays,10000000.0,1Y_10Y,10.0
+ZAR,Vanilla Curve Spread,Barclays,20000000.0,1Y_10Y,12.0
+ZAR,Vanilla Curve Spread,Barclays,400000.0,2Y_5Y,3.0
+ZAR,Vanilla Curve Spread,Barclays,1000000.0,2Y_5Y,4.0
+ZAR,Vanilla Curve Spread,Barclays,2000000.0,2Y_5Y,6.0
+ZAR,Vanilla Curve Spread,Barclays,4000000.0,2Y_5Y,8.0
+ZAR,Vanilla Curve Spread,Barclays,10000000.0,2Y_5Y,10.0
+ZAR,Vanilla Curve Spread,Barclays,20000000.0,2Y_5Y,12.0
+ZAR,Vanilla Curve Spread,Barclays,400000.0,2Y_10Y,3.0
+ZAR,Vanilla Curve Spread,Barclays,1000000.0,2Y_10Y,4.0
+ZAR,Vanilla Curve Spread,Barclays,2000000.0,2Y_10Y,6.0
+ZAR,Vanilla Curve Spread,Barclays,4000000.0,2Y_10Y,8.0
+ZAR,Vanilla Curve Spread,Barclays,10000000.0,2Y_10Y,10.0
+ZAR,Vanilla Curve Spread,Barclays,20000000.0,2Y_10Y,12.0
+ZAR,Vanilla Curve Spread,Barclays,400000.0,5Y_10Y,3.0
+ZAR,Vanilla Curve Spread,Barclays,1000000.0,5Y_10Y,4.0
+ZAR,Vanilla Curve Spread,Barclays,2000000.0,5Y_10Y,6.0
+ZAR,Vanilla Curve Spread,Barclays,4000000.0,5Y_10Y,8.0
+ZAR,Vanilla Curve Spread,Barclays,10000000.0,5Y_10Y,10.0
+ZAR,Vanilla Curve Spread,Barclays,20000000.0,5Y_10Y,12.0
+ZAR,Vanilla Curve Spread,RBC,400000.0,1Y_2Y,
+ZAR,Vanilla Curve Spread,RBC,1000000.0,1Y_2Y,
+ZAR,Vanilla Curve Spread,RBC,2000000.0,1Y_2Y,
+ZAR,Vanilla Curve Spread,RBC,4000000.0,1Y_2Y,
+ZAR,Vanilla Curve Spread,RBC,10000000.0,1Y_2Y,
+ZAR,Vanilla Curve Spread,RBC,20000000.0,1Y_2Y,
+ZAR,Vanilla Curve Spread,RBC,400000.0,1Y_5Y,
+ZAR,Vanilla Curve Spread,RBC,1000000.0,1Y_5Y,
+ZAR,Vanilla Curve Spread,RBC,2000000.0,1Y_5Y,
+ZAR,Vanilla Curve Spread,RBC,4000000.0,1Y_5Y,
+ZAR,Vanilla Curve Spread,RBC,10000000.0,1Y_5Y,
+ZAR,Vanilla Curve Spread,RBC,20000000.0,1Y_5Y,
+ZAR,Vanilla Curve Spread,RBC,400000.0,1Y_10Y,
+ZAR,Vanilla Curve Spread,RBC,1000000.0,1Y_10Y,
+ZAR,Vanilla Curve Spread,RBC,2000000.0,1Y_10Y,
+ZAR,Vanilla Curve Spread,RBC,4000000.0,1Y_10Y,
+ZAR,Vanilla Curve Spread,RBC,10000000.0,1Y_10Y,
+ZAR,Vanilla Curve Spread,RBC,20000000.0,1Y_10Y,
+ZAR,Vanilla Curve Spread,RBC,400000.0,2Y_5Y,
+ZAR,Vanilla Curve Spread,RBC,1000000.0,2Y_5Y,
+ZAR,Vanilla Curve Spread,RBC,2000000.0,2Y_5Y,
+ZAR,Vanilla Curve Spread,RBC,4000000.0,2Y_5Y,
+ZAR,Vanilla Curve Spread,RBC,10000000.0,2Y_5Y,
+ZAR,Vanilla Curve Spread,RBC,20000000.0,2Y_5Y,
+ZAR,Vanilla Curve Spread,RBC,400000.0,2Y_10Y,
+ZAR,Vanilla Curve Spread,RBC,1000000.0,2Y_10Y,
+ZAR,Vanilla Curve Spread,RBC,2000000.0,2Y_10Y,
+ZAR,Vanilla Curve Spread,RBC,4000000.0,2Y_10Y,
+ZAR,Vanilla Curve Spread,RBC,10000000.0,2Y_10Y,
+ZAR,Vanilla Curve Spread,RBC,20000000.0,2Y_10Y,
+ZAR,Vanilla Curve Spread,RBC,400000.0,5Y_10Y,
+ZAR,Vanilla Curve Spread,RBC,1000000.0,5Y_10Y,
+ZAR,Vanilla Curve Spread,RBC,2000000.0,5Y_10Y,
+ZAR,Vanilla Curve Spread,RBC,4000000.0,5Y_10Y,
+ZAR,Vanilla Curve Spread,RBC,10000000.0,5Y_10Y,
+ZAR,Vanilla Curve Spread,RBC,20000000.0,5Y_10Y,
+ZAR,Vanilla Curve Spread,Credit Agricole,400000.0,1Y_2Y,
+ZAR,Vanilla Curve Spread,Credit Agricole,1000000.0,1Y_2Y,
+ZAR,Vanilla Curve Spread,Credit Agricole,2000000.0,1Y_2Y,
+ZAR,Vanilla Curve Spread,Credit Agricole,4000000.0,1Y_2Y,
+ZAR,Vanilla Curve Spread,Credit Agricole,10000000.0,1Y_2Y,
+ZAR,Vanilla Curve Spread,Credit Agricole,20000000.0,1Y_2Y,
+ZAR,Vanilla Curve Spread,Credit Agricole,400000.0,1Y_5Y,
+ZAR,Vanilla Curve Spread,Credit Agricole,1000000.0,1Y_5Y,
+ZAR,Vanilla Curve Spread,Credit Agricole,2000000.0,1Y_5Y,
+ZAR,Vanilla Curve Spread,Credit Agricole,4000000.0,1Y_5Y,
+ZAR,Vanilla Curve Spread,Credit Agricole,10000000.0,1Y_5Y,
+ZAR,Vanilla Curve Spread,Credit Agricole,20000000.0,1Y_5Y,
+ZAR,Vanilla Curve Spread,Credit Agricole,400000.0,1Y_10Y,
+ZAR,Vanilla Curve Spread,Credit Agricole,1000000.0,1Y_10Y,
+ZAR,Vanilla Curve Spread,Credit Agricole,2000000.0,1Y_10Y,
+ZAR,Vanilla Curve Spread,Credit Agricole,4000000.0,1Y_10Y,
+ZAR,Vanilla Curve Spread,Credit Agricole,10000000.0,1Y_10Y,
+ZAR,Vanilla Curve Spread,Credit Agricole,20000000.0,1Y_10Y,
+ZAR,Vanilla Curve Spread,Credit Agricole,400000.0,2Y_5Y,
+ZAR,Vanilla Curve Spread,Credit Agricole,1000000.0,2Y_5Y,
+ZAR,Vanilla Curve Spread,Credit Agricole,2000000.0,2Y_5Y,
+ZAR,Vanilla Curve Spread,Credit Agricole,4000000.0,2Y_5Y,
+ZAR,Vanilla Curve Spread,Credit Agricole,10000000.0,2Y_5Y,
+ZAR,Vanilla Curve Spread,Credit Agricole,20000000.0,2Y_5Y,
+ZAR,Vanilla Curve Spread,Credit Agricole,400000.0,2Y_10Y,
+ZAR,Vanilla Curve Spread,Credit Agricole,1000000.0,2Y_10Y,
+ZAR,Vanilla Curve Spread,Credit Agricole,2000000.0,2Y_10Y,
+ZAR,Vanilla Curve Spread,Credit Agricole,4000000.0,2Y_10Y,
+ZAR,Vanilla Curve Spread,Credit Agricole,10000000.0,2Y_10Y,
+ZAR,Vanilla Curve Spread,Credit Agricole,20000000.0,2Y_10Y,
+ZAR,Vanilla Curve Spread,Credit Agricole,400000.0,5Y_10Y,
+ZAR,Vanilla Curve Spread,Credit Agricole,1000000.0,5Y_10Y,
+ZAR,Vanilla Curve Spread,Credit Agricole,2000000.0,5Y_10Y,
+ZAR,Vanilla Curve Spread,Credit Agricole,4000000.0,5Y_10Y,
+ZAR,Vanilla Curve Spread,Credit Agricole,10000000.0,5Y_10Y,
+ZAR,Vanilla Curve Spread,Credit Agricole,20000000.0,5Y_10Y,
+ZAR,Vanilla Curve Spread,Santander,400000.0,1Y_2Y,
+ZAR,Vanilla Curve Spread,Santander,1000000.0,1Y_2Y,
+ZAR,Vanilla Curve Spread,Santander,2000000.0,1Y_2Y,
+ZAR,Vanilla Curve Spread,Santander,4000000.0,1Y_2Y,
+ZAR,Vanilla Curve Spread,Santander,10000000.0,1Y_2Y,
+ZAR,Vanilla Curve Spread,Santander,20000000.0,1Y_2Y,
+ZAR,Vanilla Curve Spread,Santander,400000.0,1Y_5Y,
+ZAR,Vanilla Curve Spread,Santander,1000000.0,1Y_5Y,
+ZAR,Vanilla Curve Spread,Santander,2000000.0,1Y_5Y,
+ZAR,Vanilla Curve Spread,Santander,4000000.0,1Y_5Y,
+ZAR,Vanilla Curve Spread,Santander,10000000.0,1Y_5Y,
+ZAR,Vanilla Curve Spread,Santander,20000000.0,1Y_5Y,
+ZAR,Vanilla Curve Spread,Santander,400000.0,1Y_10Y,
+ZAR,Vanilla Curve Spread,Santander,1000000.0,1Y_10Y,
+ZAR,Vanilla Curve Spread,Santander,2000000.0,1Y_10Y,
+ZAR,Vanilla Curve Spread,Santander,4000000.0,1Y_10Y,
+ZAR,Vanilla Curve Spread,Santander,10000000.0,1Y_10Y,
+ZAR,Vanilla Curve Spread,Santander,20000000.0,1Y_10Y,
+ZAR,Vanilla Curve Spread,Santander,400000.0,2Y_5Y,
+ZAR,Vanilla Curve Spread,Santander,1000000.0,2Y_5Y,
+ZAR,Vanilla Curve Spread,Santander,2000000.0,2Y_5Y,
+ZAR,Vanilla Curve Spread,Santander,4000000.0,2Y_5Y,
+ZAR,Vanilla Curve Spread,Santander,10000000.0,2Y_5Y,
+ZAR,Vanilla Curve Spread,Santander,20000000.0,2Y_5Y,
+ZAR,Vanilla Curve Spread,Santander,400000.0,2Y_10Y,
+ZAR,Vanilla Curve Spread,Santander,1000000.0,2Y_10Y,
+ZAR,Vanilla Curve Spread,Santander,2000000.0,2Y_10Y,
+ZAR,Vanilla Curve Spread,Santander,4000000.0,2Y_10Y,
+ZAR,Vanilla Curve Spread,Santander,10000000.0,2Y_10Y,
+ZAR,Vanilla Curve Spread,Santander,20000000.0,2Y_10Y,
+ZAR,Vanilla Curve Spread,Santander,400000.0,5Y_10Y,
+ZAR,Vanilla Curve Spread,Santander,1000000.0,5Y_10Y,
+ZAR,Vanilla Curve Spread,Santander,2000000.0,5Y_10Y,
+ZAR,Vanilla Curve Spread,Santander,4000000.0,5Y_10Y,
+ZAR,Vanilla Curve Spread,Santander,10000000.0,5Y_10Y,
+ZAR,Vanilla Curve Spread,Santander,20000000.0,5Y_10Y,
+ZAR,Vanilla Curve Spread,BBVA,400000.0,1Y_2Y,
+ZAR,Vanilla Curve Spread,BBVA,1000000.0,1Y_2Y,
+ZAR,Vanilla Curve Spread,BBVA,2000000.0,1Y_2Y,
+ZAR,Vanilla Curve Spread,BBVA,4000000.0,1Y_2Y,
+ZAR,Vanilla Curve Spread,BBVA,10000000.0,1Y_2Y,
+ZAR,Vanilla Curve Spread,BBVA,20000000.0,1Y_2Y,
+ZAR,Vanilla Curve Spread,BBVA,400000.0,1Y_5Y,
+ZAR,Vanilla Curve Spread,BBVA,1000000.0,1Y_5Y,
+ZAR,Vanilla Curve Spread,BBVA,2000000.0,1Y_5Y,
+ZAR,Vanilla Curve Spread,BBVA,4000000.0,1Y_5Y,
+ZAR,Vanilla Curve Spread,BBVA,10000000.0,1Y_5Y,
+ZAR,Vanilla Curve Spread,BBVA,20000000.0,1Y_5Y,
+ZAR,Vanilla Curve Spread,BBVA,400000.0,1Y_10Y,
+ZAR,Vanilla Curve Spread,BBVA,1000000.0,1Y_10Y,
+ZAR,Vanilla Curve Spread,BBVA,2000000.0,1Y_10Y,
+ZAR,Vanilla Curve Spread,BBVA,4000000.0,1Y_10Y,
+ZAR,Vanilla Curve Spread,BBVA,10000000.0,1Y_10Y,
+ZAR,Vanilla Curve Spread,BBVA,20000000.0,1Y_10Y,
+ZAR,Vanilla Curve Spread,BBVA,400000.0,2Y_5Y,
+ZAR,Vanilla Curve Spread,BBVA,1000000.0,2Y_5Y,
+ZAR,Vanilla Curve Spread,BBVA,2000000.0,2Y_5Y,
+ZAR,Vanilla Curve Spread,BBVA,4000000.0,2Y_5Y,
+ZAR,Vanilla Curve Spread,BBVA,10000000.0,2Y_5Y,
+ZAR,Vanilla Curve Spread,BBVA,20000000.0,2Y_5Y,
+ZAR,Vanilla Curve Spread,BBVA,400000.0,2Y_10Y,
+ZAR,Vanilla Curve Spread,BBVA,1000000.0,2Y_10Y,
+ZAR,Vanilla Curve Spread,BBVA,2000000.0,2Y_10Y,
+ZAR,Vanilla Curve Spread,BBVA,4000000.0,2Y_10Y,
+ZAR,Vanilla Curve Spread,BBVA,10000000.0,2Y_10Y,
+ZAR,Vanilla Curve Spread,BBVA,20000000.0,2Y_10Y,
+ZAR,Vanilla Curve Spread,BBVA,400000.0,5Y_10Y,
+ZAR,Vanilla Curve Spread,BBVA,1000000.0,5Y_10Y,
+ZAR,Vanilla Curve Spread,BBVA,2000000.0,5Y_10Y,
+ZAR,Vanilla Curve Spread,BBVA,4000000.0,5Y_10Y,
+ZAR,Vanilla Curve Spread,BBVA,10000000.0,5Y_10Y,
+ZAR,Vanilla Curve Spread,BBVA,20000000.0,5Y_10Y,
+ZAR,Vanilla Butterfly,Median,200000.0,1Y_2Y_5Y,2.0
+ZAR,Vanilla Butterfly,Median,500000.0,1Y_2Y_5Y,4.0
+ZAR,Vanilla Butterfly,Median,1000000.0,1Y_2Y_5Y,6.0
+ZAR,Vanilla Butterfly,Median,2000000.0,1Y_2Y_5Y,8.0
+ZAR,Vanilla Butterfly,Median,5000000.0,1Y_2Y_5Y,12.0
+ZAR,Vanilla Butterfly,Median,10000000.0,1Y_2Y_5Y,24.0
+ZAR,Vanilla Butterfly,Median,200000.0,1Y_2Y_10Y,2.63671875
+ZAR,Vanilla Butterfly,Median,500000.0,1Y_2Y_10Y,4.0
+ZAR,Vanilla Butterfly,Median,1000000.0,1Y_2Y_10Y,6.0
+ZAR,Vanilla Butterfly,Median,2000000.0,1Y_2Y_10Y,8.0
+ZAR,Vanilla Butterfly,Median,5000000.0,1Y_2Y_10Y,12.0
+ZAR,Vanilla Butterfly,Median,10000000.0,1Y_2Y_10Y,24.0
+ZAR,Vanilla Butterfly,Median,200000.0,1Y_5Y_10Y,3.0
+ZAR,Vanilla Butterfly,Median,500000.0,1Y_5Y_10Y,4.0
+ZAR,Vanilla Butterfly,Median,1000000.0,1Y_5Y_10Y,6.0
+ZAR,Vanilla Butterfly,Median,2000000.0,1Y_5Y_10Y,8.0
+ZAR,Vanilla Butterfly,Median,5000000.0,1Y_5Y_10Y,12.0
+ZAR,Vanilla Butterfly,Median,10000000.0,1Y_5Y_10Y,24.0
+ZAR,Vanilla Butterfly,Median,200000.0,2Y_5Y_10Y,2.109375
+ZAR,Vanilla Butterfly,Median,500000.0,2Y_5Y_10Y,4.0
+ZAR,Vanilla Butterfly,Median,1000000.0,2Y_5Y_10Y,6.0
+ZAR,Vanilla Butterfly,Median,2000000.0,2Y_5Y_10Y,8.0
+ZAR,Vanilla Butterfly,Median,5000000.0,2Y_5Y_10Y,12.0
+ZAR,Vanilla Butterfly,Median,10000000.0,2Y_5Y_10Y,24.0
+ZAR,Vanilla Butterfly,DB,200000.0,1Y_2Y_5Y,4.0
+ZAR,Vanilla Butterfly,DB,500000.0,1Y_2Y_5Y,6.0
+ZAR,Vanilla Butterfly,DB,1000000.0,1Y_2Y_5Y,8.0
+ZAR,Vanilla Butterfly,DB,2000000.0,1Y_2Y_5Y,11.0
+ZAR,Vanilla Butterfly,DB,5000000.0,1Y_2Y_5Y,18.0
+ZAR,Vanilla Butterfly,DB,10000000.0,1Y_2Y_5Y,25.0
+ZAR,Vanilla Butterfly,DB,200000.0,1Y_2Y_10Y,5.0
+ZAR,Vanilla Butterfly,DB,500000.0,1Y_2Y_10Y,7.0
+ZAR,Vanilla Butterfly,DB,1000000.0,1Y_2Y_10Y,9.0
+ZAR,Vanilla Butterfly,DB,2000000.0,1Y_2Y_10Y,12.0
+ZAR,Vanilla Butterfly,DB,5000000.0,1Y_2Y_10Y,20.0
+ZAR,Vanilla Butterfly,DB,10000000.0,1Y_2Y_10Y,40.0
+ZAR,Vanilla Butterfly,DB,200000.0,1Y_5Y_10Y,5.0
+ZAR,Vanilla Butterfly,DB,500000.0,1Y_5Y_10Y,7.0
+ZAR,Vanilla Butterfly,DB,1000000.0,1Y_5Y_10Y,10.0
+ZAR,Vanilla Butterfly,DB,2000000.0,1Y_5Y_10Y,12.0
+ZAR,Vanilla Butterfly,DB,5000000.0,1Y_5Y_10Y,20.0
+ZAR,Vanilla Butterfly,DB,10000000.0,1Y_5Y_10Y,40.0
+ZAR,Vanilla Butterfly,DB,200000.0,2Y_5Y_10Y,5.0
+ZAR,Vanilla Butterfly,DB,500000.0,2Y_5Y_10Y,8.0
+ZAR,Vanilla Butterfly,DB,1000000.0,2Y_5Y_10Y,10.0
+ZAR,Vanilla Butterfly,DB,2000000.0,2Y_5Y_10Y,13.0
+ZAR,Vanilla Butterfly,DB,5000000.0,2Y_5Y_10Y,25.0
+ZAR,Vanilla Butterfly,DB,10000000.0,2Y_5Y_10Y,40.0
+ZAR,Vanilla Butterfly,BNP,200000.0,1Y_2Y_5Y,1.0
+ZAR,Vanilla Butterfly,BNP,500000.0,1Y_2Y_5Y,2.0
+ZAR,Vanilla Butterfly,BNP,1000000.0,1Y_2Y_5Y,3.0
+ZAR,Vanilla Butterfly,BNP,2000000.0,1Y_2Y_5Y,4.0
+ZAR,Vanilla Butterfly,BNP,5000000.0,1Y_2Y_5Y,5.0
+ZAR,Vanilla Butterfly,BNP,10000000.0,1Y_2Y_5Y,6.0
+ZAR,Vanilla Butterfly,BNP,200000.0,1Y_2Y_10Y,2.0
+ZAR,Vanilla Butterfly,BNP,500000.0,1Y_2Y_10Y,3.0
+ZAR,Vanilla Butterfly,BNP,1000000.0,1Y_2Y_10Y,4.0
+ZAR,Vanilla Butterfly,BNP,2000000.0,1Y_2Y_10Y,5.0
+ZAR,Vanilla Butterfly,BNP,5000000.0,1Y_2Y_10Y,7.0
+ZAR,Vanilla Butterfly,BNP,10000000.0,1Y_2Y_10Y,9.0
+ZAR,Vanilla Butterfly,BNP,200000.0,1Y_5Y_10Y,3.0
+ZAR,Vanilla Butterfly,BNP,500000.0,1Y_5Y_10Y,4.0
+ZAR,Vanilla Butterfly,BNP,1000000.0,1Y_5Y_10Y,5.0
+ZAR,Vanilla Butterfly,BNP,2000000.0,1Y_5Y_10Y,6.0
+ZAR,Vanilla Butterfly,BNP,5000000.0,1Y_5Y_10Y,8.0
+ZAR,Vanilla Butterfly,BNP,10000000.0,1Y_5Y_10Y,10.0
+ZAR,Vanilla Butterfly,BNP,200000.0,2Y_5Y_10Y,2.0
+ZAR,Vanilla Butterfly,BNP,500000.0,2Y_5Y_10Y,3.0
+ZAR,Vanilla Butterfly,BNP,1000000.0,2Y_5Y_10Y,4.0
+ZAR,Vanilla Butterfly,BNP,2000000.0,2Y_5Y_10Y,5.0
+ZAR,Vanilla Butterfly,BNP,5000000.0,2Y_5Y_10Y,7.0
+ZAR,Vanilla Butterfly,BNP,10000000.0,2Y_5Y_10Y,9.0
+ZAR,Vanilla Butterfly,RABO,200000.0,1Y_2Y_5Y,
+ZAR,Vanilla Butterfly,RABO,500000.0,1Y_2Y_5Y,
+ZAR,Vanilla Butterfly,RABO,1000000.0,1Y_2Y_5Y,
+ZAR,Vanilla Butterfly,RABO,2000000.0,1Y_2Y_5Y,
+ZAR,Vanilla Butterfly,RABO,5000000.0,1Y_2Y_5Y,
+ZAR,Vanilla Butterfly,RABO,10000000.0,1Y_2Y_5Y,
+ZAR,Vanilla Butterfly,RABO,200000.0,1Y_2Y_10Y,
+ZAR,Vanilla Butterfly,RABO,500000.0,1Y_2Y_10Y,
+ZAR,Vanilla Butterfly,RABO,1000000.0,1Y_2Y_10Y,
+ZAR,Vanilla Butterfly,RABO,2000000.0,1Y_2Y_10Y,
+ZAR,Vanilla Butterfly,RABO,5000000.0,1Y_2Y_10Y,
+ZAR,Vanilla Butterfly,RABO,10000000.0,1Y_2Y_10Y,
+ZAR,Vanilla Butterfly,RABO,200000.0,1Y_5Y_10Y,
+ZAR,Vanilla Butterfly,RABO,500000.0,1Y_5Y_10Y,
+ZAR,Vanilla Butterfly,RABO,1000000.0,1Y_5Y_10Y,
+ZAR,Vanilla Butterfly,RABO,2000000.0,1Y_5Y_10Y,
+ZAR,Vanilla Butterfly,RABO,5000000.0,1Y_5Y_10Y,
+ZAR,Vanilla Butterfly,RABO,10000000.0,1Y_5Y_10Y,
+ZAR,Vanilla Butterfly,RABO,200000.0,2Y_5Y_10Y,
+ZAR,Vanilla Butterfly,RABO,500000.0,2Y_5Y_10Y,
+ZAR,Vanilla Butterfly,RABO,1000000.0,2Y_5Y_10Y,
+ZAR,Vanilla Butterfly,RABO,2000000.0,2Y_5Y_10Y,
+ZAR,Vanilla Butterfly,RABO,5000000.0,2Y_5Y_10Y,
+ZAR,Vanilla Butterfly,RABO,10000000.0,2Y_5Y_10Y,
+ZAR,Vanilla Butterfly,Nomura,200000.0,1Y_2Y_5Y,
+ZAR,Vanilla Butterfly,Nomura,500000.0,1Y_2Y_5Y,
+ZAR,Vanilla Butterfly,Nomura,1000000.0,1Y_2Y_5Y,
+ZAR,Vanilla Butterfly,Nomura,2000000.0,1Y_2Y_5Y,
+ZAR,Vanilla Butterfly,Nomura,5000000.0,1Y_2Y_5Y,
+ZAR,Vanilla Butterfly,Nomura,10000000.0,1Y_2Y_5Y,
+ZAR,Vanilla Butterfly,Nomura,200000.0,1Y_2Y_10Y,
+ZAR,Vanilla Butterfly,Nomura,500000.0,1Y_2Y_10Y,
+ZAR,Vanilla Butterfly,Nomura,1000000.0,1Y_2Y_10Y,
+ZAR,Vanilla Butterfly,Nomura,2000000.0,1Y_2Y_10Y,
+ZAR,Vanilla Butterfly,Nomura,5000000.0,1Y_2Y_10Y,
+ZAR,Vanilla Butterfly,Nomura,10000000.0,1Y_2Y_10Y,
+ZAR,Vanilla Butterfly,Nomura,200000.0,1Y_5Y_10Y,
+ZAR,Vanilla Butterfly,Nomura,500000.0,1Y_5Y_10Y,
+ZAR,Vanilla Butterfly,Nomura,1000000.0,1Y_5Y_10Y,
+ZAR,Vanilla Butterfly,Nomura,2000000.0,1Y_5Y_10Y,
+ZAR,Vanilla Butterfly,Nomura,5000000.0,1Y_5Y_10Y,
+ZAR,Vanilla Butterfly,Nomura,10000000.0,1Y_5Y_10Y,
+ZAR,Vanilla Butterfly,Nomura,200000.0,2Y_5Y_10Y,
+ZAR,Vanilla Butterfly,Nomura,500000.0,2Y_5Y_10Y,
+ZAR,Vanilla Butterfly,Nomura,1000000.0,2Y_5Y_10Y,
+ZAR,Vanilla Butterfly,Nomura,2000000.0,2Y_5Y_10Y,
+ZAR,Vanilla Butterfly,Nomura,5000000.0,2Y_5Y_10Y,
+ZAR,Vanilla Butterfly,Nomura,10000000.0,2Y_5Y_10Y,
+ZAR,Vanilla Butterfly,UBS,200000.0,1Y_2Y_5Y,
+ZAR,Vanilla Butterfly,UBS,500000.0,1Y_2Y_5Y,
+ZAR,Vanilla Butterfly,UBS,1000000.0,1Y_2Y_5Y,
+ZAR,Vanilla Butterfly,UBS,2000000.0,1Y_2Y_5Y,
+ZAR,Vanilla Butterfly,UBS,5000000.0,1Y_2Y_5Y,
+ZAR,Vanilla Butterfly,UBS,10000000.0,1Y_2Y_5Y,
+ZAR,Vanilla Butterfly,UBS,200000.0,1Y_2Y_10Y,
+ZAR,Vanilla Butterfly,UBS,500000.0,1Y_2Y_10Y,
+ZAR,Vanilla Butterfly,UBS,1000000.0,1Y_2Y_10Y,
+ZAR,Vanilla Butterfly,UBS,2000000.0,1Y_2Y_10Y,
+ZAR,Vanilla Butterfly,UBS,5000000.0,1Y_2Y_10Y,
+ZAR,Vanilla Butterfly,UBS,10000000.0,1Y_2Y_10Y,
+ZAR,Vanilla Butterfly,UBS,200000.0,1Y_5Y_10Y,
+ZAR,Vanilla Butterfly,UBS,500000.0,1Y_5Y_10Y,
+ZAR,Vanilla Butterfly,UBS,1000000.0,1Y_5Y_10Y,
+ZAR,Vanilla Butterfly,UBS,2000000.0,1Y_5Y_10Y,
+ZAR,Vanilla Butterfly,UBS,5000000.0,1Y_5Y_10Y,
+ZAR,Vanilla Butterfly,UBS,10000000.0,1Y_5Y_10Y,
+ZAR,Vanilla Butterfly,UBS,200000.0,2Y_5Y_10Y,
+ZAR,Vanilla Butterfly,UBS,500000.0,2Y_5Y_10Y,
+ZAR,Vanilla Butterfly,UBS,1000000.0,2Y_5Y_10Y,
+ZAR,Vanilla Butterfly,UBS,2000000.0,2Y_5Y_10Y,
+ZAR,Vanilla Butterfly,UBS,5000000.0,2Y_5Y_10Y,
+ZAR,Vanilla Butterfly,UBS,10000000.0,2Y_5Y_10Y,
+ZAR,Vanilla Butterfly,BMO,200000.0,1Y_2Y_5Y,
+ZAR,Vanilla Butterfly,BMO,500000.0,1Y_2Y_5Y,
+ZAR,Vanilla Butterfly,BMO,1000000.0,1Y_2Y_5Y,
+ZAR,Vanilla Butterfly,BMO,2000000.0,1Y_2Y_5Y,
+ZAR,Vanilla Butterfly,BMO,5000000.0,1Y_2Y_5Y,
+ZAR,Vanilla Butterfly,BMO,10000000.0,1Y_2Y_5Y,
+ZAR,Vanilla Butterfly,BMO,200000.0,1Y_2Y_10Y,
+ZAR,Vanilla Butterfly,BMO,500000.0,1Y_2Y_10Y,
+ZAR,Vanilla Butterfly,BMO,1000000.0,1Y_2Y_10Y,
+ZAR,Vanilla Butterfly,BMO,2000000.0,1Y_2Y_10Y,
+ZAR,Vanilla Butterfly,BMO,5000000.0,1Y_2Y_10Y,
+ZAR,Vanilla Butterfly,BMO,10000000.0,1Y_2Y_10Y,
+ZAR,Vanilla Butterfly,BMO,200000.0,1Y_5Y_10Y,
+ZAR,Vanilla Butterfly,BMO,500000.0,1Y_5Y_10Y,
+ZAR,Vanilla Butterfly,BMO,1000000.0,1Y_5Y_10Y,
+ZAR,Vanilla Butterfly,BMO,2000000.0,1Y_5Y_10Y,
+ZAR,Vanilla Butterfly,BMO,5000000.0,1Y_5Y_10Y,
+ZAR,Vanilla Butterfly,BMO,10000000.0,1Y_5Y_10Y,
+ZAR,Vanilla Butterfly,BMO,200000.0,2Y_5Y_10Y,
+ZAR,Vanilla Butterfly,BMO,500000.0,2Y_5Y_10Y,
+ZAR,Vanilla Butterfly,BMO,1000000.0,2Y_5Y_10Y,
+ZAR,Vanilla Butterfly,BMO,2000000.0,2Y_5Y_10Y,
+ZAR,Vanilla Butterfly,BMO,5000000.0,2Y_5Y_10Y,
+ZAR,Vanilla Butterfly,BMO,10000000.0,2Y_5Y_10Y,
+ZAR,Vanilla Butterfly,TD,200000.0,1Y_2Y_5Y,
+ZAR,Vanilla Butterfly,TD,500000.0,1Y_2Y_5Y,
+ZAR,Vanilla Butterfly,TD,1000000.0,1Y_2Y_5Y,
+ZAR,Vanilla Butterfly,TD,2000000.0,1Y_2Y_5Y,
+ZAR,Vanilla Butterfly,TD,5000000.0,1Y_2Y_5Y,
+ZAR,Vanilla Butterfly,TD,10000000.0,1Y_2Y_5Y,
+ZAR,Vanilla Butterfly,TD,200000.0,1Y_2Y_10Y,
+ZAR,Vanilla Butterfly,TD,500000.0,1Y_2Y_10Y,
+ZAR,Vanilla Butterfly,TD,1000000.0,1Y_2Y_10Y,
+ZAR,Vanilla Butterfly,TD,2000000.0,1Y_2Y_10Y,
+ZAR,Vanilla Butterfly,TD,5000000.0,1Y_2Y_10Y,
+ZAR,Vanilla Butterfly,TD,10000000.0,1Y_2Y_10Y,
+ZAR,Vanilla Butterfly,TD,200000.0,1Y_5Y_10Y,
+ZAR,Vanilla Butterfly,TD,500000.0,1Y_5Y_10Y,
+ZAR,Vanilla Butterfly,TD,1000000.0,1Y_5Y_10Y,
+ZAR,Vanilla Butterfly,TD,2000000.0,1Y_5Y_10Y,
+ZAR,Vanilla Butterfly,TD,5000000.0,1Y_5Y_10Y,
+ZAR,Vanilla Butterfly,TD,10000000.0,1Y_5Y_10Y,
+ZAR,Vanilla Butterfly,TD,200000.0,2Y_5Y_10Y,
+ZAR,Vanilla Butterfly,TD,500000.0,2Y_5Y_10Y,
+ZAR,Vanilla Butterfly,TD,1000000.0,2Y_5Y_10Y,
+ZAR,Vanilla Butterfly,TD,2000000.0,2Y_5Y_10Y,
+ZAR,Vanilla Butterfly,TD,5000000.0,2Y_5Y_10Y,
+ZAR,Vanilla Butterfly,TD,10000000.0,2Y_5Y_10Y,
+ZAR,Vanilla Butterfly,Credit Suisse,200000.0,1Y_2Y_5Y,
+ZAR,Vanilla Butterfly,Credit Suisse,500000.0,1Y_2Y_5Y,
+ZAR,Vanilla Butterfly,Credit Suisse,1000000.0,1Y_2Y_5Y,
+ZAR,Vanilla Butterfly,Credit Suisse,2000000.0,1Y_2Y_5Y,
+ZAR,Vanilla Butterfly,Credit Suisse,5000000.0,1Y_2Y_5Y,
+ZAR,Vanilla Butterfly,Credit Suisse,10000000.0,1Y_2Y_5Y,
+ZAR,Vanilla Butterfly,Credit Suisse,200000.0,1Y_2Y_10Y,
+ZAR,Vanilla Butterfly,Credit Suisse,500000.0,1Y_2Y_10Y,
+ZAR,Vanilla Butterfly,Credit Suisse,1000000.0,1Y_2Y_10Y,
+ZAR,Vanilla Butterfly,Credit Suisse,2000000.0,1Y_2Y_10Y,
+ZAR,Vanilla Butterfly,Credit Suisse,5000000.0,1Y_2Y_10Y,
+ZAR,Vanilla Butterfly,Credit Suisse,10000000.0,1Y_2Y_10Y,
+ZAR,Vanilla Butterfly,Credit Suisse,200000.0,1Y_5Y_10Y,
+ZAR,Vanilla Butterfly,Credit Suisse,500000.0,1Y_5Y_10Y,
+ZAR,Vanilla Butterfly,Credit Suisse,1000000.0,1Y_5Y_10Y,
+ZAR,Vanilla Butterfly,Credit Suisse,2000000.0,1Y_5Y_10Y,
+ZAR,Vanilla Butterfly,Credit Suisse,5000000.0,1Y_5Y_10Y,
+ZAR,Vanilla Butterfly,Credit Suisse,10000000.0,1Y_5Y_10Y,
+ZAR,Vanilla Butterfly,Credit Suisse,200000.0,2Y_5Y_10Y,
+ZAR,Vanilla Butterfly,Credit Suisse,500000.0,2Y_5Y_10Y,
+ZAR,Vanilla Butterfly,Credit Suisse,1000000.0,2Y_5Y_10Y,
+ZAR,Vanilla Butterfly,Credit Suisse,2000000.0,2Y_5Y_10Y,
+ZAR,Vanilla Butterfly,Credit Suisse,5000000.0,2Y_5Y_10Y,
+ZAR,Vanilla Butterfly,Credit Suisse,10000000.0,2Y_5Y_10Y,
+ZAR,Vanilla Butterfly,HSBC,200000.0,1Y_2Y_5Y,4.0
+ZAR,Vanilla Butterfly,HSBC,500000.0,1Y_2Y_5Y,5.0
+ZAR,Vanilla Butterfly,HSBC,1000000.0,1Y_2Y_5Y,6.0
+ZAR,Vanilla Butterfly,HSBC,2000000.0,1Y_2Y_5Y,8.0
+ZAR,Vanilla Butterfly,HSBC,5000000.0,1Y_2Y_5Y,12.0
+ZAR,Vanilla Butterfly,HSBC,10000000.0,1Y_2Y_5Y,15.0
+ZAR,Vanilla Butterfly,HSBC,200000.0,1Y_2Y_10Y,4.0
+ZAR,Vanilla Butterfly,HSBC,500000.0,1Y_2Y_10Y,5.0
+ZAR,Vanilla Butterfly,HSBC,1000000.0,1Y_2Y_10Y,6.0
+ZAR,Vanilla Butterfly,HSBC,2000000.0,1Y_2Y_10Y,8.0
+ZAR,Vanilla Butterfly,HSBC,5000000.0,1Y_2Y_10Y,12.0
+ZAR,Vanilla Butterfly,HSBC,10000000.0,1Y_2Y_10Y,15.0
+ZAR,Vanilla Butterfly,HSBC,200000.0,1Y_5Y_10Y,4.0
+ZAR,Vanilla Butterfly,HSBC,500000.0,1Y_5Y_10Y,5.0
+ZAR,Vanilla Butterfly,HSBC,1000000.0,1Y_5Y_10Y,6.0
+ZAR,Vanilla Butterfly,HSBC,2000000.0,1Y_5Y_10Y,8.0
+ZAR,Vanilla Butterfly,HSBC,5000000.0,1Y_5Y_10Y,12.0
+ZAR,Vanilla Butterfly,HSBC,10000000.0,1Y_5Y_10Y,15.0
+ZAR,Vanilla Butterfly,HSBC,200000.0,2Y_5Y_10Y,4.0
+ZAR,Vanilla Butterfly,HSBC,500000.0,2Y_5Y_10Y,5.0
+ZAR,Vanilla Butterfly,HSBC,1000000.0,2Y_5Y_10Y,6.0
+ZAR,Vanilla Butterfly,HSBC,2000000.0,2Y_5Y_10Y,8.0
+ZAR,Vanilla Butterfly,HSBC,5000000.0,2Y_5Y_10Y,12.0
+ZAR,Vanilla Butterfly,HSBC,10000000.0,2Y_5Y_10Y,15.0
+ZAR,Vanilla Butterfly,Goldman,200000.0,1Y_2Y_5Y,2.0
+ZAR,Vanilla Butterfly,Goldman,500000.0,1Y_2Y_5Y,4.0
+ZAR,Vanilla Butterfly,Goldman,1000000.0,1Y_2Y_5Y,8.0
+ZAR,Vanilla Butterfly,Goldman,2000000.0,1Y_2Y_5Y,12.0
+ZAR,Vanilla Butterfly,Goldman,5000000.0,1Y_2Y_5Y,15.0
+ZAR,Vanilla Butterfly,Goldman,10000000.0,1Y_2Y_5Y,25.0
+ZAR,Vanilla Butterfly,Goldman,200000.0,1Y_2Y_10Y,2.0
+ZAR,Vanilla Butterfly,Goldman,500000.0,1Y_2Y_10Y,4.0
+ZAR,Vanilla Butterfly,Goldman,1000000.0,1Y_2Y_10Y,8.0
+ZAR,Vanilla Butterfly,Goldman,2000000.0,1Y_2Y_10Y,12.0
+ZAR,Vanilla Butterfly,Goldman,5000000.0,1Y_2Y_10Y,15.0
+ZAR,Vanilla Butterfly,Goldman,10000000.0,1Y_2Y_10Y,25.0
+ZAR,Vanilla Butterfly,Goldman,200000.0,1Y_5Y_10Y,2.0
+ZAR,Vanilla Butterfly,Goldman,500000.0,1Y_5Y_10Y,4.0
+ZAR,Vanilla Butterfly,Goldman,1000000.0,1Y_5Y_10Y,8.0
+ZAR,Vanilla Butterfly,Goldman,2000000.0,1Y_5Y_10Y,12.0
+ZAR,Vanilla Butterfly,Goldman,5000000.0,1Y_5Y_10Y,15.0
+ZAR,Vanilla Butterfly,Goldman,10000000.0,1Y_5Y_10Y,25.0
+ZAR,Vanilla Butterfly,Goldman,200000.0,2Y_5Y_10Y,2.0
+ZAR,Vanilla Butterfly,Goldman,500000.0,2Y_5Y_10Y,4.0
+ZAR,Vanilla Butterfly,Goldman,1000000.0,2Y_5Y_10Y,8.0
+ZAR,Vanilla Butterfly,Goldman,2000000.0,2Y_5Y_10Y,12.0
+ZAR,Vanilla Butterfly,Goldman,5000000.0,2Y_5Y_10Y,15.0
+ZAR,Vanilla Butterfly,Goldman,10000000.0,2Y_5Y_10Y,25.0
+ZAR,Vanilla Butterfly,Wells Fargo,200000.0,1Y_2Y_5Y,1.58203125
+ZAR,Vanilla Butterfly,Wells Fargo,500000.0,1Y_2Y_5Y,1.9775390625
+ZAR,Vanilla Butterfly,Wells Fargo,1000000.0,1Y_2Y_5Y,2.63671875
+ZAR,Vanilla Butterfly,Wells Fargo,2000000.0,1Y_2Y_5Y,4.39453125
+ZAR,Vanilla Butterfly,Wells Fargo,5000000.0,1Y_2Y_5Y,6.15234375
+ZAR,Vanilla Butterfly,Wells Fargo,10000000.0,1Y_2Y_5Y,10.546875
+ZAR,Vanilla Butterfly,Wells Fargo,200000.0,1Y_2Y_10Y,2.63671875
+ZAR,Vanilla Butterfly,Wells Fargo,500000.0,1Y_2Y_10Y,3.2958984375
+ZAR,Vanilla Butterfly,Wells Fargo,1000000.0,1Y_2Y_10Y,4.39453125
+ZAR,Vanilla Butterfly,Wells Fargo,2000000.0,1Y_2Y_10Y,6.591796875
+ZAR,Vanilla Butterfly,Wells Fargo,5000000.0,1Y_2Y_10Y,8.7890625
+ZAR,Vanilla Butterfly,Wells Fargo,10000000.0,1Y_2Y_10Y,15.8203125
+ZAR,Vanilla Butterfly,Wells Fargo,200000.0,1Y_5Y_10Y,2.109375
+ZAR,Vanilla Butterfly,Wells Fargo,500000.0,1Y_5Y_10Y,2.63671875
+ZAR,Vanilla Butterfly,Wells Fargo,1000000.0,1Y_5Y_10Y,3.515625
+ZAR,Vanilla Butterfly,Wells Fargo,2000000.0,1Y_5Y_10Y,5.2734375
+ZAR,Vanilla Butterfly,Wells Fargo,5000000.0,1Y_5Y_10Y,7.03125
+ZAR,Vanilla Butterfly,Wells Fargo,10000000.0,1Y_5Y_10Y,12.3046875
+ZAR,Vanilla Butterfly,Wells Fargo,200000.0,2Y_5Y_10Y,2.109375
+ZAR,Vanilla Butterfly,Wells Fargo,500000.0,2Y_5Y_10Y,2.63671875
+ZAR,Vanilla Butterfly,Wells Fargo,1000000.0,2Y_5Y_10Y,3.515625
+ZAR,Vanilla Butterfly,Wells Fargo,2000000.0,2Y_5Y_10Y,5.2734375
+ZAR,Vanilla Butterfly,Wells Fargo,5000000.0,2Y_5Y_10Y,7.03125
+ZAR,Vanilla Butterfly,Wells Fargo,10000000.0,2Y_5Y_10Y,12.3046875
+ZAR,Vanilla Butterfly,Citi,200000.0,1Y_2Y_5Y,3.0
+ZAR,Vanilla Butterfly,Citi,500000.0,1Y_2Y_5Y,5.0
+ZAR,Vanilla Butterfly,Citi,1000000.0,1Y_2Y_5Y,7.0
+ZAR,Vanilla Butterfly,Citi,2000000.0,1Y_2Y_5Y,15.0
+ZAR,Vanilla Butterfly,Citi,5000000.0,1Y_2Y_5Y,20.0
+ZAR,Vanilla Butterfly,Citi,10000000.0,1Y_2Y_5Y,25.0
+ZAR,Vanilla Butterfly,Citi,200000.0,1Y_2Y_10Y,3.0
+ZAR,Vanilla Butterfly,Citi,500000.0,1Y_2Y_10Y,6.0
+ZAR,Vanilla Butterfly,Citi,1000000.0,1Y_2Y_10Y,10.0
+ZAR,Vanilla Butterfly,Citi,2000000.0,1Y_2Y_10Y,20.0
+ZAR,Vanilla Butterfly,Citi,5000000.0,1Y_2Y_10Y,25.0
+ZAR,Vanilla Butterfly,Citi,10000000.0,1Y_2Y_10Y,30.0
+ZAR,Vanilla Butterfly,Citi,200000.0,1Y_5Y_10Y,4.0
+ZAR,Vanilla Butterfly,Citi,500000.0,1Y_5Y_10Y,6.0
+ZAR,Vanilla Butterfly,Citi,1000000.0,1Y_5Y_10Y,8.0
+ZAR,Vanilla Butterfly,Citi,2000000.0,1Y_5Y_10Y,13.0
+ZAR,Vanilla Butterfly,Citi,5000000.0,1Y_5Y_10Y,23.0
+ZAR,Vanilla Butterfly,Citi,10000000.0,1Y_5Y_10Y,29.0
+ZAR,Vanilla Butterfly,Citi,200000.0,2Y_5Y_10Y,3.0
+ZAR,Vanilla Butterfly,Citi,500000.0,2Y_5Y_10Y,5.0
+ZAR,Vanilla Butterfly,Citi,1000000.0,2Y_5Y_10Y,6.0
+ZAR,Vanilla Butterfly,Citi,2000000.0,2Y_5Y_10Y,10.0
+ZAR,Vanilla Butterfly,Citi,5000000.0,2Y_5Y_10Y,20.0
+ZAR,Vanilla Butterfly,Citi,10000000.0,2Y_5Y_10Y,25.0
+ZAR,Vanilla Butterfly,RBS,200000.0,1Y_2Y_5Y,
+ZAR,Vanilla Butterfly,RBS,500000.0,1Y_2Y_5Y,
+ZAR,Vanilla Butterfly,RBS,1000000.0,1Y_2Y_5Y,
+ZAR,Vanilla Butterfly,RBS,2000000.0,1Y_2Y_5Y,
+ZAR,Vanilla Butterfly,RBS,5000000.0,1Y_2Y_5Y,
+ZAR,Vanilla Butterfly,RBS,10000000.0,1Y_2Y_5Y,
+ZAR,Vanilla Butterfly,RBS,200000.0,1Y_2Y_10Y,
+ZAR,Vanilla Butterfly,RBS,500000.0,1Y_2Y_10Y,
+ZAR,Vanilla Butterfly,RBS,1000000.0,1Y_2Y_10Y,
+ZAR,Vanilla Butterfly,RBS,2000000.0,1Y_2Y_10Y,
+ZAR,Vanilla Butterfly,RBS,5000000.0,1Y_2Y_10Y,
+ZAR,Vanilla Butterfly,RBS,10000000.0,1Y_2Y_10Y,
+ZAR,Vanilla Butterfly,RBS,200000.0,1Y_5Y_10Y,
+ZAR,Vanilla Butterfly,RBS,500000.0,1Y_5Y_10Y,
+ZAR,Vanilla Butterfly,RBS,1000000.0,1Y_5Y_10Y,
+ZAR,Vanilla Butterfly,RBS,2000000.0,1Y_5Y_10Y,
+ZAR,Vanilla Butterfly,RBS,5000000.0,1Y_5Y_10Y,
+ZAR,Vanilla Butterfly,RBS,10000000.0,1Y_5Y_10Y,
+ZAR,Vanilla Butterfly,RBS,200000.0,2Y_5Y_10Y,
+ZAR,Vanilla Butterfly,RBS,500000.0,2Y_5Y_10Y,
+ZAR,Vanilla Butterfly,RBS,1000000.0,2Y_5Y_10Y,
+ZAR,Vanilla Butterfly,RBS,2000000.0,2Y_5Y_10Y,
+ZAR,Vanilla Butterfly,RBS,5000000.0,2Y_5Y_10Y,
+ZAR,Vanilla Butterfly,RBS,10000000.0,2Y_5Y_10Y,
+ZAR,Vanilla Butterfly,BAML,200000.0,1Y_2Y_5Y,0.8
+ZAR,Vanilla Butterfly,BAML,500000.0,1Y_2Y_5Y,2.0
+ZAR,Vanilla Butterfly,BAML,1000000.0,1Y_2Y_5Y,4.0
+ZAR,Vanilla Butterfly,BAML,2000000.0,1Y_2Y_5Y,8.0
+ZAR,Vanilla Butterfly,BAML,5000000.0,1Y_2Y_5Y,12.0
+ZAR,Vanilla Butterfly,BAML,10000000.0,1Y_2Y_5Y,24.0
+ZAR,Vanilla Butterfly,BAML,200000.0,1Y_2Y_10Y,0.8
+ZAR,Vanilla Butterfly,BAML,500000.0,1Y_2Y_10Y,2.0
+ZAR,Vanilla Butterfly,BAML,1000000.0,1Y_2Y_10Y,4.0
+ZAR,Vanilla Butterfly,BAML,2000000.0,1Y_2Y_10Y,8.0
+ZAR,Vanilla Butterfly,BAML,5000000.0,1Y_2Y_10Y,12.0
+ZAR,Vanilla Butterfly,BAML,10000000.0,1Y_2Y_10Y,24.0
+ZAR,Vanilla Butterfly,BAML,200000.0,1Y_5Y_10Y,0.8
+ZAR,Vanilla Butterfly,BAML,500000.0,1Y_5Y_10Y,2.0
+ZAR,Vanilla Butterfly,BAML,1000000.0,1Y_5Y_10Y,4.0
+ZAR,Vanilla Butterfly,BAML,2000000.0,1Y_5Y_10Y,8.0
+ZAR,Vanilla Butterfly,BAML,5000000.0,1Y_5Y_10Y,12.0
+ZAR,Vanilla Butterfly,BAML,10000000.0,1Y_5Y_10Y,24.0
+ZAR,Vanilla Butterfly,BAML,200000.0,2Y_5Y_10Y,0.8
+ZAR,Vanilla Butterfly,BAML,500000.0,2Y_5Y_10Y,2.0
+ZAR,Vanilla Butterfly,BAML,1000000.0,2Y_5Y_10Y,4.0
+ZAR,Vanilla Butterfly,BAML,2000000.0,2Y_5Y_10Y,8.0
+ZAR,Vanilla Butterfly,BAML,5000000.0,2Y_5Y_10Y,12.0
+ZAR,Vanilla Butterfly,BAML,10000000.0,2Y_5Y_10Y,24.0
+ZAR,Vanilla Butterfly,Morgan Stanley,200000.0,1Y_2Y_5Y,8.0
+ZAR,Vanilla Butterfly,Morgan Stanley,500000.0,1Y_2Y_5Y,10.0
+ZAR,Vanilla Butterfly,Morgan Stanley,1000000.0,1Y_2Y_5Y,15.0
+ZAR,Vanilla Butterfly,Morgan Stanley,2000000.0,1Y_2Y_5Y,20.0
+ZAR,Vanilla Butterfly,Morgan Stanley,5000000.0,1Y_2Y_5Y,25.0
+ZAR,Vanilla Butterfly,Morgan Stanley,10000000.0,1Y_2Y_5Y,30.0
+ZAR,Vanilla Butterfly,Morgan Stanley,200000.0,1Y_2Y_10Y,8.0
+ZAR,Vanilla Butterfly,Morgan Stanley,500000.0,1Y_2Y_10Y,10.0
+ZAR,Vanilla Butterfly,Morgan Stanley,1000000.0,1Y_2Y_10Y,15.0
+ZAR,Vanilla Butterfly,Morgan Stanley,2000000.0,1Y_2Y_10Y,20.0
+ZAR,Vanilla Butterfly,Morgan Stanley,5000000.0,1Y_2Y_10Y,25.0
+ZAR,Vanilla Butterfly,Morgan Stanley,10000000.0,1Y_2Y_10Y,30.0
+ZAR,Vanilla Butterfly,Morgan Stanley,200000.0,1Y_5Y_10Y,8.0
+ZAR,Vanilla Butterfly,Morgan Stanley,500000.0,1Y_5Y_10Y,10.0
+ZAR,Vanilla Butterfly,Morgan Stanley,1000000.0,1Y_5Y_10Y,15.0
+ZAR,Vanilla Butterfly,Morgan Stanley,2000000.0,1Y_5Y_10Y,20.0
+ZAR,Vanilla Butterfly,Morgan Stanley,5000000.0,1Y_5Y_10Y,25.0
+ZAR,Vanilla Butterfly,Morgan Stanley,10000000.0,1Y_5Y_10Y,30.0
+ZAR,Vanilla Butterfly,Morgan Stanley,200000.0,2Y_5Y_10Y,8.0
+ZAR,Vanilla Butterfly,Morgan Stanley,500000.0,2Y_5Y_10Y,10.0
+ZAR,Vanilla Butterfly,Morgan Stanley,1000000.0,2Y_5Y_10Y,15.0
+ZAR,Vanilla Butterfly,Morgan Stanley,2000000.0,2Y_5Y_10Y,20.0
+ZAR,Vanilla Butterfly,Morgan Stanley,5000000.0,2Y_5Y_10Y,25.0
+ZAR,Vanilla Butterfly,Morgan Stanley,10000000.0,2Y_5Y_10Y,30.0
+ZAR,Vanilla Butterfly,Scotia,200000.0,1Y_2Y_5Y,
+ZAR,Vanilla Butterfly,Scotia,500000.0,1Y_2Y_5Y,
+ZAR,Vanilla Butterfly,Scotia,1000000.0,1Y_2Y_5Y,
+ZAR,Vanilla Butterfly,Scotia,2000000.0,1Y_2Y_5Y,
+ZAR,Vanilla Butterfly,Scotia,5000000.0,1Y_2Y_5Y,
+ZAR,Vanilla Butterfly,Scotia,10000000.0,1Y_2Y_5Y,
+ZAR,Vanilla Butterfly,Scotia,200000.0,1Y_2Y_10Y,
+ZAR,Vanilla Butterfly,Scotia,500000.0,1Y_2Y_10Y,
+ZAR,Vanilla Butterfly,Scotia,1000000.0,1Y_2Y_10Y,
+ZAR,Vanilla Butterfly,Scotia,2000000.0,1Y_2Y_10Y,
+ZAR,Vanilla Butterfly,Scotia,5000000.0,1Y_2Y_10Y,
+ZAR,Vanilla Butterfly,Scotia,10000000.0,1Y_2Y_10Y,
+ZAR,Vanilla Butterfly,Scotia,200000.0,1Y_5Y_10Y,
+ZAR,Vanilla Butterfly,Scotia,500000.0,1Y_5Y_10Y,
+ZAR,Vanilla Butterfly,Scotia,1000000.0,1Y_5Y_10Y,
+ZAR,Vanilla Butterfly,Scotia,2000000.0,1Y_5Y_10Y,
+ZAR,Vanilla Butterfly,Scotia,5000000.0,1Y_5Y_10Y,
+ZAR,Vanilla Butterfly,Scotia,10000000.0,1Y_5Y_10Y,
+ZAR,Vanilla Butterfly,Scotia,200000.0,2Y_5Y_10Y,
+ZAR,Vanilla Butterfly,Scotia,500000.0,2Y_5Y_10Y,
+ZAR,Vanilla Butterfly,Scotia,1000000.0,2Y_5Y_10Y,
+ZAR,Vanilla Butterfly,Scotia,2000000.0,2Y_5Y_10Y,
+ZAR,Vanilla Butterfly,Scotia,5000000.0,2Y_5Y_10Y,
+ZAR,Vanilla Butterfly,Scotia,10000000.0,2Y_5Y_10Y,
+ZAR,Vanilla Butterfly,JPM,200000.0,1Y_2Y_5Y,8.0
+ZAR,Vanilla Butterfly,JPM,500000.0,1Y_2Y_5Y,12.0
+ZAR,Vanilla Butterfly,JPM,1000000.0,1Y_2Y_5Y,16.0
+ZAR,Vanilla Butterfly,JPM,2000000.0,1Y_2Y_5Y,28.0
+ZAR,Vanilla Butterfly,JPM,5000000.0,1Y_2Y_5Y,32.0
+ZAR,Vanilla Butterfly,JPM,10000000.0,1Y_2Y_5Y,40.0
+ZAR,Vanilla Butterfly,JPM,200000.0,1Y_2Y_10Y,8.0
+ZAR,Vanilla Butterfly,JPM,500000.0,1Y_2Y_10Y,12.0
+ZAR,Vanilla Butterfly,JPM,1000000.0,1Y_2Y_10Y,16.0
+ZAR,Vanilla Butterfly,JPM,2000000.0,1Y_2Y_10Y,28.0
+ZAR,Vanilla Butterfly,JPM,5000000.0,1Y_2Y_10Y,32.0
+ZAR,Vanilla Butterfly,JPM,10000000.0,1Y_2Y_10Y,40.0
+ZAR,Vanilla Butterfly,JPM,200000.0,1Y_5Y_10Y,8.0
+ZAR,Vanilla Butterfly,JPM,500000.0,1Y_5Y_10Y,12.0
+ZAR,Vanilla Butterfly,JPM,1000000.0,1Y_5Y_10Y,16.0
+ZAR,Vanilla Butterfly,JPM,2000000.0,1Y_5Y_10Y,28.0
+ZAR,Vanilla Butterfly,JPM,5000000.0,1Y_5Y_10Y,32.0
+ZAR,Vanilla Butterfly,JPM,10000000.0,1Y_5Y_10Y,40.0
+ZAR,Vanilla Butterfly,JPM,200000.0,2Y_5Y_10Y,8.0
+ZAR,Vanilla Butterfly,JPM,500000.0,2Y_5Y_10Y,12.0
+ZAR,Vanilla Butterfly,JPM,1000000.0,2Y_5Y_10Y,16.0
+ZAR,Vanilla Butterfly,JPM,2000000.0,2Y_5Y_10Y,28.0
+ZAR,Vanilla Butterfly,JPM,5000000.0,2Y_5Y_10Y,32.0
+ZAR,Vanilla Butterfly,JPM,10000000.0,2Y_5Y_10Y,40.0
+ZAR,Vanilla Butterfly,SocGen,200000.0,1Y_2Y_5Y,2.0
+ZAR,Vanilla Butterfly,SocGen,500000.0,1Y_2Y_5Y,3.0
+ZAR,Vanilla Butterfly,SocGen,1000000.0,1Y_2Y_5Y,4.0
+ZAR,Vanilla Butterfly,SocGen,2000000.0,1Y_2Y_5Y,5.0
+ZAR,Vanilla Butterfly,SocGen,5000000.0,1Y_2Y_5Y,6.0
+ZAR,Vanilla Butterfly,SocGen,10000000.0,1Y_2Y_5Y,7.0
+ZAR,Vanilla Butterfly,SocGen,200000.0,1Y_2Y_10Y,2.0
+ZAR,Vanilla Butterfly,SocGen,500000.0,1Y_2Y_10Y,3.0
+ZAR,Vanilla Butterfly,SocGen,1000000.0,1Y_2Y_10Y,4.0
+ZAR,Vanilla Butterfly,SocGen,2000000.0,1Y_2Y_10Y,5.0
+ZAR,Vanilla Butterfly,SocGen,5000000.0,1Y_2Y_10Y,6.0
+ZAR,Vanilla Butterfly,SocGen,10000000.0,1Y_2Y_10Y,7.0
+ZAR,Vanilla Butterfly,SocGen,200000.0,1Y_5Y_10Y,2.0
+ZAR,Vanilla Butterfly,SocGen,500000.0,1Y_5Y_10Y,3.0
+ZAR,Vanilla Butterfly,SocGen,1000000.0,1Y_5Y_10Y,4.0
+ZAR,Vanilla Butterfly,SocGen,2000000.0,1Y_5Y_10Y,5.0
+ZAR,Vanilla Butterfly,SocGen,5000000.0,1Y_5Y_10Y,6.0
+ZAR,Vanilla Butterfly,SocGen,10000000.0,1Y_5Y_10Y,7.0
+ZAR,Vanilla Butterfly,SocGen,200000.0,2Y_5Y_10Y,2.0
+ZAR,Vanilla Butterfly,SocGen,500000.0,2Y_5Y_10Y,3.0
+ZAR,Vanilla Butterfly,SocGen,1000000.0,2Y_5Y_10Y,4.0
+ZAR,Vanilla Butterfly,SocGen,2000000.0,2Y_5Y_10Y,5.0
+ZAR,Vanilla Butterfly,SocGen,5000000.0,2Y_5Y_10Y,6.0
+ZAR,Vanilla Butterfly,SocGen,10000000.0,2Y_5Y_10Y,7.0
+ZAR,Vanilla Butterfly,Barclays,200000.0,1Y_2Y_5Y,2.0
+ZAR,Vanilla Butterfly,Barclays,500000.0,1Y_2Y_5Y,3.0
+ZAR,Vanilla Butterfly,Barclays,1000000.0,1Y_2Y_5Y,5.0
+ZAR,Vanilla Butterfly,Barclays,2000000.0,1Y_2Y_5Y,8.0
+ZAR,Vanilla Butterfly,Barclays,5000000.0,1Y_2Y_5Y,10.0
+ZAR,Vanilla Butterfly,Barclays,10000000.0,1Y_2Y_5Y,15.0
+ZAR,Vanilla Butterfly,Barclays,200000.0,1Y_2Y_10Y,2.0
+ZAR,Vanilla Butterfly,Barclays,500000.0,1Y_2Y_10Y,3.0
+ZAR,Vanilla Butterfly,Barclays,1000000.0,1Y_2Y_10Y,5.0
+ZAR,Vanilla Butterfly,Barclays,2000000.0,1Y_2Y_10Y,8.0
+ZAR,Vanilla Butterfly,Barclays,5000000.0,1Y_2Y_10Y,10.0
+ZAR,Vanilla Butterfly,Barclays,10000000.0,1Y_2Y_10Y,15.0
+ZAR,Vanilla Butterfly,Barclays,200000.0,1Y_5Y_10Y,2.0
+ZAR,Vanilla Butterfly,Barclays,500000.0,1Y_5Y_10Y,3.0
+ZAR,Vanilla Butterfly,Barclays,1000000.0,1Y_5Y_10Y,5.0
+ZAR,Vanilla Butterfly,Barclays,2000000.0,1Y_5Y_10Y,8.0
+ZAR,Vanilla Butterfly,Barclays,5000000.0,1Y_5Y_10Y,10.0
+ZAR,Vanilla Butterfly,Barclays,10000000.0,1Y_5Y_10Y,15.0
+ZAR,Vanilla Butterfly,Barclays,200000.0,2Y_5Y_10Y,2.0
+ZAR,Vanilla Butterfly,Barclays,500000.0,2Y_5Y_10Y,3.0
+ZAR,Vanilla Butterfly,Barclays,1000000.0,2Y_5Y_10Y,5.0
+ZAR,Vanilla Butterfly,Barclays,2000000.0,2Y_5Y_10Y,8.0
+ZAR,Vanilla Butterfly,Barclays,5000000.0,2Y_5Y_10Y,10.0
+ZAR,Vanilla Butterfly,Barclays,10000000.0,2Y_5Y_10Y,15.0
+ZAR,Vanilla Butterfly,RBC,200000.0,1Y_2Y_5Y,
+ZAR,Vanilla Butterfly,RBC,500000.0,1Y_2Y_5Y,
+ZAR,Vanilla Butterfly,RBC,1000000.0,1Y_2Y_5Y,
+ZAR,Vanilla Butterfly,RBC,2000000.0,1Y_2Y_5Y,
+ZAR,Vanilla Butterfly,RBC,5000000.0,1Y_2Y_5Y,
+ZAR,Vanilla Butterfly,RBC,10000000.0,1Y_2Y_5Y,
+ZAR,Vanilla Butterfly,RBC,200000.0,1Y_2Y_10Y,
+ZAR,Vanilla Butterfly,RBC,500000.0,1Y_2Y_10Y,
+ZAR,Vanilla Butterfly,RBC,1000000.0,1Y_2Y_10Y,
+ZAR,Vanilla Butterfly,RBC,2000000.0,1Y_2Y_10Y,
+ZAR,Vanilla Butterfly,RBC,5000000.0,1Y_2Y_10Y,
+ZAR,Vanilla Butterfly,RBC,10000000.0,1Y_2Y_10Y,
+ZAR,Vanilla Butterfly,RBC,200000.0,1Y_5Y_10Y,
+ZAR,Vanilla Butterfly,RBC,500000.0,1Y_5Y_10Y,
+ZAR,Vanilla Butterfly,RBC,1000000.0,1Y_5Y_10Y,
+ZAR,Vanilla Butterfly,RBC,2000000.0,1Y_5Y_10Y,
+ZAR,Vanilla Butterfly,RBC,5000000.0,1Y_5Y_10Y,
+ZAR,Vanilla Butterfly,RBC,10000000.0,1Y_5Y_10Y,
+ZAR,Vanilla Butterfly,RBC,200000.0,2Y_5Y_10Y,
+ZAR,Vanilla Butterfly,RBC,500000.0,2Y_5Y_10Y,
+ZAR,Vanilla Butterfly,RBC,1000000.0,2Y_5Y_10Y,
+ZAR,Vanilla Butterfly,RBC,2000000.0,2Y_5Y_10Y,
+ZAR,Vanilla Butterfly,RBC,5000000.0,2Y_5Y_10Y,
+ZAR,Vanilla Butterfly,RBC,10000000.0,2Y_5Y_10Y,
+ZAR,Vanilla Butterfly,Credit Agricole,200000.0,1Y_2Y_5Y,
+ZAR,Vanilla Butterfly,Credit Agricole,500000.0,1Y_2Y_5Y,
+ZAR,Vanilla Butterfly,Credit Agricole,1000000.0,1Y_2Y_5Y,
+ZAR,Vanilla Butterfly,Credit Agricole,2000000.0,1Y_2Y_5Y,
+ZAR,Vanilla Butterfly,Credit Agricole,5000000.0,1Y_2Y_5Y,
+ZAR,Vanilla Butterfly,Credit Agricole,10000000.0,1Y_2Y_5Y,
+ZAR,Vanilla Butterfly,Credit Agricole,200000.0,1Y_2Y_10Y,
+ZAR,Vanilla Butterfly,Credit Agricole,500000.0,1Y_2Y_10Y,
+ZAR,Vanilla Butterfly,Credit Agricole,1000000.0,1Y_2Y_10Y,
+ZAR,Vanilla Butterfly,Credit Agricole,2000000.0,1Y_2Y_10Y,
+ZAR,Vanilla Butterfly,Credit Agricole,5000000.0,1Y_2Y_10Y,
+ZAR,Vanilla Butterfly,Credit Agricole,10000000.0,1Y_2Y_10Y,
+ZAR,Vanilla Butterfly,Credit Agricole,200000.0,1Y_5Y_10Y,
+ZAR,Vanilla Butterfly,Credit Agricole,500000.0,1Y_5Y_10Y,
+ZAR,Vanilla Butterfly,Credit Agricole,1000000.0,1Y_5Y_10Y,
+ZAR,Vanilla Butterfly,Credit Agricole,2000000.0,1Y_5Y_10Y,
+ZAR,Vanilla Butterfly,Credit Agricole,5000000.0,1Y_5Y_10Y,
+ZAR,Vanilla Butterfly,Credit Agricole,10000000.0,1Y_5Y_10Y,
+ZAR,Vanilla Butterfly,Credit Agricole,200000.0,2Y_5Y_10Y,
+ZAR,Vanilla Butterfly,Credit Agricole,500000.0,2Y_5Y_10Y,
+ZAR,Vanilla Butterfly,Credit Agricole,1000000.0,2Y_5Y_10Y,
+ZAR,Vanilla Butterfly,Credit Agricole,2000000.0,2Y_5Y_10Y,
+ZAR,Vanilla Butterfly,Credit Agricole,5000000.0,2Y_5Y_10Y,
+ZAR,Vanilla Butterfly,Credit Agricole,10000000.0,2Y_5Y_10Y,
+ZAR,Vanilla Butterfly,Santander,200000.0,1Y_2Y_5Y,
+ZAR,Vanilla Butterfly,Santander,500000.0,1Y_2Y_5Y,
+ZAR,Vanilla Butterfly,Santander,1000000.0,1Y_2Y_5Y,
+ZAR,Vanilla Butterfly,Santander,2000000.0,1Y_2Y_5Y,
+ZAR,Vanilla Butterfly,Santander,5000000.0,1Y_2Y_5Y,
+ZAR,Vanilla Butterfly,Santander,10000000.0,1Y_2Y_5Y,
+ZAR,Vanilla Butterfly,Santander,200000.0,1Y_2Y_10Y,
+ZAR,Vanilla Butterfly,Santander,500000.0,1Y_2Y_10Y,
+ZAR,Vanilla Butterfly,Santander,1000000.0,1Y_2Y_10Y,
+ZAR,Vanilla Butterfly,Santander,2000000.0,1Y_2Y_10Y,
+ZAR,Vanilla Butterfly,Santander,5000000.0,1Y_2Y_10Y,
+ZAR,Vanilla Butterfly,Santander,10000000.0,1Y_2Y_10Y,
+ZAR,Vanilla Butterfly,Santander,200000.0,1Y_5Y_10Y,
+ZAR,Vanilla Butterfly,Santander,500000.0,1Y_5Y_10Y,
+ZAR,Vanilla Butterfly,Santander,1000000.0,1Y_5Y_10Y,
+ZAR,Vanilla Butterfly,Santander,2000000.0,1Y_5Y_10Y,
+ZAR,Vanilla Butterfly,Santander,5000000.0,1Y_5Y_10Y,
+ZAR,Vanilla Butterfly,Santander,10000000.0,1Y_5Y_10Y,
+ZAR,Vanilla Butterfly,Santander,200000.0,2Y_5Y_10Y,
+ZAR,Vanilla Butterfly,Santander,500000.0,2Y_5Y_10Y,
+ZAR,Vanilla Butterfly,Santander,1000000.0,2Y_5Y_10Y,
+ZAR,Vanilla Butterfly,Santander,2000000.0,2Y_5Y_10Y,
+ZAR,Vanilla Butterfly,Santander,5000000.0,2Y_5Y_10Y,
+ZAR,Vanilla Butterfly,Santander,10000000.0,2Y_5Y_10Y,
+ZAR,Vanilla Butterfly,BBVA,200000.0,1Y_2Y_5Y,
+ZAR,Vanilla Butterfly,BBVA,500000.0,1Y_2Y_5Y,
+ZAR,Vanilla Butterfly,BBVA,1000000.0,1Y_2Y_5Y,
+ZAR,Vanilla Butterfly,BBVA,2000000.0,1Y_2Y_5Y,
+ZAR,Vanilla Butterfly,BBVA,5000000.0,1Y_2Y_5Y,
+ZAR,Vanilla Butterfly,BBVA,10000000.0,1Y_2Y_5Y,
+ZAR,Vanilla Butterfly,BBVA,200000.0,1Y_2Y_10Y,
+ZAR,Vanilla Butterfly,BBVA,500000.0,1Y_2Y_10Y,
+ZAR,Vanilla Butterfly,BBVA,1000000.0,1Y_2Y_10Y,
+ZAR,Vanilla Butterfly,BBVA,2000000.0,1Y_2Y_10Y,
+ZAR,Vanilla Butterfly,BBVA,5000000.0,1Y_2Y_10Y,
+ZAR,Vanilla Butterfly,BBVA,10000000.0,1Y_2Y_10Y,
+ZAR,Vanilla Butterfly,BBVA,200000.0,1Y_5Y_10Y,
+ZAR,Vanilla Butterfly,BBVA,500000.0,1Y_5Y_10Y,
+ZAR,Vanilla Butterfly,BBVA,1000000.0,1Y_5Y_10Y,
+ZAR,Vanilla Butterfly,BBVA,2000000.0,1Y_5Y_10Y,
+ZAR,Vanilla Butterfly,BBVA,5000000.0,1Y_5Y_10Y,
+ZAR,Vanilla Butterfly,BBVA,10000000.0,1Y_5Y_10Y,
+ZAR,Vanilla Butterfly,BBVA,200000.0,2Y_5Y_10Y,
+ZAR,Vanilla Butterfly,BBVA,500000.0,2Y_5Y_10Y,
+ZAR,Vanilla Butterfly,BBVA,1000000.0,2Y_5Y_10Y,
+ZAR,Vanilla Butterfly,BBVA,2000000.0,2Y_5Y_10Y,
+ZAR,Vanilla Butterfly,BBVA,5000000.0,2Y_5Y_10Y,
+ZAR,Vanilla Butterfly,BBVA,10000000.0,2Y_5Y_10Y,

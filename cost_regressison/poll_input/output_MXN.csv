@@ -1,0 +1,2593 @@
+CCY,TradeType,Firm,Size,Tenor,Spread
+MXN,Vanilla Outright,Median,4000000.0,1Y,6.0
+MXN,Vanilla Outright,Median,10000000.0,1Y,10.0
+MXN,Vanilla Outright,Median,20000000.0,1Y,16.0
+MXN,Vanilla Outright,Median,40000000.0,1Y,25.5
+MXN,Vanilla Outright,Median,100000000.0,1Y,40.0
+MXN,Vanilla Outright,Median,200000000.0,1Y,65.0
+MXN,Vanilla Outright,Median,4000000.0,2Y,7.5
+MXN,Vanilla Outright,Median,10000000.0,2Y,10.0
+MXN,Vanilla Outright,Median,20000000.0,2Y,16.0
+MXN,Vanilla Outright,Median,40000000.0,2Y,26.0
+MXN,Vanilla Outright,Median,100000000.0,2Y,40.0
+MXN,Vanilla Outright,Median,200000000.0,2Y,65.0
+MXN,Vanilla Outright,Median,4000000.0,5Y,9.5
+MXN,Vanilla Outright,Median,10000000.0,5Y,14.0
+MXN,Vanilla Outright,Median,20000000.0,5Y,19.0
+MXN,Vanilla Outright,Median,40000000.0,5Y,30.0
+MXN,Vanilla Outright,Median,100000000.0,5Y,45.0
+MXN,Vanilla Outright,Median,200000000.0,5Y,75.0
+MXN,Vanilla Outright,Median,4000000.0,10Y,10.0
+MXN,Vanilla Outright,Median,10000000.0,10Y,14.5
+MXN,Vanilla Outright,Median,20000000.0,10Y,19.0
+MXN,Vanilla Outright,Median,40000000.0,10Y,32.5
+MXN,Vanilla Outright,Median,100000000.0,10Y,45.0
+MXN,Vanilla Outright,Median,200000000.0,10Y,75.0
+MXN,Vanilla Outright,Median,-4000000.0,1Y,6.625
+MXN,Vanilla Outright,Median,-10000000.0,1Y,10.5
+MXN,Vanilla Outright,Median,-20000000.0,1Y,17.0
+MXN,Vanilla Outright,Median,-40000000.0,1Y,28.0
+MXN,Vanilla Outright,Median,-100000000.0,1Y,45.0
+MXN,Vanilla Outright,Median,-200000000.0,1Y,70.0
+MXN,Vanilla Outright,Median,-4000000.0,2Y,8.0
+MXN,Vanilla Outright,Median,-10000000.0,2Y,11.0
+MXN,Vanilla Outright,Median,-20000000.0,2Y,17.5
+MXN,Vanilla Outright,Median,-40000000.0,2Y,28.5
+MXN,Vanilla Outright,Median,-100000000.0,2Y,45.0
+MXN,Vanilla Outright,Median,-200000000.0,2Y,70.0
+MXN,Vanilla Outright,Median,-4000000.0,5Y,10.0
+MXN,Vanilla Outright,Median,-10000000.0,5Y,14.5
+MXN,Vanilla Outright,Median,-20000000.0,5Y,20.0
+MXN,Vanilla Outright,Median,-40000000.0,5Y,32.5
+MXN,Vanilla Outright,Median,-100000000.0,5Y,45.0
+MXN,Vanilla Outright,Median,-200000000.0,5Y,75.0
+MXN,Vanilla Outright,Median,-4000000.0,10Y,10.0
+MXN,Vanilla Outright,Median,-10000000.0,10Y,15.0
+MXN,Vanilla Outright,Median,-20000000.0,10Y,20.5
+MXN,Vanilla Outright,Median,-40000000.0,10Y,37.5
+MXN,Vanilla Outright,Median,-100000000.0,10Y,45.0
+MXN,Vanilla Outright,Median,-200000000.0,10Y,75.0
+MXN,Vanilla Outright,DB,4000000.0,1Y,7.5
+MXN,Vanilla Outright,DB,10000000.0,1Y,20.0
+MXN,Vanilla Outright,DB,20000000.0,1Y,30.0
+MXN,Vanilla Outright,DB,40000000.0,1Y,75.0
+MXN,Vanilla Outright,DB,100000000.0,1Y,100.0
+MXN,Vanilla Outright,DB,200000000.0,1Y,200.0
+MXN,Vanilla Outright,DB,4000000.0,2Y,7.5
+MXN,Vanilla Outright,DB,10000000.0,2Y,20.0
+MXN,Vanilla Outright,DB,20000000.0,2Y,30.0
+MXN,Vanilla Outright,DB,40000000.0,2Y,75.0
+MXN,Vanilla Outright,DB,100000000.0,2Y,100.0
+MXN,Vanilla Outright,DB,200000000.0,2Y,200.0
+MXN,Vanilla Outright,DB,4000000.0,5Y,7.5
+MXN,Vanilla Outright,DB,10000000.0,5Y,20.0
+MXN,Vanilla Outright,DB,20000000.0,5Y,30.0
+MXN,Vanilla Outright,DB,40000000.0,5Y,75.0
+MXN,Vanilla Outright,DB,100000000.0,5Y,100.0
+MXN,Vanilla Outright,DB,200000000.0,5Y,200.0
+MXN,Vanilla Outright,DB,4000000.0,10Y,7.5
+MXN,Vanilla Outright,DB,10000000.0,10Y,20.0
+MXN,Vanilla Outright,DB,20000000.0,10Y,30.0
+MXN,Vanilla Outright,DB,40000000.0,10Y,75.0
+MXN,Vanilla Outright,DB,100000000.0,10Y,100.0
+MXN,Vanilla Outright,DB,200000000.0,10Y,200.0
+MXN,Vanilla Outright,DB,-4000000.0,1Y,15.0
+MXN,Vanilla Outright,DB,-10000000.0,1Y,30.0
+MXN,Vanilla Outright,DB,-20000000.0,1Y,45.0
+MXN,Vanilla Outright,DB,-40000000.0,1Y,100.0
+MXN,Vanilla Outright,DB,-100000000.0,1Y,200.0
+MXN,Vanilla Outright,DB,-200000000.0,1Y,300.0
+MXN,Vanilla Outright,DB,-4000000.0,2Y,15.0
+MXN,Vanilla Outright,DB,-10000000.0,2Y,30.0
+MXN,Vanilla Outright,DB,-20000000.0,2Y,45.0
+MXN,Vanilla Outright,DB,-40000000.0,2Y,100.0
+MXN,Vanilla Outright,DB,-100000000.0,2Y,200.0
+MXN,Vanilla Outright,DB,-200000000.0,2Y,300.0
+MXN,Vanilla Outright,DB,-4000000.0,5Y,15.0
+MXN,Vanilla Outright,DB,-10000000.0,5Y,30.0
+MXN,Vanilla Outright,DB,-20000000.0,5Y,45.0
+MXN,Vanilla Outright,DB,-40000000.0,5Y,100.0
+MXN,Vanilla Outright,DB,-100000000.0,5Y,200.0
+MXN,Vanilla Outright,DB,-200000000.0,5Y,300.0
+MXN,Vanilla Outright,DB,-4000000.0,10Y,15.0
+MXN,Vanilla Outright,DB,-10000000.0,10Y,30.0
+MXN,Vanilla Outright,DB,-20000000.0,10Y,45.0
+MXN,Vanilla Outright,DB,-40000000.0,10Y,100.0
+MXN,Vanilla Outright,DB,-100000000.0,10Y,200.0
+MXN,Vanilla Outright,DB,-200000000.0,10Y,300.0
+MXN,Vanilla Outright,BNP,4000000.0,1Y,5.0
+MXN,Vanilla Outright,BNP,10000000.0,1Y,7.0
+MXN,Vanilla Outright,BNP,20000000.0,1Y,10.0
+MXN,Vanilla Outright,BNP,40000000.0,1Y,12.5
+MXN,Vanilla Outright,BNP,100000000.0,1Y,15.0
+MXN,Vanilla Outright,BNP,200000000.0,1Y,25.0
+MXN,Vanilla Outright,BNP,4000000.0,2Y,7.5
+MXN,Vanilla Outright,BNP,10000000.0,2Y,10.0
+MXN,Vanilla Outright,BNP,20000000.0,2Y,15.0
+MXN,Vanilla Outright,BNP,40000000.0,2Y,20.0
+MXN,Vanilla Outright,BNP,100000000.0,2Y,25.0
+MXN,Vanilla Outright,BNP,200000000.0,2Y,40.0
+MXN,Vanilla Outright,BNP,4000000.0,5Y,10.0
+MXN,Vanilla Outright,BNP,10000000.0,5Y,10.0
+MXN,Vanilla Outright,BNP,20000000.0,5Y,15.0
+MXN,Vanilla Outright,BNP,40000000.0,5Y,20.0
+MXN,Vanilla Outright,BNP,100000000.0,5Y,25.0
+MXN,Vanilla Outright,BNP,200000000.0,5Y,40.0
+MXN,Vanilla Outright,BNP,4000000.0,10Y,10.0
+MXN,Vanilla Outright,BNP,10000000.0,10Y,12.5
+MXN,Vanilla Outright,BNP,20000000.0,10Y,15.0
+MXN,Vanilla Outright,BNP,40000000.0,10Y,20.0
+MXN,Vanilla Outright,BNP,100000000.0,10Y,25.0
+MXN,Vanilla Outright,BNP,200000000.0,10Y,40.0
+MXN,Vanilla Outright,BNP,-4000000.0,1Y,10.0
+MXN,Vanilla Outright,BNP,-10000000.0,1Y,15.0
+MXN,Vanilla Outright,BNP,-20000000.0,1Y,25.0
+MXN,Vanilla Outright,BNP,-40000000.0,1Y,30.0
+MXN,Vanilla Outright,BNP,-100000000.0,1Y,45.0
+MXN,Vanilla Outright,BNP,-200000000.0,1Y,75.0
+MXN,Vanilla Outright,BNP,-4000000.0,2Y,10.0
+MXN,Vanilla Outright,BNP,-10000000.0,2Y,15.0
+MXN,Vanilla Outright,BNP,-20000000.0,2Y,25.0
+MXN,Vanilla Outright,BNP,-40000000.0,2Y,30.0
+MXN,Vanilla Outright,BNP,-100000000.0,2Y,45.0
+MXN,Vanilla Outright,BNP,-200000000.0,2Y,75.0
+MXN,Vanilla Outright,BNP,-4000000.0,5Y,12.5
+MXN,Vanilla Outright,BNP,-10000000.0,5Y,17.5
+MXN,Vanilla Outright,BNP,-20000000.0,5Y,25.0
+MXN,Vanilla Outright,BNP,-40000000.0,5Y,35.0
+MXN,Vanilla Outright,BNP,-100000000.0,5Y,50.0
+MXN,Vanilla Outright,BNP,-200000000.0,5Y,75.0
+MXN,Vanilla Outright,BNP,-4000000.0,10Y,15.0
+MXN,Vanilla Outright,BNP,-10000000.0,10Y,20.0
+MXN,Vanilla Outright,BNP,-20000000.0,10Y,30.0
+MXN,Vanilla Outright,BNP,-40000000.0,10Y,40.0
+MXN,Vanilla Outright,BNP,-100000000.0,10Y,50.0
+MXN,Vanilla Outright,BNP,-200000000.0,10Y,75.0
+MXN,Vanilla Outright,RABO,4000000.0,1Y,6.0
+MXN,Vanilla Outright,RABO,10000000.0,1Y,8.0
+MXN,Vanilla Outright,RABO,20000000.0,1Y,10.0
+MXN,Vanilla Outright,RABO,40000000.0,1Y,14.0
+MXN,Vanilla Outright,RABO,100000000.0,1Y,20.0
+MXN,Vanilla Outright,RABO,200000000.0,1Y,24.0
+MXN,Vanilla Outright,RABO,4000000.0,2Y,8.0
+MXN,Vanilla Outright,RABO,10000000.0,2Y,10.0
+MXN,Vanilla Outright,RABO,20000000.0,2Y,12.0
+MXN,Vanilla Outright,RABO,40000000.0,2Y,16.0
+MXN,Vanilla Outright,RABO,100000000.0,2Y,22.0
+MXN,Vanilla Outright,RABO,200000000.0,2Y,26.0
+MXN,Vanilla Outright,RABO,4000000.0,5Y,8.0
+MXN,Vanilla Outright,RABO,10000000.0,5Y,10.0
+MXN,Vanilla Outright,RABO,20000000.0,5Y,12.0
+MXN,Vanilla Outright,RABO,40000000.0,5Y,16.0
+MXN,Vanilla Outright,RABO,100000000.0,5Y,22.0
+MXN,Vanilla Outright,RABO,200000000.0,5Y,26.0
+MXN,Vanilla Outright,RABO,4000000.0,10Y,10.0
+MXN,Vanilla Outright,RABO,10000000.0,10Y,12.0
+MXN,Vanilla Outright,RABO,20000000.0,10Y,14.0
+MXN,Vanilla Outright,RABO,40000000.0,10Y,18.0
+MXN,Vanilla Outright,RABO,100000000.0,10Y,24.0
+MXN,Vanilla Outright,RABO,200000000.0,10Y,30.0
+MXN,Vanilla Outright,RABO,-4000000.0,1Y,6.0
+MXN,Vanilla Outright,RABO,-10000000.0,1Y,8.0
+MXN,Vanilla Outright,RABO,-20000000.0,1Y,10.0
+MXN,Vanilla Outright,RABO,-40000000.0,1Y,14.0
+MXN,Vanilla Outright,RABO,-100000000.0,1Y,20.0
+MXN,Vanilla Outright,RABO,-200000000.0,1Y,24.0
+MXN,Vanilla Outright,RABO,-4000000.0,2Y,8.0
+MXN,Vanilla Outright,RABO,-10000000.0,2Y,10.0
+MXN,Vanilla Outright,RABO,-20000000.0,2Y,12.0
+MXN,Vanilla Outright,RABO,-40000000.0,2Y,16.0
+MXN,Vanilla Outright,RABO,-100000000.0,2Y,22.0
+MXN,Vanilla Outright,RABO,-200000000.0,2Y,26.0
+MXN,Vanilla Outright,RABO,-4000000.0,5Y,8.0
+MXN,Vanilla Outright,RABO,-10000000.0,5Y,10.0
+MXN,Vanilla Outright,RABO,-20000000.0,5Y,12.0
+MXN,Vanilla Outright,RABO,-40000000.0,5Y,16.0
+MXN,Vanilla Outright,RABO,-100000000.0,5Y,22.0
+MXN,Vanilla Outright,RABO,-200000000.0,5Y,26.0
+MXN,Vanilla Outright,RABO,-4000000.0,10Y,10.0
+MXN,Vanilla Outright,RABO,-10000000.0,10Y,12.0
+MXN,Vanilla Outright,RABO,-20000000.0,10Y,14.0
+MXN,Vanilla Outright,RABO,-40000000.0,10Y,18.0
+MXN,Vanilla Outright,RABO,-100000000.0,10Y,24.0
+MXN,Vanilla Outright,RABO,-200000000.0,10Y,30.0
+MXN,Vanilla Outright,Nomura,4000000.0,1Y,5.0
+MXN,Vanilla Outright,Nomura,10000000.0,1Y,7.0
+MXN,Vanilla Outright,Nomura,20000000.0,1Y,10.0
+MXN,Vanilla Outright,Nomura,40000000.0,1Y,15.0
+MXN,Vanilla Outright,Nomura,100000000.0,1Y,20.0
+MXN,Vanilla Outright,Nomura,200000000.0,1Y,25.0
+MXN,Vanilla Outright,Nomura,4000000.0,2Y,7.0
+MXN,Vanilla Outright,Nomura,10000000.0,2Y,10.0
+MXN,Vanilla Outright,Nomura,20000000.0,2Y,13.0
+MXN,Vanilla Outright,Nomura,40000000.0,2Y,18.0
+MXN,Vanilla Outright,Nomura,100000000.0,2Y,20.0
+MXN,Vanilla Outright,Nomura,200000000.0,2Y,27.0
+MXN,Vanilla Outright,Nomura,4000000.0,5Y,10.0
+MXN,Vanilla Outright,Nomura,10000000.0,5Y,12.0
+MXN,Vanilla Outright,Nomura,20000000.0,5Y,15.0
+MXN,Vanilla Outright,Nomura,40000000.0,5Y,20.0
+MXN,Vanilla Outright,Nomura,100000000.0,5Y,22.0
+MXN,Vanilla Outright,Nomura,200000000.0,5Y,27.0
+MXN,Vanilla Outright,Nomura,4000000.0,10Y,10.0
+MXN,Vanilla Outright,Nomura,10000000.0,10Y,12.0
+MXN,Vanilla Outright,Nomura,20000000.0,10Y,15.0
+MXN,Vanilla Outright,Nomura,40000000.0,10Y,20.0
+MXN,Vanilla Outright,Nomura,100000000.0,10Y,22.0
+MXN,Vanilla Outright,Nomura,200000000.0,10Y,27.0
+MXN,Vanilla Outright,Nomura,-4000000.0,1Y,5.0
+MXN,Vanilla Outright,Nomura,-10000000.0,1Y,7.0
+MXN,Vanilla Outright,Nomura,-20000000.0,1Y,10.0
+MXN,Vanilla Outright,Nomura,-40000000.0,1Y,15.0
+MXN,Vanilla Outright,Nomura,-100000000.0,1Y,20.0
+MXN,Vanilla Outright,Nomura,-200000000.0,1Y,25.0
+MXN,Vanilla Outright,Nomura,-4000000.0,2Y,7.0
+MXN,Vanilla Outright,Nomura,-10000000.0,2Y,10.0
+MXN,Vanilla Outright,Nomura,-20000000.0,2Y,13.0
+MXN,Vanilla Outright,Nomura,-40000000.0,2Y,18.0
+MXN,Vanilla Outright,Nomura,-100000000.0,2Y,20.0
+MXN,Vanilla Outright,Nomura,-200000000.0,2Y,27.0
+MXN,Vanilla Outright,Nomura,-4000000.0,5Y,10.0
+MXN,Vanilla Outright,Nomura,-10000000.0,5Y,12.0
+MXN,Vanilla Outright,Nomura,-20000000.0,5Y,15.0
+MXN,Vanilla Outright,Nomura,-40000000.0,5Y,20.0
+MXN,Vanilla Outright,Nomura,-100000000.0,5Y,22.0
+MXN,Vanilla Outright,Nomura,-200000000.0,5Y,27.0
+MXN,Vanilla Outright,Nomura,-4000000.0,10Y,10.0
+MXN,Vanilla Outright,Nomura,-10000000.0,10Y,12.0
+MXN,Vanilla Outright,Nomura,-20000000.0,10Y,15.0
+MXN,Vanilla Outright,Nomura,-40000000.0,10Y,20.0
+MXN,Vanilla Outright,Nomura,-100000000.0,10Y,22.0
+MXN,Vanilla Outright,Nomura,-200000000.0,10Y,27.0
+MXN,Vanilla Outright,UBS,4000000.0,1Y,5.0
+MXN,Vanilla Outright,UBS,10000000.0,1Y,10.0
+MXN,Vanilla Outright,UBS,20000000.0,1Y,20.0
+MXN,Vanilla Outright,UBS,40000000.0,1Y,40.0
+MXN,Vanilla Outright,UBS,100000000.0,1Y,60.0
+MXN,Vanilla Outright,UBS,200000000.0,1Y,100.0
+MXN,Vanilla Outright,UBS,4000000.0,2Y,5.0
+MXN,Vanilla Outright,UBS,10000000.0,2Y,10.0
+MXN,Vanilla Outright,UBS,20000000.0,2Y,20.0
+MXN,Vanilla Outright,UBS,40000000.0,2Y,40.0
+MXN,Vanilla Outright,UBS,100000000.0,2Y,60.0
+MXN,Vanilla Outright,UBS,200000000.0,2Y,100.0
+MXN,Vanilla Outright,UBS,4000000.0,5Y,5.0
+MXN,Vanilla Outright,UBS,10000000.0,5Y,10.0
+MXN,Vanilla Outright,UBS,20000000.0,5Y,20.0
+MXN,Vanilla Outright,UBS,40000000.0,5Y,40.0
+MXN,Vanilla Outright,UBS,100000000.0,5Y,60.0
+MXN,Vanilla Outright,UBS,200000000.0,5Y,100.0
+MXN,Vanilla Outright,UBS,4000000.0,10Y,5.0
+MXN,Vanilla Outright,UBS,10000000.0,10Y,10.0
+MXN,Vanilla Outright,UBS,20000000.0,10Y,20.0
+MXN,Vanilla Outright,UBS,40000000.0,10Y,40.0
+MXN,Vanilla Outright,UBS,100000000.0,10Y,60.0
+MXN,Vanilla Outright,UBS,200000000.0,10Y,100.0
+MXN,Vanilla Outright,UBS,-4000000.0,1Y,5.0
+MXN,Vanilla Outright,UBS,-10000000.0,1Y,10.0
+MXN,Vanilla Outright,UBS,-20000000.0,1Y,20.0
+MXN,Vanilla Outright,UBS,-40000000.0,1Y,40.0
+MXN,Vanilla Outright,UBS,-100000000.0,1Y,60.0
+MXN,Vanilla Outright,UBS,-200000000.0,1Y,100.0
+MXN,Vanilla Outright,UBS,-4000000.0,2Y,5.0
+MXN,Vanilla Outright,UBS,-10000000.0,2Y,10.0
+MXN,Vanilla Outright,UBS,-20000000.0,2Y,20.0
+MXN,Vanilla Outright,UBS,-40000000.0,2Y,40.0
+MXN,Vanilla Outright,UBS,-100000000.0,2Y,60.0
+MXN,Vanilla Outright,UBS,-200000000.0,2Y,100.0
+MXN,Vanilla Outright,UBS,-4000000.0,5Y,5.0
+MXN,Vanilla Outright,UBS,-10000000.0,5Y,10.0
+MXN,Vanilla Outright,UBS,-20000000.0,5Y,20.0
+MXN,Vanilla Outright,UBS,-40000000.0,5Y,40.0
+MXN,Vanilla Outright,UBS,-100000000.0,5Y,60.0
+MXN,Vanilla Outright,UBS,-200000000.0,5Y,100.0
+MXN,Vanilla Outright,UBS,-4000000.0,10Y,5.0
+MXN,Vanilla Outright,UBS,-10000000.0,10Y,10.0
+MXN,Vanilla Outright,UBS,-20000000.0,10Y,20.0
+MXN,Vanilla Outright,UBS,-40000000.0,10Y,40.0
+MXN,Vanilla Outright,UBS,-100000000.0,10Y,60.0
+MXN,Vanilla Outright,UBS,-200000000.0,10Y,100.0
+MXN,Vanilla Outright,BMO,4000000.0,1Y,
+MXN,Vanilla Outright,BMO,10000000.0,1Y,
+MXN,Vanilla Outright,BMO,20000000.0,1Y,
+MXN,Vanilla Outright,BMO,40000000.0,1Y,
+MXN,Vanilla Outright,BMO,100000000.0,1Y,
+MXN,Vanilla Outright,BMO,200000000.0,1Y,
+MXN,Vanilla Outright,BMO,4000000.0,2Y,
+MXN,Vanilla Outright,BMO,10000000.0,2Y,
+MXN,Vanilla Outright,BMO,20000000.0,2Y,
+MXN,Vanilla Outright,BMO,40000000.0,2Y,
+MXN,Vanilla Outright,BMO,100000000.0,2Y,
+MXN,Vanilla Outright,BMO,200000000.0,2Y,
+MXN,Vanilla Outright,BMO,4000000.0,5Y,
+MXN,Vanilla Outright,BMO,10000000.0,5Y,
+MXN,Vanilla Outright,BMO,20000000.0,5Y,
+MXN,Vanilla Outright,BMO,40000000.0,5Y,
+MXN,Vanilla Outright,BMO,100000000.0,5Y,
+MXN,Vanilla Outright,BMO,200000000.0,5Y,
+MXN,Vanilla Outright,BMO,4000000.0,10Y,
+MXN,Vanilla Outright,BMO,10000000.0,10Y,
+MXN,Vanilla Outright,BMO,20000000.0,10Y,
+MXN,Vanilla Outright,BMO,40000000.0,10Y,
+MXN,Vanilla Outright,BMO,100000000.0,10Y,
+MXN,Vanilla Outright,BMO,200000000.0,10Y,
+MXN,Vanilla Outright,BMO,-4000000.0,1Y,
+MXN,Vanilla Outright,BMO,-10000000.0,1Y,
+MXN,Vanilla Outright,BMO,-20000000.0,1Y,
+MXN,Vanilla Outright,BMO,-40000000.0,1Y,
+MXN,Vanilla Outright,BMO,-100000000.0,1Y,
+MXN,Vanilla Outright,BMO,-200000000.0,1Y,
+MXN,Vanilla Outright,BMO,-4000000.0,2Y,
+MXN,Vanilla Outright,BMO,-10000000.0,2Y,
+MXN,Vanilla Outright,BMO,-20000000.0,2Y,
+MXN,Vanilla Outright,BMO,-40000000.0,2Y,
+MXN,Vanilla Outright,BMO,-100000000.0,2Y,
+MXN,Vanilla Outright,BMO,-200000000.0,2Y,
+MXN,Vanilla Outright,BMO,-4000000.0,5Y,
+MXN,Vanilla Outright,BMO,-10000000.0,5Y,
+MXN,Vanilla Outright,BMO,-20000000.0,5Y,
+MXN,Vanilla Outright,BMO,-40000000.0,5Y,
+MXN,Vanilla Outright,BMO,-100000000.0,5Y,
+MXN,Vanilla Outright,BMO,-200000000.0,5Y,
+MXN,Vanilla Outright,BMO,-4000000.0,10Y,
+MXN,Vanilla Outright,BMO,-10000000.0,10Y,
+MXN,Vanilla Outright,BMO,-20000000.0,10Y,
+MXN,Vanilla Outright,BMO,-40000000.0,10Y,
+MXN,Vanilla Outright,BMO,-100000000.0,10Y,
+MXN,Vanilla Outright,BMO,-200000000.0,10Y,
+MXN,Vanilla Outright,TD,4000000.0,1Y,5.0
+MXN,Vanilla Outright,TD,10000000.0,1Y,10.0
+MXN,Vanilla Outright,TD,20000000.0,1Y,20.0
+MXN,Vanilla Outright,TD,40000000.0,1Y,40.0
+MXN,Vanilla Outright,TD,100000000.0,1Y,55.0
+MXN,Vanilla Outright,TD,200000000.0,1Y,70.0
+MXN,Vanilla Outright,TD,4000000.0,2Y,5.0
+MXN,Vanilla Outright,TD,10000000.0,2Y,10.0
+MXN,Vanilla Outright,TD,20000000.0,2Y,20.0
+MXN,Vanilla Outright,TD,40000000.0,2Y,40.0
+MXN,Vanilla Outright,TD,100000000.0,2Y,55.0
+MXN,Vanilla Outright,TD,200000000.0,2Y,70.0
+MXN,Vanilla Outright,TD,4000000.0,5Y,10.0
+MXN,Vanilla Outright,TD,10000000.0,5Y,15.0
+MXN,Vanilla Outright,TD,20000000.0,5Y,25.0
+MXN,Vanilla Outright,TD,40000000.0,5Y,45.0
+MXN,Vanilla Outright,TD,100000000.0,5Y,60.0
+MXN,Vanilla Outright,TD,200000000.0,5Y,75.0
+MXN,Vanilla Outright,TD,4000000.0,10Y,10.0
+MXN,Vanilla Outright,TD,10000000.0,10Y,15.0
+MXN,Vanilla Outright,TD,20000000.0,10Y,25.0
+MXN,Vanilla Outright,TD,40000000.0,10Y,45.0
+MXN,Vanilla Outright,TD,100000000.0,10Y,60.0
+MXN,Vanilla Outright,TD,200000000.0,10Y,75.0
+MXN,Vanilla Outright,TD,-4000000.0,1Y,5.0
+MXN,Vanilla Outright,TD,-10000000.0,1Y,10.0
+MXN,Vanilla Outright,TD,-20000000.0,1Y,20.0
+MXN,Vanilla Outright,TD,-40000000.0,1Y,40.0
+MXN,Vanilla Outright,TD,-100000000.0,1Y,55.0
+MXN,Vanilla Outright,TD,-200000000.0,1Y,70.0
+MXN,Vanilla Outright,TD,-4000000.0,2Y,5.0
+MXN,Vanilla Outright,TD,-10000000.0,2Y,10.0
+MXN,Vanilla Outright,TD,-20000000.0,2Y,20.0
+MXN,Vanilla Outright,TD,-40000000.0,2Y,40.0
+MXN,Vanilla Outright,TD,-100000000.0,2Y,55.0
+MXN,Vanilla Outright,TD,-200000000.0,2Y,70.0
+MXN,Vanilla Outright,TD,-4000000.0,5Y,10.0
+MXN,Vanilla Outright,TD,-10000000.0,5Y,15.0
+MXN,Vanilla Outright,TD,-20000000.0,5Y,25.0
+MXN,Vanilla Outright,TD,-40000000.0,5Y,45.0
+MXN,Vanilla Outright,TD,-100000000.0,5Y,60.0
+MXN,Vanilla Outright,TD,-200000000.0,5Y,75.0
+MXN,Vanilla Outright,TD,-4000000.0,10Y,10.0
+MXN,Vanilla Outright,TD,-10000000.0,10Y,15.0
+MXN,Vanilla Outright,TD,-20000000.0,10Y,25.0
+MXN,Vanilla Outright,TD,-40000000.0,10Y,45.0
+MXN,Vanilla Outright,TD,-100000000.0,10Y,60.0
+MXN,Vanilla Outright,TD,-200000000.0,10Y,75.0
+MXN,Vanilla Outright,Credit Suisse,4000000.0,1Y,6.0
+MXN,Vanilla Outright,Credit Suisse,10000000.0,1Y,8.0
+MXN,Vanilla Outright,Credit Suisse,20000000.0,1Y,10.0
+MXN,Vanilla Outright,Credit Suisse,40000000.0,1Y,14.0
+MXN,Vanilla Outright,Credit Suisse,100000000.0,1Y,23.0
+MXN,Vanilla Outright,Credit Suisse,200000000.0,1Y,28.0
+MXN,Vanilla Outright,Credit Suisse,4000000.0,2Y,10.0
+MXN,Vanilla Outright,Credit Suisse,10000000.0,2Y,12.0
+MXN,Vanilla Outright,Credit Suisse,20000000.0,2Y,14.0
+MXN,Vanilla Outright,Credit Suisse,40000000.0,2Y,18.0
+MXN,Vanilla Outright,Credit Suisse,100000000.0,2Y,28.0
+MXN,Vanilla Outright,Credit Suisse,200000000.0,2Y,32.0
+MXN,Vanilla Outright,Credit Suisse,4000000.0,5Y,12.0
+MXN,Vanilla Outright,Credit Suisse,10000000.0,5Y,14.0
+MXN,Vanilla Outright,Credit Suisse,20000000.0,5Y,16.0
+MXN,Vanilla Outright,Credit Suisse,40000000.0,5Y,24.0
+MXN,Vanilla Outright,Credit Suisse,100000000.0,5Y,34.0
+MXN,Vanilla Outright,Credit Suisse,200000000.0,5Y,37.0
+MXN,Vanilla Outright,Credit Suisse,4000000.0,10Y,14.0
+MXN,Vanilla Outright,Credit Suisse,10000000.0,10Y,16.0
+MXN,Vanilla Outright,Credit Suisse,20000000.0,10Y,18.0
+MXN,Vanilla Outright,Credit Suisse,40000000.0,10Y,26.0
+MXN,Vanilla Outright,Credit Suisse,100000000.0,10Y,36.0
+MXN,Vanilla Outright,Credit Suisse,200000000.0,10Y,40.0
+MXN,Vanilla Outright,Credit Suisse,-4000000.0,1Y,9.0
+MXN,Vanilla Outright,Credit Suisse,-10000000.0,1Y,11.0
+MXN,Vanilla Outright,Credit Suisse,-20000000.0,1Y,13.0
+MXN,Vanilla Outright,Credit Suisse,-40000000.0,1Y,17.0
+MXN,Vanilla Outright,Credit Suisse,-100000000.0,1Y,26.0
+MXN,Vanilla Outright,Credit Suisse,-200000000.0,1Y,31.0
+MXN,Vanilla Outright,Credit Suisse,-4000000.0,2Y,13.0
+MXN,Vanilla Outright,Credit Suisse,-10000000.0,2Y,15.0
+MXN,Vanilla Outright,Credit Suisse,-20000000.0,2Y,17.0
+MXN,Vanilla Outright,Credit Suisse,-40000000.0,2Y,21.0
+MXN,Vanilla Outright,Credit Suisse,-100000000.0,2Y,31.0
+MXN,Vanilla Outright,Credit Suisse,-200000000.0,2Y,35.0
+MXN,Vanilla Outright,Credit Suisse,-4000000.0,5Y,15.0
+MXN,Vanilla Outright,Credit Suisse,-10000000.0,5Y,17.0
+MXN,Vanilla Outright,Credit Suisse,-20000000.0,5Y,19.0
+MXN,Vanilla Outright,Credit Suisse,-40000000.0,5Y,27.0
+MXN,Vanilla Outright,Credit Suisse,-100000000.0,5Y,37.0
+MXN,Vanilla Outright,Credit Suisse,-200000000.0,5Y,40.0
+MXN,Vanilla Outright,Credit Suisse,-4000000.0,10Y,17.0
+MXN,Vanilla Outright,Credit Suisse,-10000000.0,10Y,19.0
+MXN,Vanilla Outright,Credit Suisse,-20000000.0,10Y,21.0
+MXN,Vanilla Outright,Credit Suisse,-40000000.0,10Y,29.0
+MXN,Vanilla Outright,Credit Suisse,-100000000.0,10Y,39.0
+MXN,Vanilla Outright,Credit Suisse,-200000000.0,10Y,45.0
+MXN,Vanilla Outright,HSBC,4000000.0,1Y,6.0
+MXN,Vanilla Outright,HSBC,10000000.0,1Y,12.5
+MXN,Vanilla Outright,HSBC,20000000.0,1Y,25.0
+MXN,Vanilla Outright,HSBC,40000000.0,1Y,50.0
+MXN,Vanilla Outright,HSBC,100000000.0,1Y,100.0
+MXN,Vanilla Outright,HSBC,200000000.0,1Y,200.0
+MXN,Vanilla Outright,HSBC,4000000.0,2Y,6.25
+MXN,Vanilla Outright,HSBC,10000000.0,2Y,12.5
+MXN,Vanilla Outright,HSBC,20000000.0,2Y,25.0
+MXN,Vanilla Outright,HSBC,40000000.0,2Y,50.0
+MXN,Vanilla Outright,HSBC,100000000.0,2Y,100.0
+MXN,Vanilla Outright,HSBC,200000000.0,2Y,200.0
+MXN,Vanilla Outright,HSBC,4000000.0,5Y,6.875000000000001
+MXN,Vanilla Outright,HSBC,10000000.0,5Y,13.750000000000002
+MXN,Vanilla Outright,HSBC,20000000.0,5Y,27.500000000000004
+MXN,Vanilla Outright,HSBC,40000000.0,5Y,55.00000000000001
+MXN,Vanilla Outright,HSBC,100000000.0,5Y,110.00000000000001
+MXN,Vanilla Outright,HSBC,200000000.0,5Y,220.00000000000003
+MXN,Vanilla Outright,HSBC,4000000.0,10Y,9.375
+MXN,Vanilla Outright,HSBC,10000000.0,10Y,18.75
+MXN,Vanilla Outright,HSBC,20000000.0,10Y,37.5
+MXN,Vanilla Outright,HSBC,40000000.0,10Y,75.0
+MXN,Vanilla Outright,HSBC,100000000.0,10Y,150.0
+MXN,Vanilla Outright,HSBC,200000000.0,10Y,300.0
+MXN,Vanilla Outright,HSBC,-4000000.0,1Y,6.25
+MXN,Vanilla Outright,HSBC,-10000000.0,1Y,12.5
+MXN,Vanilla Outright,HSBC,-20000000.0,1Y,25.0
+MXN,Vanilla Outright,HSBC,-40000000.0,1Y,50.0
+MXN,Vanilla Outright,HSBC,-100000000.0,1Y,100.0
+MXN,Vanilla Outright,HSBC,-200000000.0,1Y,200.0
+MXN,Vanilla Outright,HSBC,-4000000.0,2Y,6.25
+MXN,Vanilla Outright,HSBC,-10000000.0,2Y,12.5
+MXN,Vanilla Outright,HSBC,-20000000.0,2Y,25.0
+MXN,Vanilla Outright,HSBC,-40000000.0,2Y,50.0
+MXN,Vanilla Outright,HSBC,-100000000.0,2Y,100.0
+MXN,Vanilla Outright,HSBC,-200000000.0,2Y,200.0
+MXN,Vanilla Outright,HSBC,-4000000.0,5Y,6.875000000000001
+MXN,Vanilla Outright,HSBC,-10000000.0,5Y,13.750000000000002
+MXN,Vanilla Outright,HSBC,-20000000.0,5Y,27.500000000000004
+MXN,Vanilla Outright,HSBC,-40000000.0,5Y,55.00000000000001
+MXN,Vanilla Outright,HSBC,-100000000.0,5Y,110.00000000000001
+MXN,Vanilla Outright,HSBC,-200000000.0,5Y,220.00000000000003
+MXN,Vanilla Outright,HSBC,-4000000.0,10Y,9.375
+MXN,Vanilla Outright,HSBC,-10000000.0,10Y,18.75
+MXN,Vanilla Outright,HSBC,-20000000.0,10Y,37.5
+MXN,Vanilla Outright,HSBC,-40000000.0,10Y,75.0
+MXN,Vanilla Outright,HSBC,-100000000.0,10Y,150.0
+MXN,Vanilla Outright,HSBC,-200000000.0,10Y,300.0
+MXN,Vanilla Outright,Goldman,4000000.0,1Y,7.0
+MXN,Vanilla Outright,Goldman,10000000.0,1Y,10.0
+MXN,Vanilla Outright,Goldman,20000000.0,1Y,15.0
+MXN,Vanilla Outright,Goldman,40000000.0,1Y,25.0
+MXN,Vanilla Outright,Goldman,100000000.0,1Y,45.0
+MXN,Vanilla Outright,Goldman,200000000.0,1Y,75.0
+MXN,Vanilla Outright,Goldman,4000000.0,2Y,7.0
+MXN,Vanilla Outright,Goldman,10000000.0,2Y,10.0
+MXN,Vanilla Outright,Goldman,20000000.0,2Y,15.0
+MXN,Vanilla Outright,Goldman,40000000.0,2Y,25.0
+MXN,Vanilla Outright,Goldman,100000000.0,2Y,45.0
+MXN,Vanilla Outright,Goldman,200000000.0,2Y,75.0
+MXN,Vanilla Outright,Goldman,4000000.0,5Y,7.0
+MXN,Vanilla Outright,Goldman,10000000.0,5Y,10.0
+MXN,Vanilla Outright,Goldman,20000000.0,5Y,15.0
+MXN,Vanilla Outright,Goldman,40000000.0,5Y,25.0
+MXN,Vanilla Outright,Goldman,100000000.0,5Y,45.0
+MXN,Vanilla Outright,Goldman,200000000.0,5Y,75.0
+MXN,Vanilla Outright,Goldman,4000000.0,10Y,7.0
+MXN,Vanilla Outright,Goldman,10000000.0,10Y,10.0
+MXN,Vanilla Outright,Goldman,20000000.0,10Y,15.0
+MXN,Vanilla Outright,Goldman,40000000.0,10Y,25.0
+MXN,Vanilla Outright,Goldman,100000000.0,10Y,45.0
+MXN,Vanilla Outright,Goldman,200000000.0,10Y,75.0
+MXN,Vanilla Outright,Goldman,-4000000.0,1Y,7.0
+MXN,Vanilla Outright,Goldman,-10000000.0,1Y,10.0
+MXN,Vanilla Outright,Goldman,-20000000.0,1Y,15.0
+MXN,Vanilla Outright,Goldman,-40000000.0,1Y,25.0
+MXN,Vanilla Outright,Goldman,-100000000.0,1Y,45.0
+MXN,Vanilla Outright,Goldman,-200000000.0,1Y,75.0
+MXN,Vanilla Outright,Goldman,-4000000.0,2Y,7.0
+MXN,Vanilla Outright,Goldman,-10000000.0,2Y,10.0
+MXN,Vanilla Outright,Goldman,-20000000.0,2Y,15.0
+MXN,Vanilla Outright,Goldman,-40000000.0,2Y,25.0
+MXN,Vanilla Outright,Goldman,-100000000.0,2Y,45.0
+MXN,Vanilla Outright,Goldman,-200000000.0,2Y,75.0
+MXN,Vanilla Outright,Goldman,-4000000.0,5Y,7.0
+MXN,Vanilla Outright,Goldman,-10000000.0,5Y,10.0
+MXN,Vanilla Outright,Goldman,-20000000.0,5Y,15.0
+MXN,Vanilla Outright,Goldman,-40000000.0,5Y,25.0
+MXN,Vanilla Outright,Goldman,-100000000.0,5Y,45.0
+MXN,Vanilla Outright,Goldman,-200000000.0,5Y,75.0
+MXN,Vanilla Outright,Goldman,-4000000.0,10Y,7.0
+MXN,Vanilla Outright,Goldman,-10000000.0,10Y,10.0
+MXN,Vanilla Outright,Goldman,-20000000.0,10Y,15.0
+MXN,Vanilla Outright,Goldman,-40000000.0,10Y,25.0
+MXN,Vanilla Outright,Goldman,-100000000.0,10Y,45.0
+MXN,Vanilla Outright,Goldman,-200000000.0,10Y,75.0
+MXN,Vanilla Outright,Wells Fargo,4000000.0,1Y,5.0
+MXN,Vanilla Outright,Wells Fargo,10000000.0,1Y,8.75
+MXN,Vanilla Outright,Wells Fargo,20000000.0,1Y,12.5
+MXN,Vanilla Outright,Wells Fargo,40000000.0,1Y,18.75
+MXN,Vanilla Outright,Wells Fargo,100000000.0,1Y,31.25
+MXN,Vanilla Outright,Wells Fargo,200000000.0,1Y,43.75
+MXN,Vanilla Outright,Wells Fargo,4000000.0,2Y,5.0
+MXN,Vanilla Outright,Wells Fargo,10000000.0,2Y,8.75
+MXN,Vanilla Outright,Wells Fargo,20000000.0,2Y,12.5
+MXN,Vanilla Outright,Wells Fargo,40000000.0,2Y,18.75
+MXN,Vanilla Outright,Wells Fargo,100000000.0,2Y,31.25
+MXN,Vanilla Outright,Wells Fargo,200000000.0,2Y,43.75
+MXN,Vanilla Outright,Wells Fargo,4000000.0,5Y,5.5
+MXN,Vanilla Outright,Wells Fargo,10000000.0,5Y,9.625000000000002
+MXN,Vanilla Outright,Wells Fargo,20000000.0,5Y,13.75
+MXN,Vanilla Outright,Wells Fargo,40000000.0,5Y,20.625
+MXN,Vanilla Outright,Wells Fargo,100000000.0,5Y,34.37500000000001
+MXN,Vanilla Outright,Wells Fargo,200000000.0,5Y,48.125
+MXN,Vanilla Outright,Wells Fargo,4000000.0,10Y,6.050000000000001
+MXN,Vanilla Outright,Wells Fargo,10000000.0,10Y,10.587500000000002
+MXN,Vanilla Outright,Wells Fargo,20000000.0,10Y,15.125000000000002
+MXN,Vanilla Outright,Wells Fargo,40000000.0,10Y,22.687500000000004
+MXN,Vanilla Outright,Wells Fargo,100000000.0,10Y,37.81250000000001
+MXN,Vanilla Outright,Wells Fargo,200000000.0,10Y,52.9375
+MXN,Vanilla Outright,Wells Fargo,-4000000.0,1Y,4.75
+MXN,Vanilla Outright,Wells Fargo,-10000000.0,1Y,8.3125
+MXN,Vanilla Outright,Wells Fargo,-20000000.0,1Y,11.875
+MXN,Vanilla Outright,Wells Fargo,-40000000.0,1Y,17.8125
+MXN,Vanilla Outright,Wells Fargo,-100000000.0,1Y,29.6875
+MXN,Vanilla Outright,Wells Fargo,-200000000.0,1Y,41.5625
+MXN,Vanilla Outright,Wells Fargo,-4000000.0,2Y,4.75
+MXN,Vanilla Outright,Wells Fargo,-10000000.0,2Y,8.3125
+MXN,Vanilla Outright,Wells Fargo,-20000000.0,2Y,11.875
+MXN,Vanilla Outright,Wells Fargo,-40000000.0,2Y,17.8125
+MXN,Vanilla Outright,Wells Fargo,-100000000.0,2Y,29.6875
+MXN,Vanilla Outright,Wells Fargo,-200000000.0,2Y,41.5625
+MXN,Vanilla Outright,Wells Fargo,-4000000.0,5Y,5.225
+MXN,Vanilla Outright,Wells Fargo,-10000000.0,5Y,9.14375
+MXN,Vanilla Outright,Wells Fargo,-20000000.0,5Y,13.0625
+MXN,Vanilla Outright,Wells Fargo,-40000000.0,5Y,19.59375
+MXN,Vanilla Outright,Wells Fargo,-100000000.0,5Y,32.65625000000001
+MXN,Vanilla Outright,Wells Fargo,-200000000.0,5Y,45.71874999999999
+MXN,Vanilla Outright,Wells Fargo,-4000000.0,10Y,5.7475000000000005
+MXN,Vanilla Outright,Wells Fargo,-10000000.0,10Y,10.058125000000002
+MXN,Vanilla Outright,Wells Fargo,-20000000.0,10Y,14.368750000000002
+MXN,Vanilla Outright,Wells Fargo,-40000000.0,10Y,21.553125
+MXN,Vanilla Outright,Wells Fargo,-100000000.0,10Y,35.92187500000001
+MXN,Vanilla Outright,Wells Fargo,-200000000.0,10Y,50.290625000000006
+MXN,Vanilla Outright,Citi,4000000.0,1Y,8.0
+MXN,Vanilla Outright,Citi,10000000.0,1Y,10.0
+MXN,Vanilla Outright,Citi,20000000.0,1Y,17.0
+MXN,Vanilla Outright,Citi,40000000.0,1Y,22.0
+MXN,Vanilla Outright,Citi,100000000.0,1Y,53.0
+MXN,Vanilla Outright,Citi,200000000.0,1Y,85.0
+MXN,Vanilla Outright,Citi,4000000.0,2Y,8.0
+MXN,Vanilla Outright,Citi,10000000.0,2Y,10.0
+MXN,Vanilla Outright,Citi,20000000.0,2Y,17.0
+MXN,Vanilla Outright,Citi,40000000.0,2Y,22.0
+MXN,Vanilla Outright,Citi,100000000.0,2Y,53.0
+MXN,Vanilla Outright,Citi,200000000.0,2Y,85.0
+MXN,Vanilla Outright,Citi,4000000.0,5Y,11.0
+MXN,Vanilla Outright,Citi,10000000.0,5Y,15.0
+MXN,Vanilla Outright,Citi,20000000.0,5Y,22.0
+MXN,Vanilla Outright,Citi,40000000.0,5Y,30.0
+MXN,Vanilla Outright,Citi,100000000.0,5Y,73.0
+MXN,Vanilla Outright,Citi,200000000.0,5Y,110.0
+MXN,Vanilla Outright,Citi,4000000.0,10Y,16.0
+MXN,Vanilla Outright,Citi,10000000.0,10Y,20.0
+MXN,Vanilla Outright,Citi,20000000.0,10Y,32.0
+MXN,Vanilla Outright,Citi,40000000.0,10Y,45.0
+MXN,Vanilla Outright,Citi,100000000.0,10Y,103.0
+MXN,Vanilla Outright,Citi,200000000.0,10Y,160.0
+MXN,Vanilla Outright,Citi,-4000000.0,1Y,8.0
+MXN,Vanilla Outright,Citi,-10000000.0,1Y,10.0
+MXN,Vanilla Outright,Citi,-20000000.0,1Y,17.0
+MXN,Vanilla Outright,Citi,-40000000.0,1Y,22.0
+MXN,Vanilla Outright,Citi,-100000000.0,1Y,53.0
+MXN,Vanilla Outright,Citi,-200000000.0,1Y,85.0
+MXN,Vanilla Outright,Citi,-4000000.0,2Y,8.0
+MXN,Vanilla Outright,Citi,-10000000.0,2Y,10.0
+MXN,Vanilla Outright,Citi,-20000000.0,2Y,17.0
+MXN,Vanilla Outright,Citi,-40000000.0,2Y,22.0
+MXN,Vanilla Outright,Citi,-100000000.0,2Y,53.0
+MXN,Vanilla Outright,Citi,-200000000.0,2Y,85.0
+MXN,Vanilla Outright,Citi,-4000000.0,5Y,11.0
+MXN,Vanilla Outright,Citi,-10000000.0,5Y,15.0
+MXN,Vanilla Outright,Citi,-20000000.0,5Y,22.0
+MXN,Vanilla Outright,Citi,-40000000.0,5Y,30.0
+MXN,Vanilla Outright,Citi,-100000000.0,5Y,73.0
+MXN,Vanilla Outright,Citi,-200000000.0,5Y,110.0
+MXN,Vanilla Outright,Citi,-4000000.0,10Y,16.0
+MXN,Vanilla Outright,Citi,-10000000.0,10Y,20.0
+MXN,Vanilla Outright,Citi,-20000000.0,10Y,32.0
+MXN,Vanilla Outright,Citi,-40000000.0,10Y,45.0
+MXN,Vanilla Outright,Citi,-100000000.0,10Y,103.0
+MXN,Vanilla Outright,Citi,-200000000.0,10Y,160.0
+MXN,Vanilla Outright,RBS,4000000.0,1Y,
+MXN,Vanilla Outright,RBS,10000000.0,1Y,
+MXN,Vanilla Outright,RBS,20000000.0,1Y,
+MXN,Vanilla Outright,RBS,40000000.0,1Y,
+MXN,Vanilla Outright,RBS,100000000.0,1Y,
+MXN,Vanilla Outright,RBS,200000000.0,1Y,
+MXN,Vanilla Outright,RBS,4000000.0,2Y,
+MXN,Vanilla Outright,RBS,10000000.0,2Y,
+MXN,Vanilla Outright,RBS,20000000.0,2Y,
+MXN,Vanilla Outright,RBS,40000000.0,2Y,
+MXN,Vanilla Outright,RBS,100000000.0,2Y,
+MXN,Vanilla Outright,RBS,200000000.0,2Y,
+MXN,Vanilla Outright,RBS,4000000.0,5Y,
+MXN,Vanilla Outright,RBS,10000000.0,5Y,
+MXN,Vanilla Outright,RBS,20000000.0,5Y,
+MXN,Vanilla Outright,RBS,40000000.0,5Y,
+MXN,Vanilla Outright,RBS,100000000.0,5Y,
+MXN,Vanilla Outright,RBS,200000000.0,5Y,
+MXN,Vanilla Outright,RBS,4000000.0,10Y,
+MXN,Vanilla Outright,RBS,10000000.0,10Y,
+MXN,Vanilla Outright,RBS,20000000.0,10Y,
+MXN,Vanilla Outright,RBS,40000000.0,10Y,
+MXN,Vanilla Outright,RBS,100000000.0,10Y,
+MXN,Vanilla Outright,RBS,200000000.0,10Y,
+MXN,Vanilla Outright,RBS,-4000000.0,1Y,
+MXN,Vanilla Outright,RBS,-10000000.0,1Y,
+MXN,Vanilla Outright,RBS,-20000000.0,1Y,
+MXN,Vanilla Outright,RBS,-40000000.0,1Y,
+MXN,Vanilla Outright,RBS,-100000000.0,1Y,
+MXN,Vanilla Outright,RBS,-200000000.0,1Y,
+MXN,Vanilla Outright,RBS,-4000000.0,2Y,
+MXN,Vanilla Outright,RBS,-10000000.0,2Y,
+MXN,Vanilla Outright,RBS,-20000000.0,2Y,
+MXN,Vanilla Outright,RBS,-40000000.0,2Y,
+MXN,Vanilla Outright,RBS,-100000000.0,2Y,
+MXN,Vanilla Outright,RBS,-200000000.0,2Y,
+MXN,Vanilla Outright,RBS,-4000000.0,5Y,
+MXN,Vanilla Outright,RBS,-10000000.0,5Y,
+MXN,Vanilla Outright,RBS,-20000000.0,5Y,
+MXN,Vanilla Outright,RBS,-40000000.0,5Y,
+MXN,Vanilla Outright,RBS,-100000000.0,5Y,
+MXN,Vanilla Outright,RBS,-200000000.0,5Y,
+MXN,Vanilla Outright,RBS,-4000000.0,10Y,
+MXN,Vanilla Outright,RBS,-10000000.0,10Y,
+MXN,Vanilla Outright,RBS,-20000000.0,10Y,
+MXN,Vanilla Outright,RBS,-40000000.0,10Y,
+MXN,Vanilla Outright,RBS,-100000000.0,10Y,
+MXN,Vanilla Outright,RBS,-200000000.0,10Y,
+MXN,Vanilla Outright,BAML,4000000.0,1Y,13.5
+MXN,Vanilla Outright,BAML,10000000.0,1Y,25.3125
+MXN,Vanilla Outright,BAML,20000000.0,1Y,37.96875
+MXN,Vanilla Outright,BAML,40000000.0,1Y,56.953125
+MXN,Vanilla Outright,BAML,100000000.0,1Y,106.787109375
+MXN,Vanilla Outright,BAML,200000000.0,1Y,160.1806640625
+MXN,Vanilla Outright,BAML,4000000.0,2Y,13.5
+MXN,Vanilla Outright,BAML,10000000.0,2Y,25.3125
+MXN,Vanilla Outright,BAML,20000000.0,2Y,37.96875
+MXN,Vanilla Outright,BAML,40000000.0,2Y,56.953125
+MXN,Vanilla Outright,BAML,100000000.0,2Y,106.787109375
+MXN,Vanilla Outright,BAML,200000000.0,2Y,160.1806640625
+MXN,Vanilla Outright,BAML,4000000.0,5Y,13.5
+MXN,Vanilla Outright,BAML,10000000.0,5Y,25.3125
+MXN,Vanilla Outright,BAML,20000000.0,5Y,37.96875
+MXN,Vanilla Outright,BAML,40000000.0,5Y,56.953125
+MXN,Vanilla Outright,BAML,100000000.0,5Y,106.787109375
+MXN,Vanilla Outright,BAML,200000000.0,5Y,160.1806640625
+MXN,Vanilla Outright,BAML,4000000.0,10Y,13.5
+MXN,Vanilla Outright,BAML,10000000.0,10Y,25.3125
+MXN,Vanilla Outright,BAML,20000000.0,10Y,37.96875
+MXN,Vanilla Outright,BAML,40000000.0,10Y,56.953125
+MXN,Vanilla Outright,BAML,100000000.0,10Y,106.787109375
+MXN,Vanilla Outright,BAML,200000000.0,10Y,160.1806640625
+MXN,Vanilla Outright,BAML,-4000000.0,1Y,13.5
+MXN,Vanilla Outright,BAML,-10000000.0,1Y,25.3125
+MXN,Vanilla Outright,BAML,-20000000.0,1Y,37.96875
+MXN,Vanilla Outright,BAML,-40000000.0,1Y,56.953125
+MXN,Vanilla Outright,BAML,-100000000.0,1Y,106.787109375
+MXN,Vanilla Outright,BAML,-200000000.0,1Y,160.1806640625
+MXN,Vanilla Outright,BAML,-4000000.0,2Y,13.5
+MXN,Vanilla Outright,BAML,-10000000.0,2Y,25.3125
+MXN,Vanilla Outright,BAML,-20000000.0,2Y,37.96875
+MXN,Vanilla Outright,BAML,-40000000.0,2Y,56.953125
+MXN,Vanilla Outright,BAML,-100000000.0,2Y,106.787109375
+MXN,Vanilla Outright,BAML,-200000000.0,2Y,160.1806640625
+MXN,Vanilla Outright,BAML,-4000000.0,5Y,13.5
+MXN,Vanilla Outright,BAML,-10000000.0,5Y,25.3125
+MXN,Vanilla Outright,BAML,-20000000.0,5Y,37.96875
+MXN,Vanilla Outright,BAML,-40000000.0,5Y,56.953125
+MXN,Vanilla Outright,BAML,-100000000.0,5Y,106.787109375
+MXN,Vanilla Outright,BAML,-200000000.0,5Y,160.1806640625
+MXN,Vanilla Outright,BAML,-4000000.0,10Y,13.5
+MXN,Vanilla Outright,BAML,-10000000.0,10Y,25.3125
+MXN,Vanilla Outright,BAML,-20000000.0,10Y,37.96875
+MXN,Vanilla Outright,BAML,-40000000.0,10Y,56.953125
+MXN,Vanilla Outright,BAML,-100000000.0,10Y,106.787109375
+MXN,Vanilla Outright,BAML,-200000000.0,10Y,160.1806640625
+MXN,Vanilla Outright,Morgan Stanley,4000000.0,1Y,5.0
+MXN,Vanilla Outright,Morgan Stanley,10000000.0,1Y,5.0
+MXN,Vanilla Outright,Morgan Stanley,20000000.0,1Y,11.0
+MXN,Vanilla Outright,Morgan Stanley,40000000.0,1Y,20.0
+MXN,Vanilla Outright,Morgan Stanley,100000000.0,1Y,25.0
+MXN,Vanilla Outright,Morgan Stanley,200000000.0,1Y,30.0
+MXN,Vanilla Outright,Morgan Stanley,4000000.0,2Y,5.0
+MXN,Vanilla Outright,Morgan Stanley,10000000.0,2Y,5.0
+MXN,Vanilla Outright,Morgan Stanley,20000000.0,2Y,11.0
+MXN,Vanilla Outright,Morgan Stanley,40000000.0,2Y,20.0
+MXN,Vanilla Outright,Morgan Stanley,100000000.0,2Y,25.0
+MXN,Vanilla Outright,Morgan Stanley,200000000.0,2Y,30.0
+MXN,Vanilla Outright,Morgan Stanley,4000000.0,5Y,5.0
+MXN,Vanilla Outright,Morgan Stanley,10000000.0,5Y,5.0
+MXN,Vanilla Outright,Morgan Stanley,20000000.0,5Y,11.0
+MXN,Vanilla Outright,Morgan Stanley,40000000.0,5Y,20.0
+MXN,Vanilla Outright,Morgan Stanley,100000000.0,5Y,25.0
+MXN,Vanilla Outright,Morgan Stanley,200000000.0,5Y,30.0
+MXN,Vanilla Outright,Morgan Stanley,4000000.0,10Y,5.0
+MXN,Vanilla Outright,Morgan Stanley,10000000.0,10Y,5.0
+MXN,Vanilla Outright,Morgan Stanley,20000000.0,10Y,11.0
+MXN,Vanilla Outright,Morgan Stanley,40000000.0,10Y,20.0
+MXN,Vanilla Outright,Morgan Stanley,100000000.0,10Y,25.0
+MXN,Vanilla Outright,Morgan Stanley,200000000.0,10Y,30.0
+MXN,Vanilla Outright,Morgan Stanley,-4000000.0,1Y,5.0
+MXN,Vanilla Outright,Morgan Stanley,-10000000.0,1Y,5.0
+MXN,Vanilla Outright,Morgan Stanley,-20000000.0,1Y,11.0
+MXN,Vanilla Outright,Morgan Stanley,-40000000.0,1Y,20.0
+MXN,Vanilla Outright,Morgan Stanley,-100000000.0,1Y,25.0
+MXN,Vanilla Outright,Morgan Stanley,-200000000.0,1Y,30.0
+MXN,Vanilla Outright,Morgan Stanley,-4000000.0,2Y,5.0
+MXN,Vanilla Outright,Morgan Stanley,-10000000.0,2Y,5.0
+MXN,Vanilla Outright,Morgan Stanley,-20000000.0,2Y,11.0
+MXN,Vanilla Outright,Morgan Stanley,-40000000.0,2Y,20.0
+MXN,Vanilla Outright,Morgan Stanley,-100000000.0,2Y,25.0
+MXN,Vanilla Outright,Morgan Stanley,-200000000.0,2Y,30.0
+MXN,Vanilla Outright,Morgan Stanley,-4000000.0,5Y,5.0
+MXN,Vanilla Outright,Morgan Stanley,-10000000.0,5Y,5.0
+MXN,Vanilla Outright,Morgan Stanley,-20000000.0,5Y,11.0
+MXN,Vanilla Outright,Morgan Stanley,-40000000.0,5Y,20.0
+MXN,Vanilla Outright,Morgan Stanley,-100000000.0,5Y,25.0
+MXN,Vanilla Outright,Morgan Stanley,-200000000.0,5Y,30.0
+MXN,Vanilla Outright,Morgan Stanley,-4000000.0,10Y,5.0
+MXN,Vanilla Outright,Morgan Stanley,-10000000.0,10Y,5.0
+MXN,Vanilla Outright,Morgan Stanley,-20000000.0,10Y,11.0
+MXN,Vanilla Outright,Morgan Stanley,-40000000.0,10Y,20.0
+MXN,Vanilla Outright,Morgan Stanley,-100000000.0,10Y,25.0
+MXN,Vanilla Outright,Morgan Stanley,-200000000.0,10Y,30.0
+MXN,Vanilla Outright,Scotia,4000000.0,1Y,13.0
+MXN,Vanilla Outright,Scotia,10000000.0,1Y,22.0
+MXN,Vanilla Outright,Scotia,20000000.0,1Y,32.0
+MXN,Vanilla Outright,Scotia,40000000.0,1Y,50.0
+MXN,Vanilla Outright,Scotia,100000000.0,1Y,
+MXN,Vanilla Outright,Scotia,200000000.0,1Y,
+MXN,Vanilla Outright,Scotia,4000000.0,2Y,12.0
+MXN,Vanilla Outright,Scotia,10000000.0,2Y,20.0
+MXN,Vanilla Outright,Scotia,20000000.0,2Y,30.0
+MXN,Vanilla Outright,Scotia,40000000.0,2Y,50.0
+MXN,Vanilla Outright,Scotia,100000000.0,2Y,
+MXN,Vanilla Outright,Scotia,200000000.0,2Y,
+MXN,Vanilla Outright,Scotia,4000000.0,5Y,12.0
+MXN,Vanilla Outright,Scotia,10000000.0,5Y,20.0
+MXN,Vanilla Outright,Scotia,20000000.0,5Y,30.0
+MXN,Vanilla Outright,Scotia,40000000.0,5Y,50.0
+MXN,Vanilla Outright,Scotia,100000000.0,5Y,
+MXN,Vanilla Outright,Scotia,200000000.0,5Y,
+MXN,Vanilla Outright,Scotia,4000000.0,10Y,12.0
+MXN,Vanilla Outright,Scotia,10000000.0,10Y,20.0
+MXN,Vanilla Outright,Scotia,20000000.0,10Y,30.0
+MXN,Vanilla Outright,Scotia,40000000.0,10Y,50.0
+MXN,Vanilla Outright,Scotia,100000000.0,10Y,
+MXN,Vanilla Outright,Scotia,200000000.0,10Y,
+MXN,Vanilla Outright,Scotia,-4000000.0,1Y,16.0
+MXN,Vanilla Outright,Scotia,-10000000.0,1Y,26.0
+MXN,Vanilla Outright,Scotia,-20000000.0,1Y,36.0
+MXN,Vanilla Outright,Scotia,-40000000.0,1Y,60.0
+MXN,Vanilla Outright,Scotia,-100000000.0,1Y,
+MXN,Vanilla Outright,Scotia,-200000000.0,1Y,
+MXN,Vanilla Outright,Scotia,-4000000.0,2Y,15.0
+MXN,Vanilla Outright,Scotia,-10000000.0,2Y,24.0
+MXN,Vanilla Outright,Scotia,-20000000.0,2Y,34.0
+MXN,Vanilla Outright,Scotia,-40000000.0,2Y,60.0
+MXN,Vanilla Outright,Scotia,-100000000.0,2Y,
+MXN,Vanilla Outright,Scotia,-200000000.0,2Y,
+MXN,Vanilla Outright,Scotia,-4000000.0,5Y,15.0
+MXN,Vanilla Outright,Scotia,-10000000.0,5Y,24.0
+MXN,Vanilla Outright,Scotia,-20000000.0,5Y,34.0
+MXN,Vanilla Outright,Scotia,-40000000.0,5Y,60.0
+MXN,Vanilla Outright,Scotia,-100000000.0,5Y,
+MXN,Vanilla Outright,Scotia,-200000000.0,5Y,
+MXN,Vanilla Outright,Scotia,-4000000.0,10Y,15.0
+MXN,Vanilla Outright,Scotia,-10000000.0,10Y,24.0
+MXN,Vanilla Outright,Scotia,-20000000.0,10Y,34.0
+MXN,Vanilla Outright,Scotia,-40000000.0,10Y,60.0
+MXN,Vanilla Outright,Scotia,-100000000.0,10Y,
+MXN,Vanilla Outright,Scotia,-200000000.0,10Y,
+MXN,Vanilla Outright,JPM,4000000.0,1Y,6.0
+MXN,Vanilla Outright,JPM,10000000.0,1Y,11.0
+MXN,Vanilla Outright,JPM,20000000.0,1Y,15.0
+MXN,Vanilla Outright,JPM,40000000.0,1Y,19.0
+MXN,Vanilla Outright,JPM,100000000.0,1Y,23.0
+MXN,Vanilla Outright,JPM,200000000.0,1Y,27.0
+MXN,Vanilla Outright,JPM,4000000.0,2Y,8.0
+MXN,Vanilla Outright,JPM,10000000.0,2Y,12.0
+MXN,Vanilla Outright,JPM,20000000.0,2Y,15.0
+MXN,Vanilla Outright,JPM,40000000.0,2Y,19.0
+MXN,Vanilla Outright,JPM,100000000.0,2Y,23.0
+MXN,Vanilla Outright,JPM,200000000.0,2Y,27.0
+MXN,Vanilla Outright,JPM,4000000.0,5Y,9.0
+MXN,Vanilla Outright,JPM,10000000.0,5Y,14.0
+MXN,Vanilla Outright,JPM,20000000.0,5Y,18.0
+MXN,Vanilla Outright,JPM,40000000.0,5Y,22.0
+MXN,Vanilla Outright,JPM,100000000.0,5Y,26.0
+MXN,Vanilla Outright,JPM,200000000.0,5Y,30.0
+MXN,Vanilla Outright,JPM,4000000.0,10Y,9.0
+MXN,Vanilla Outright,JPM,10000000.0,10Y,14.0
+MXN,Vanilla Outright,JPM,20000000.0,10Y,18.0
+MXN,Vanilla Outright,JPM,40000000.0,10Y,22.0
+MXN,Vanilla Outright,JPM,100000000.0,10Y,26.0
+MXN,Vanilla Outright,JPM,200000000.0,10Y,30.0
+MXN,Vanilla Outright,JPM,-4000000.0,1Y,6.0
+MXN,Vanilla Outright,JPM,-10000000.0,1Y,11.0
+MXN,Vanilla Outright,JPM,-20000000.0,1Y,15.0
+MXN,Vanilla Outright,JPM,-40000000.0,1Y,19.0
+MXN,Vanilla Outright,JPM,-100000000.0,1Y,23.0
+MXN,Vanilla Outright,JPM,-200000000.0,1Y,27.0
+MXN,Vanilla Outright,JPM,-4000000.0,2Y,8.0
+MXN,Vanilla Outright,JPM,-10000000.0,2Y,12.0
+MXN,Vanilla Outright,JPM,-20000000.0,2Y,15.0
+MXN,Vanilla Outright,JPM,-40000000.0,2Y,19.0
+MXN,Vanilla Outright,JPM,-100000000.0,2Y,23.0
+MXN,Vanilla Outright,JPM,-200000000.0,2Y,27.0
+MXN,Vanilla Outright,JPM,-4000000.0,5Y,9.0
+MXN,Vanilla Outright,JPM,-10000000.0,5Y,14.0
+MXN,Vanilla Outright,JPM,-20000000.0,5Y,18.0
+MXN,Vanilla Outright,JPM,-40000000.0,5Y,22.0
+MXN,Vanilla Outright,JPM,-100000000.0,5Y,26.0
+MXN,Vanilla Outright,JPM,-200000000.0,5Y,30.0
+MXN,Vanilla Outright,JPM,-4000000.0,10Y,9.0
+MXN,Vanilla Outright,JPM,-10000000.0,10Y,14.0
+MXN,Vanilla Outright,JPM,-20000000.0,10Y,18.0
+MXN,Vanilla Outright,JPM,-40000000.0,10Y,22.0
+MXN,Vanilla Outright,JPM,-100000000.0,10Y,26.0
+MXN,Vanilla Outright,JPM,-200000000.0,10Y,30.0
+MXN,Vanilla Outright,SocGen,4000000.0,1Y,3.0
+MXN,Vanilla Outright,SocGen,10000000.0,1Y,10.0
+MXN,Vanilla Outright,SocGen,20000000.0,1Y,15.0
+MXN,Vanilla Outright,SocGen,40000000.0,1Y,25.0
+MXN,Vanilla Outright,SocGen,100000000.0,1Y,35.0
+MXN,Vanilla Outright,SocGen,200000000.0,1Y,65.0
+MXN,Vanilla Outright,SocGen,4000000.0,2Y,3.0
+MXN,Vanilla Outright,SocGen,10000000.0,2Y,10.0
+MXN,Vanilla Outright,SocGen,20000000.0,2Y,15.0
+MXN,Vanilla Outright,SocGen,40000000.0,2Y,25.0
+MXN,Vanilla Outright,SocGen,100000000.0,2Y,35.0
+MXN,Vanilla Outright,SocGen,200000000.0,2Y,65.0
+MXN,Vanilla Outright,SocGen,4000000.0,5Y,3.0
+MXN,Vanilla Outright,SocGen,10000000.0,5Y,15.0
+MXN,Vanilla Outright,SocGen,20000000.0,5Y,15.0
+MXN,Vanilla Outright,SocGen,40000000.0,5Y,30.0
+MXN,Vanilla Outright,SocGen,100000000.0,5Y,45.0
+MXN,Vanilla Outright,SocGen,200000000.0,5Y,75.0
+MXN,Vanilla Outright,SocGen,4000000.0,10Y,3.0
+MXN,Vanilla Outright,SocGen,10000000.0,10Y,15.0
+MXN,Vanilla Outright,SocGen,20000000.0,10Y,15.0
+MXN,Vanilla Outright,SocGen,40000000.0,10Y,30.0
+MXN,Vanilla Outright,SocGen,100000000.0,10Y,45.0
+MXN,Vanilla Outright,SocGen,200000000.0,10Y,75.0
+MXN,Vanilla Outright,SocGen,-4000000.0,1Y,3.0
+MXN,Vanilla Outright,SocGen,-10000000.0,1Y,10.0
+MXN,Vanilla Outright,SocGen,-20000000.0,1Y,15.0
+MXN,Vanilla Outright,SocGen,-40000000.0,1Y,25.0
+MXN,Vanilla Outright,SocGen,-100000000.0,1Y,35.0
+MXN,Vanilla Outright,SocGen,-200000000.0,1Y,65.0
+MXN,Vanilla Outright,SocGen,-4000000.0,2Y,3.0
+MXN,Vanilla Outright,SocGen,-10000000.0,2Y,10.0
+MXN,Vanilla Outright,SocGen,-20000000.0,2Y,15.0
+MXN,Vanilla Outright,SocGen,-40000000.0,2Y,25.0
+MXN,Vanilla Outright,SocGen,-100000000.0,2Y,35.0
+MXN,Vanilla Outright,SocGen,-200000000.0,2Y,65.0
+MXN,Vanilla Outright,SocGen,-4000000.0,5Y,3.0
+MXN,Vanilla Outright,SocGen,-10000000.0,5Y,15.0
+MXN,Vanilla Outright,SocGen,-20000000.0,5Y,20.0
+MXN,Vanilla Outright,SocGen,-40000000.0,5Y,30.0
+MXN,Vanilla Outright,SocGen,-100000000.0,5Y,45.0
+MXN,Vanilla Outright,SocGen,-200000000.0,5Y,75.0
+MXN,Vanilla Outright,SocGen,-4000000.0,10Y,3.0
+MXN,Vanilla Outright,SocGen,-10000000.0,10Y,15.0
+MXN,Vanilla Outright,SocGen,-20000000.0,10Y,20.0
+MXN,Vanilla Outright,SocGen,-40000000.0,10Y,30.0
+MXN,Vanilla Outright,SocGen,-100000000.0,10Y,45.0
+MXN,Vanilla Outright,SocGen,-200000000.0,10Y,75.0
+MXN,Vanilla Outright,Barclays,4000000.0,1Y,8.0
+MXN,Vanilla Outright,Barclays,10000000.0,1Y,10.0
+MXN,Vanilla Outright,Barclays,20000000.0,1Y,15.0
+MXN,Vanilla Outright,Barclays,40000000.0,1Y,30.0
+MXN,Vanilla Outright,Barclays,100000000.0,1Y,40.0
+MXN,Vanilla Outright,Barclays,200000000.0,1Y,50.0
+MXN,Vanilla Outright,Barclays,4000000.0,2Y,8.0
+MXN,Vanilla Outright,Barclays,10000000.0,2Y,10.0
+MXN,Vanilla Outright,Barclays,20000000.0,2Y,15.0
+MXN,Vanilla Outright,Barclays,40000000.0,2Y,30.0
+MXN,Vanilla Outright,Barclays,100000000.0,2Y,40.0
+MXN,Vanilla Outright,Barclays,200000000.0,2Y,50.0
+MXN,Vanilla Outright,Barclays,4000000.0,5Y,10.0
+MXN,Vanilla Outright,Barclays,10000000.0,5Y,12.0
+MXN,Vanilla Outright,Barclays,20000000.0,5Y,18.0
+MXN,Vanilla Outright,Barclays,40000000.0,5Y,35.0
+MXN,Vanilla Outright,Barclays,100000000.0,5Y,40.0
+MXN,Vanilla Outright,Barclays,200000000.0,5Y,50.0
+MXN,Vanilla Outright,Barclays,4000000.0,10Y,10.0
+MXN,Vanilla Outright,Barclays,10000000.0,10Y,12.0
+MXN,Vanilla Outright,Barclays,20000000.0,10Y,18.0
+MXN,Vanilla Outright,Barclays,40000000.0,10Y,35.0
+MXN,Vanilla Outright,Barclays,100000000.0,10Y,40.0
+MXN,Vanilla Outright,Barclays,200000000.0,10Y,50.0
+MXN,Vanilla Outright,Barclays,-4000000.0,1Y,8.0
+MXN,Vanilla Outright,Barclays,-10000000.0,1Y,10.0
+MXN,Vanilla Outright,Barclays,-20000000.0,1Y,15.0
+MXN,Vanilla Outright,Barclays,-40000000.0,1Y,30.0
+MXN,Vanilla Outright,Barclays,-100000000.0,1Y,40.0
+MXN,Vanilla Outright,Barclays,-200000000.0,1Y,50.0
+MXN,Vanilla Outright,Barclays,-4000000.0,2Y,8.0
+MXN,Vanilla Outright,Barclays,-10000000.0,2Y,10.0
+MXN,Vanilla Outright,Barclays,-20000000.0,2Y,15.0
+MXN,Vanilla Outright,Barclays,-40000000.0,2Y,30.0
+MXN,Vanilla Outright,Barclays,-100000000.0,2Y,40.0
+MXN,Vanilla Outright,Barclays,-200000000.0,2Y,50.0
+MXN,Vanilla Outright,Barclays,-4000000.0,5Y,10.0
+MXN,Vanilla Outright,Barclays,-10000000.0,5Y,12.0
+MXN,Vanilla Outright,Barclays,-20000000.0,5Y,18.0
+MXN,Vanilla Outright,Barclays,-40000000.0,5Y,35.0
+MXN,Vanilla Outright,Barclays,-100000000.0,5Y,40.0
+MXN,Vanilla Outright,Barclays,-200000000.0,5Y,50.0
+MXN,Vanilla Outright,Barclays,-4000000.0,10Y,10.0
+MXN,Vanilla Outright,Barclays,-10000000.0,10Y,12.0
+MXN,Vanilla Outright,Barclays,-20000000.0,10Y,18.0
+MXN,Vanilla Outright,Barclays,-40000000.0,10Y,35.0
+MXN,Vanilla Outright,Barclays,-100000000.0,10Y,40.0
+MXN,Vanilla Outright,Barclays,-200000000.0,10Y,50.0
+MXN,Vanilla Outright,RBC,4000000.0,1Y,40.0
+MXN,Vanilla Outright,RBC,10000000.0,1Y,60.0
+MXN,Vanilla Outright,RBC,20000000.0,1Y,80.0
+MXN,Vanilla Outright,RBC,40000000.0,1Y,100.0
+MXN,Vanilla Outright,RBC,100000000.0,1Y,150.0
+MXN,Vanilla Outright,RBC,200000000.0,1Y,150.0
+MXN,Vanilla Outright,RBC,4000000.0,2Y,50.0
+MXN,Vanilla Outright,RBC,10000000.0,2Y,75.0
+MXN,Vanilla Outright,RBC,20000000.0,2Y,100.0
+MXN,Vanilla Outright,RBC,40000000.0,2Y,120.0
+MXN,Vanilla Outright,RBC,100000000.0,2Y,150.0
+MXN,Vanilla Outright,RBC,200000000.0,2Y,150.0
+MXN,Vanilla Outright,RBC,4000000.0,5Y,50.0
+MXN,Vanilla Outright,RBC,10000000.0,5Y,75.0
+MXN,Vanilla Outright,RBC,20000000.0,5Y,100.0
+MXN,Vanilla Outright,RBC,40000000.0,5Y,120.0
+MXN,Vanilla Outright,RBC,100000000.0,5Y,150.0
+MXN,Vanilla Outright,RBC,200000000.0,5Y,150.0
+MXN,Vanilla Outright,RBC,4000000.0,10Y,50.0
+MXN,Vanilla Outright,RBC,10000000.0,10Y,75.0
+MXN,Vanilla Outright,RBC,20000000.0,10Y,100.0
+MXN,Vanilla Outright,RBC,40000000.0,10Y,120.0
+MXN,Vanilla Outright,RBC,100000000.0,10Y,150.0
+MXN,Vanilla Outright,RBC,200000000.0,10Y,150.0
+MXN,Vanilla Outright,RBC,-4000000.0,1Y,40.0
+MXN,Vanilla Outright,RBC,-10000000.0,1Y,60.0
+MXN,Vanilla Outright,RBC,-20000000.0,1Y,80.0
+MXN,Vanilla Outright,RBC,-40000000.0,1Y,100.0
+MXN,Vanilla Outright,RBC,-100000000.0,1Y,120.0
+MXN,Vanilla Outright,RBC,-200000000.0,1Y,150.0
+MXN,Vanilla Outright,RBC,-4000000.0,2Y,50.0
+MXN,Vanilla Outright,RBC,-10000000.0,2Y,75.0
+MXN,Vanilla Outright,RBC,-20000000.0,2Y,75.0
+MXN,Vanilla Outright,RBC,-40000000.0,2Y,100.0
+MXN,Vanilla Outright,RBC,-100000000.0,2Y,120.0
+MXN,Vanilla Outright,RBC,-200000000.0,2Y,150.0
+MXN,Vanilla Outright,RBC,-4000000.0,5Y,50.0
+MXN,Vanilla Outright,RBC,-10000000.0,5Y,75.0
+MXN,Vanilla Outright,RBC,-20000000.0,5Y,75.0
+MXN,Vanilla Outright,RBC,-40000000.0,5Y,100.0
+MXN,Vanilla Outright,RBC,-100000000.0,5Y,120.0
+MXN,Vanilla Outright,RBC,-200000000.0,5Y,150.0
+MXN,Vanilla Outright,RBC,-4000000.0,10Y,50.0
+MXN,Vanilla Outright,RBC,-10000000.0,10Y,75.0
+MXN,Vanilla Outright,RBC,-20000000.0,10Y,75.0
+MXN,Vanilla Outright,RBC,-40000000.0,10Y,100.0
+MXN,Vanilla Outright,RBC,-100000000.0,10Y,120.0
+MXN,Vanilla Outright,RBC,-200000000.0,10Y,150.0
+MXN,Vanilla Outright,Credit Agricole,4000000.0,1Y,
+MXN,Vanilla Outright,Credit Agricole,10000000.0,1Y,
+MXN,Vanilla Outright,Credit Agricole,20000000.0,1Y,
+MXN,Vanilla Outright,Credit Agricole,40000000.0,1Y,
+MXN,Vanilla Outright,Credit Agricole,100000000.0,1Y,
+MXN,Vanilla Outright,Credit Agricole,200000000.0,1Y,
+MXN,Vanilla Outright,Credit Agricole,4000000.0,2Y,
+MXN,Vanilla Outright,Credit Agricole,10000000.0,2Y,
+MXN,Vanilla Outright,Credit Agricole,20000000.0,2Y,
+MXN,Vanilla Outright,Credit Agricole,40000000.0,2Y,
+MXN,Vanilla Outright,Credit Agricole,100000000.0,2Y,
+MXN,Vanilla Outright,Credit Agricole,200000000.0,2Y,
+MXN,Vanilla Outright,Credit Agricole,4000000.0,5Y,
+MXN,Vanilla Outright,Credit Agricole,10000000.0,5Y,
+MXN,Vanilla Outright,Credit Agricole,20000000.0,5Y,
+MXN,Vanilla Outright,Credit Agricole,40000000.0,5Y,
+MXN,Vanilla Outright,Credit Agricole,100000000.0,5Y,
+MXN,Vanilla Outright,Credit Agricole,200000000.0,5Y,
+MXN,Vanilla Outright,Credit Agricole,4000000.0,10Y,
+MXN,Vanilla Outright,Credit Agricole,10000000.0,10Y,
+MXN,Vanilla Outright,Credit Agricole,20000000.0,10Y,
+MXN,Vanilla Outright,Credit Agricole,40000000.0,10Y,
+MXN,Vanilla Outright,Credit Agricole,100000000.0,10Y,
+MXN,Vanilla Outright,Credit Agricole,200000000.0,10Y,
+MXN,Vanilla Outright,Credit Agricole,-4000000.0,1Y,
+MXN,Vanilla Outright,Credit Agricole,-10000000.0,1Y,
+MXN,Vanilla Outright,Credit Agricole,-20000000.0,1Y,
+MXN,Vanilla Outright,Credit Agricole,-40000000.0,1Y,
+MXN,Vanilla Outright,Credit Agricole,-100000000.0,1Y,
+MXN,Vanilla Outright,Credit Agricole,-200000000.0,1Y,
+MXN,Vanilla Outright,Credit Agricole,-4000000.0,2Y,
+MXN,Vanilla Outright,Credit Agricole,-10000000.0,2Y,
+MXN,Vanilla Outright,Credit Agricole,-20000000.0,2Y,
+MXN,Vanilla Outright,Credit Agricole,-40000000.0,2Y,
+MXN,Vanilla Outright,Credit Agricole,-100000000.0,2Y,
+MXN,Vanilla Outright,Credit Agricole,-200000000.0,2Y,
+MXN,Vanilla Outright,Credit Agricole,-4000000.0,5Y,
+MXN,Vanilla Outright,Credit Agricole,-10000000.0,5Y,
+MXN,Vanilla Outright,Credit Agricole,-20000000.0,5Y,
+MXN,Vanilla Outright,Credit Agricole,-40000000.0,5Y,
+MXN,Vanilla Outright,Credit Agricole,-100000000.0,5Y,
+MXN,Vanilla Outright,Credit Agricole,-200000000.0,5Y,
+MXN,Vanilla Outright,Credit Agricole,-4000000.0,10Y,
+MXN,Vanilla Outright,Credit Agricole,-10000000.0,10Y,
+MXN,Vanilla Outright,Credit Agricole,-20000000.0,10Y,
+MXN,Vanilla Outright,Credit Agricole,-40000000.0,10Y,
+MXN,Vanilla Outright,Credit Agricole,-100000000.0,10Y,
+MXN,Vanilla Outright,Credit Agricole,-200000000.0,10Y,
+MXN,Vanilla Outright,Santander,4000000.0,1Y,6.0
+MXN,Vanilla Outright,Santander,10000000.0,1Y,11.0
+MXN,Vanilla Outright,Santander,20000000.0,1Y,17.0
+MXN,Vanilla Outright,Santander,40000000.0,1Y,26.0
+MXN,Vanilla Outright,Santander,100000000.0,1Y,31.625
+MXN,Vanilla Outright,Santander,200000000.0,1Y,64.0
+MXN,Vanilla Outright,Santander,4000000.0,2Y,7.0
+MXN,Vanilla Outright,Santander,10000000.0,2Y,12.0
+MXN,Vanilla Outright,Santander,20000000.0,2Y,18.0
+MXN,Vanilla Outright,Santander,40000000.0,2Y,27.0
+MXN,Vanilla Outright,Santander,100000000.0,2Y,32.125
+MXN,Vanilla Outright,Santander,200000000.0,2Y,64.0
+MXN,Vanilla Outright,Santander,4000000.0,5Y,8.0
+MXN,Vanilla Outright,Santander,10000000.0,5Y,14.0
+MXN,Vanilla Outright,Santander,20000000.0,5Y,20.0
+MXN,Vanilla Outright,Santander,40000000.0,5Y,29.0
+MXN,Vanilla Outright,Santander,100000000.0,5Y,34.1875
+MXN,Vanilla Outright,Santander,200000000.0,5Y,68.0
+MXN,Vanilla Outright,Santander,4000000.0,10Y,8.0
+MXN,Vanilla Outright,Santander,10000000.0,10Y,14.0
+MXN,Vanilla Outright,Santander,20000000.0,10Y,20.0
+MXN,Vanilla Outright,Santander,40000000.0,10Y,29.0
+MXN,Vanilla Outright,Santander,100000000.0,10Y,35.90625
+MXN,Vanilla Outright,Santander,200000000.0,10Y,72.0
+MXN,Vanilla Outright,Santander,-4000000.0,1Y,6.0
+MXN,Vanilla Outright,Santander,-10000000.0,1Y,11.0
+MXN,Vanilla Outright,Santander,-20000000.0,1Y,17.0
+MXN,Vanilla Outright,Santander,-40000000.0,1Y,26.0
+MXN,Vanilla Outright,Santander,-100000000.0,1Y,31.625
+MXN,Vanilla Outright,Santander,-200000000.0,1Y,64.0
+MXN,Vanilla Outright,Santander,-4000000.0,2Y,7.0
+MXN,Vanilla Outright,Santander,-10000000.0,2Y,12.0
+MXN,Vanilla Outright,Santander,-20000000.0,2Y,18.0
+MXN,Vanilla Outright,Santander,-40000000.0,2Y,27.0
+MXN,Vanilla Outright,Santander,-100000000.0,2Y,32.125
+MXN,Vanilla Outright,Santander,-200000000.0,2Y,64.0
+MXN,Vanilla Outright,Santander,-4000000.0,5Y,8.0
+MXN,Vanilla Outright,Santander,-10000000.0,5Y,14.0
+MXN,Vanilla Outright,Santander,-20000000.0,5Y,20.0
+MXN,Vanilla Outright,Santander,-40000000.0,5Y,29.0
+MXN,Vanilla Outright,Santander,-100000000.0,5Y,34.1875
+MXN,Vanilla Outright,Santander,-200000000.0,5Y,68.0
+MXN,Vanilla Outright,Santander,-4000000.0,10Y,8.0
+MXN,Vanilla Outright,Santander,-10000000.0,10Y,14.0
+MXN,Vanilla Outright,Santander,-20000000.0,10Y,20.0
+MXN,Vanilla Outright,Santander,-40000000.0,10Y,29.0
+MXN,Vanilla Outright,Santander,-100000000.0,10Y,35.90625
+MXN,Vanilla Outright,Santander,-200000000.0,10Y,72.0
+MXN,Vanilla Outright,BBVA,4000000.0,1Y,10.0
+MXN,Vanilla Outright,BBVA,10000000.0,1Y,15.0
+MXN,Vanilla Outright,BBVA,20000000.0,1Y,25.0
+MXN,Vanilla Outright,BBVA,40000000.0,1Y,40.0
+MXN,Vanilla Outright,BBVA,100000000.0,1Y,60.0
+MXN,Vanilla Outright,BBVA,200000000.0,1Y,80.0
+MXN,Vanilla Outright,BBVA,4000000.0,2Y,10.0
+MXN,Vanilla Outright,BBVA,10000000.0,2Y,15.0
+MXN,Vanilla Outright,BBVA,20000000.0,2Y,25.0
+MXN,Vanilla Outright,BBVA,40000000.0,2Y,40.0
+MXN,Vanilla Outright,BBVA,100000000.0,2Y,60.0
+MXN,Vanilla Outright,BBVA,200000000.0,2Y,80.0
+MXN,Vanilla Outright,BBVA,4000000.0,5Y,10.0
+MXN,Vanilla Outright,BBVA,10000000.0,5Y,15.0
+MXN,Vanilla Outright,BBVA,20000000.0,5Y,25.0
+MXN,Vanilla Outright,BBVA,40000000.0,5Y,40.0
+MXN,Vanilla Outright,BBVA,100000000.0,5Y,60.0
+MXN,Vanilla Outright,BBVA,200000000.0,5Y,80.0
+MXN,Vanilla Outright,BBVA,4000000.0,10Y,10.0
+MXN,Vanilla Outright,BBVA,10000000.0,10Y,15.0
+MXN,Vanilla Outright,BBVA,20000000.0,10Y,25.0
+MXN,Vanilla Outright,BBVA,40000000.0,10Y,40.0
+MXN,Vanilla Outright,BBVA,100000000.0,10Y,60.0
+MXN,Vanilla Outright,BBVA,200000000.0,10Y,80.0
+MXN,Vanilla Outright,BBVA,-4000000.0,1Y,40.0
+MXN,Vanilla Outright,BBVA,-10000000.0,1Y,65.0
+MXN,Vanilla Outright,BBVA,-20000000.0,1Y,105.0
+MXN,Vanilla Outright,BBVA,-40000000.0,1Y,170.0
+MXN,Vanilla Outright,BBVA,-100000000.0,1Y,260.0
+MXN,Vanilla Outright,BBVA,-200000000.0,1Y,340.0
+MXN,Vanilla Outright,BBVA,-4000000.0,2Y,40.0
+MXN,Vanilla Outright,BBVA,-10000000.0,2Y,65.0
+MXN,Vanilla Outright,BBVA,-20000000.0,2Y,105.0
+MXN,Vanilla Outright,BBVA,-40000000.0,2Y,170.0
+MXN,Vanilla Outright,BBVA,-100000000.0,2Y,260.0
+MXN,Vanilla Outright,BBVA,-200000000.0,2Y,340.0
+MXN,Vanilla Outright,BBVA,-4000000.0,5Y,40.0
+MXN,Vanilla Outright,BBVA,-10000000.0,5Y,65.0
+MXN,Vanilla Outright,BBVA,-20000000.0,5Y,105.0
+MXN,Vanilla Outright,BBVA,-40000000.0,5Y,170.0
+MXN,Vanilla Outright,BBVA,-100000000.0,5Y,260.0
+MXN,Vanilla Outright,BBVA,-200000000.0,5Y,340.0
+MXN,Vanilla Outright,BBVA,-4000000.0,10Y,40.0
+MXN,Vanilla Outright,BBVA,-10000000.0,10Y,65.0
+MXN,Vanilla Outright,BBVA,-20000000.0,10Y,105.0
+MXN,Vanilla Outright,BBVA,-40000000.0,10Y,170.0
+MXN,Vanilla Outright,BBVA,-100000000.0,10Y,260.0
+MXN,Vanilla Outright,BBVA,-200000000.0,10Y,340.0
+MXN,Vanilla Curve Spread,Median,4000000.0,1Y_2Y,5.0
+MXN,Vanilla Curve Spread,Median,10000000.0,1Y_2Y,7.5
+MXN,Vanilla Curve Spread,Median,20000000.0,1Y_2Y,12.0
+MXN,Vanilla Curve Spread,Median,40000000.0,1Y_2Y,20.0
+MXN,Vanilla Curve Spread,Median,100000000.0,1Y_2Y,25.0
+MXN,Vanilla Curve Spread,Median,200000000.0,1Y_2Y,45.0
+MXN,Vanilla Curve Spread,Median,4000000.0,1Y_5Y,6.0
+MXN,Vanilla Curve Spread,Median,10000000.0,1Y_5Y,9.5
+MXN,Vanilla Curve Spread,Median,20000000.0,1Y_5Y,15.0
+MXN,Vanilla Curve Spread,Median,40000000.0,1Y_5Y,22.0
+MXN,Vanilla Curve Spread,Median,100000000.0,1Y_5Y,33.0
+MXN,Vanilla Curve Spread,Median,200000000.0,1Y_5Y,60.0
+MXN,Vanilla Curve Spread,Median,4000000.0,1Y_10Y,8.0
+MXN,Vanilla Curve Spread,Median,10000000.0,1Y_10Y,12.0
+MXN,Vanilla Curve Spread,Median,20000000.0,1Y_10Y,16.5
+MXN,Vanilla Curve Spread,Median,40000000.0,1Y_10Y,24.0
+MXN,Vanilla Curve Spread,Median,100000000.0,1Y_10Y,35.0
+MXN,Vanilla Curve Spread,Median,200000000.0,1Y_10Y,65.0
+MXN,Vanilla Curve Spread,Median,4000000.0,2Y_5Y,6.0
+MXN,Vanilla Curve Spread,Median,10000000.0,2Y_5Y,8.0
+MXN,Vanilla Curve Spread,Median,20000000.0,2Y_5Y,15.0
+MXN,Vanilla Curve Spread,Median,40000000.0,2Y_5Y,21.0
+MXN,Vanilla Curve Spread,Median,100000000.0,2Y_5Y,32.0
+MXN,Vanilla Curve Spread,Median,200000000.0,2Y_5Y,55.0
+MXN,Vanilla Curve Spread,Median,4000000.0,2Y_10Y,7.0
+MXN,Vanilla Curve Spread,Median,10000000.0,2Y_10Y,11.0
+MXN,Vanilla Curve Spread,Median,20000000.0,2Y_10Y,15.5
+MXN,Vanilla Curve Spread,Median,40000000.0,2Y_10Y,22.0
+MXN,Vanilla Curve Spread,Median,100000000.0,2Y_10Y,33.0
+MXN,Vanilla Curve Spread,Median,200000000.0,2Y_10Y,60.0
+MXN,Vanilla Curve Spread,Median,4000000.0,5Y_10Y,6.0
+MXN,Vanilla Curve Spread,Median,10000000.0,5Y_10Y,9.0
+MXN,Vanilla Curve Spread,Median,20000000.0,5Y_10Y,15.0
+MXN,Vanilla Curve Spread,Median,40000000.0,5Y_10Y,21.0
+MXN,Vanilla Curve Spread,Median,100000000.0,5Y_10Y,30.0
+MXN,Vanilla Curve Spread,Median,200000000.0,5Y_10Y,55.0
+MXN,Vanilla Curve Spread,DB,4000000.0,1Y_2Y,12.5
+MXN,Vanilla Curve Spread,DB,10000000.0,1Y_2Y,17.5
+MXN,Vanilla Curve Spread,DB,20000000.0,1Y_2Y,37.5
+MXN,Vanilla Curve Spread,DB,40000000.0,1Y_2Y,50.0
+MXN,Vanilla Curve Spread,DB,100000000.0,1Y_2Y,75.0
+MXN,Vanilla Curve Spread,DB,200000000.0,1Y_2Y,100.0
+MXN,Vanilla Curve Spread,DB,4000000.0,1Y_5Y,15.0
+MXN,Vanilla Curve Spread,DB,10000000.0,1Y_5Y,25.0
+MXN,Vanilla Curve Spread,DB,20000000.0,1Y_5Y,62.5
+MXN,Vanilla Curve Spread,DB,40000000.0,1Y_5Y,100.0
+MXN,Vanilla Curve Spread,DB,100000000.0,1Y_5Y,150.0
+MXN,Vanilla Curve Spread,DB,200000000.0,1Y_5Y,200.0
+MXN,Vanilla Curve Spread,DB,4000000.0,1Y_10Y,15.0
+MXN,Vanilla Curve Spread,DB,10000000.0,1Y_10Y,25.0
+MXN,Vanilla Curve Spread,DB,20000000.0,1Y_10Y,62.5
+MXN,Vanilla Curve Spread,DB,40000000.0,1Y_10Y,100.0
+MXN,Vanilla Curve Spread,DB,100000000.0,1Y_10Y,150.0
+MXN,Vanilla Curve Spread,DB,200000000.0,1Y_10Y,200.0
+MXN,Vanilla Curve Spread,DB,4000000.0,2Y_5Y,15.0
+MXN,Vanilla Curve Spread,DB,10000000.0,2Y_5Y,25.0
+MXN,Vanilla Curve Spread,DB,20000000.0,2Y_5Y,62.5
+MXN,Vanilla Curve Spread,DB,40000000.0,2Y_5Y,100.0
+MXN,Vanilla Curve Spread,DB,100000000.0,2Y_5Y,150.0
+MXN,Vanilla Curve Spread,DB,200000000.0,2Y_5Y,200.0
+MXN,Vanilla Curve Spread,DB,4000000.0,2Y_10Y,15.0
+MXN,Vanilla Curve Spread,DB,10000000.0,2Y_10Y,25.0
+MXN,Vanilla Curve Spread,DB,20000000.0,2Y_10Y,62.5
+MXN,Vanilla Curve Spread,DB,40000000.0,2Y_10Y,100.0
+MXN,Vanilla Curve Spread,DB,100000000.0,2Y_10Y,150.0
+MXN,Vanilla Curve Spread,DB,200000000.0,2Y_10Y,200.0
+MXN,Vanilla Curve Spread,DB,4000000.0,5Y_10Y,12.5
+MXN,Vanilla Curve Spread,DB,10000000.0,5Y_10Y,20.0
+MXN,Vanilla Curve Spread,DB,20000000.0,5Y_10Y,50.0
+MXN,Vanilla Curve Spread,DB,40000000.0,5Y_10Y,75.0
+MXN,Vanilla Curve Spread,DB,100000000.0,5Y_10Y,100.0
+MXN,Vanilla Curve Spread,DB,200000000.0,5Y_10Y,150.0
+MXN,Vanilla Curve Spread,BNP,4000000.0,1Y_2Y,2.5
+MXN,Vanilla Curve Spread,BNP,10000000.0,1Y_2Y,5.0
+MXN,Vanilla Curve Spread,BNP,20000000.0,1Y_2Y,7.5
+MXN,Vanilla Curve Spread,BNP,40000000.0,1Y_2Y,10.0
+MXN,Vanilla Curve Spread,BNP,100000000.0,1Y_2Y,20.0
+MXN,Vanilla Curve Spread,BNP,200000000.0,1Y_2Y,70.0
+MXN,Vanilla Curve Spread,BNP,4000000.0,1Y_5Y,5.0
+MXN,Vanilla Curve Spread,BNP,10000000.0,1Y_5Y,7.5
+MXN,Vanilla Curve Spread,BNP,20000000.0,1Y_5Y,15.0
+MXN,Vanilla Curve Spread,BNP,40000000.0,1Y_5Y,25.0
+MXN,Vanilla Curve Spread,BNP,100000000.0,1Y_5Y,35.0
+MXN,Vanilla Curve Spread,BNP,200000000.0,1Y_5Y,70.0
+MXN,Vanilla Curve Spread,BNP,4000000.0,1Y_10Y,10.0
+MXN,Vanilla Curve Spread,BNP,10000000.0,1Y_10Y,15.0
+MXN,Vanilla Curve Spread,BNP,20000000.0,1Y_10Y,25.0
+MXN,Vanilla Curve Spread,BNP,40000000.0,1Y_10Y,35.0
+MXN,Vanilla Curve Spread,BNP,100000000.0,1Y_10Y,45.0
+MXN,Vanilla Curve Spread,BNP,200000000.0,1Y_10Y,70.0
+MXN,Vanilla Curve Spread,BNP,4000000.0,2Y_5Y,7.5
+MXN,Vanilla Curve Spread,BNP,10000000.0,2Y_5Y,12.5
+MXN,Vanilla Curve Spread,BNP,20000000.0,2Y_5Y,20.0
+MXN,Vanilla Curve Spread,BNP,40000000.0,2Y_5Y,30.0
+MXN,Vanilla Curve Spread,BNP,100000000.0,2Y_5Y,40.0
+MXN,Vanilla Curve Spread,BNP,200000000.0,2Y_5Y,70.0
+MXN,Vanilla Curve Spread,BNP,4000000.0,2Y_10Y,10.0
+MXN,Vanilla Curve Spread,BNP,10000000.0,2Y_10Y,15.0
+MXN,Vanilla Curve Spread,BNP,20000000.0,2Y_10Y,25.0
+MXN,Vanilla Curve Spread,BNP,40000000.0,2Y_10Y,35.0
+MXN,Vanilla Curve Spread,BNP,100000000.0,2Y_10Y,45.0
+MXN,Vanilla Curve Spread,BNP,200000000.0,2Y_10Y,70.0
+MXN,Vanilla Curve Spread,BNP,4000000.0,5Y_10Y,7.5
+MXN,Vanilla Curve Spread,BNP,10000000.0,5Y_10Y,12.5
+MXN,Vanilla Curve Spread,BNP,20000000.0,5Y_10Y,20.0
+MXN,Vanilla Curve Spread,BNP,40000000.0,5Y_10Y,30.0
+MXN,Vanilla Curve Spread,BNP,100000000.0,5Y_10Y,40.0
+MXN,Vanilla Curve Spread,BNP,200000000.0,5Y_10Y,70.0
+MXN,Vanilla Curve Spread,RABO,4000000.0,1Y_2Y,6.0
+MXN,Vanilla Curve Spread,RABO,10000000.0,1Y_2Y,8.0
+MXN,Vanilla Curve Spread,RABO,20000000.0,1Y_2Y,12.0
+MXN,Vanilla Curve Spread,RABO,40000000.0,1Y_2Y,16.0
+MXN,Vanilla Curve Spread,RABO,100000000.0,1Y_2Y,18.0
+MXN,Vanilla Curve Spread,RABO,200000000.0,1Y_2Y,20.0
+MXN,Vanilla Curve Spread,RABO,4000000.0,1Y_5Y,6.0
+MXN,Vanilla Curve Spread,RABO,10000000.0,1Y_5Y,8.0
+MXN,Vanilla Curve Spread,RABO,20000000.0,1Y_5Y,12.0
+MXN,Vanilla Curve Spread,RABO,40000000.0,1Y_5Y,16.0
+MXN,Vanilla Curve Spread,RABO,100000000.0,1Y_5Y,18.0
+MXN,Vanilla Curve Spread,RABO,200000000.0,1Y_5Y,20.0
+MXN,Vanilla Curve Spread,RABO,4000000.0,1Y_10Y,8.0
+MXN,Vanilla Curve Spread,RABO,10000000.0,1Y_10Y,10.0
+MXN,Vanilla Curve Spread,RABO,20000000.0,1Y_10Y,14.0
+MXN,Vanilla Curve Spread,RABO,40000000.0,1Y_10Y,18.0
+MXN,Vanilla Curve Spread,RABO,100000000.0,1Y_10Y,22.0
+MXN,Vanilla Curve Spread,RABO,200000000.0,1Y_10Y,26.0
+MXN,Vanilla Curve Spread,RABO,4000000.0,2Y_5Y,6.0
+MXN,Vanilla Curve Spread,RABO,10000000.0,2Y_5Y,8.0
+MXN,Vanilla Curve Spread,RABO,20000000.0,2Y_5Y,12.0
+MXN,Vanilla Curve Spread,RABO,40000000.0,2Y_5Y,16.0
+MXN,Vanilla Curve Spread,RABO,100000000.0,2Y_5Y,18.0
+MXN,Vanilla Curve Spread,RABO,200000000.0,2Y_5Y,20.0
+MXN,Vanilla Curve Spread,RABO,4000000.0,2Y_10Y,6.0
+MXN,Vanilla Curve Spread,RABO,10000000.0,2Y_10Y,8.0
+MXN,Vanilla Curve Spread,RABO,20000000.0,2Y_10Y,12.0
+MXN,Vanilla Curve Spread,RABO,40000000.0,2Y_10Y,16.0
+MXN,Vanilla Curve Spread,RABO,100000000.0,2Y_10Y,18.0
+MXN,Vanilla Curve Spread,RABO,200000000.0,2Y_10Y,20.0
+MXN,Vanilla Curve Spread,RABO,4000000.0,5Y_10Y,8.0
+MXN,Vanilla Curve Spread,RABO,10000000.0,5Y_10Y,10.0
+MXN,Vanilla Curve Spread,RABO,20000000.0,5Y_10Y,14.0
+MXN,Vanilla Curve Spread,RABO,40000000.0,5Y_10Y,18.0
+MXN,Vanilla Curve Spread,RABO,100000000.0,5Y_10Y,22.0
+MXN,Vanilla Curve Spread,RABO,200000000.0,5Y_10Y,26.0
+MXN,Vanilla Curve Spread,Nomura,4000000.0,1Y_2Y,5.0
+MXN,Vanilla Curve Spread,Nomura,10000000.0,1Y_2Y,5.0
+MXN,Vanilla Curve Spread,Nomura,20000000.0,1Y_2Y,7.0
+MXN,Vanilla Curve Spread,Nomura,40000000.0,1Y_2Y,10.0
+MXN,Vanilla Curve Spread,Nomura,100000000.0,1Y_2Y,15.0
+MXN,Vanilla Curve Spread,Nomura,200000000.0,1Y_2Y,15.0
+MXN,Vanilla Curve Spread,Nomura,4000000.0,1Y_5Y,6.0
+MXN,Vanilla Curve Spread,Nomura,10000000.0,1Y_5Y,7.0
+MXN,Vanilla Curve Spread,Nomura,20000000.0,1Y_5Y,8.0
+MXN,Vanilla Curve Spread,Nomura,40000000.0,1Y_5Y,10.0
+MXN,Vanilla Curve Spread,Nomura,100000000.0,1Y_5Y,15.0
+MXN,Vanilla Curve Spread,Nomura,200000000.0,1Y_5Y,17.0
+MXN,Vanilla Curve Spread,Nomura,4000000.0,1Y_10Y,8.0
+MXN,Vanilla Curve Spread,Nomura,10000000.0,1Y_10Y,10.0
+MXN,Vanilla Curve Spread,Nomura,20000000.0,1Y_10Y,12.0
+MXN,Vanilla Curve Spread,Nomura,40000000.0,1Y_10Y,15.0
+MXN,Vanilla Curve Spread,Nomura,100000000.0,1Y_10Y,20.0
+MXN,Vanilla Curve Spread,Nomura,200000000.0,1Y_10Y,20.0
+MXN,Vanilla Curve Spread,Nomura,4000000.0,2Y_5Y,10.0
+MXN,Vanilla Curve Spread,Nomura,10000000.0,2Y_5Y,10.0
+MXN,Vanilla Curve Spread,Nomura,20000000.0,2Y_5Y,15.0
+MXN,Vanilla Curve Spread,Nomura,40000000.0,2Y_5Y,15.0
+MXN,Vanilla Curve Spread,Nomura,100000000.0,2Y_5Y,20.0
+MXN,Vanilla Curve Spread,Nomura,200000000.0,2Y_5Y,20.0
+MXN,Vanilla Curve Spread,Nomura,4000000.0,2Y_10Y,10.0
+MXN,Vanilla Curve Spread,Nomura,10000000.0,2Y_10Y,10.0
+MXN,Vanilla Curve Spread,Nomura,20000000.0,2Y_10Y,15.0
+MXN,Vanilla Curve Spread,Nomura,40000000.0,2Y_10Y,15.0
+MXN,Vanilla Curve Spread,Nomura,100000000.0,2Y_10Y,20.0
+MXN,Vanilla Curve Spread,Nomura,200000000.0,2Y_10Y,20.0
+MXN,Vanilla Curve Spread,Nomura,4000000.0,5Y_10Y,6.0
+MXN,Vanilla Curve Spread,Nomura,10000000.0,5Y_10Y,7.0
+MXN,Vanilla Curve Spread,Nomura,20000000.0,5Y_10Y,8.0
+MXN,Vanilla Curve Spread,Nomura,40000000.0,5Y_10Y,10.0
+MXN,Vanilla Curve Spread,Nomura,100000000.0,5Y_10Y,15.0
+MXN,Vanilla Curve Spread,Nomura,200000000.0,5Y_10Y,17.0
+MXN,Vanilla Curve Spread,UBS,4000000.0,1Y_2Y,3.0
+MXN,Vanilla Curve Spread,UBS,10000000.0,1Y_2Y,5.0
+MXN,Vanilla Curve Spread,UBS,20000000.0,1Y_2Y,10.0
+MXN,Vanilla Curve Spread,UBS,40000000.0,1Y_2Y,20.0
+MXN,Vanilla Curve Spread,UBS,100000000.0,1Y_2Y,30.0
+MXN,Vanilla Curve Spread,UBS,200000000.0,1Y_2Y,45.0
+MXN,Vanilla Curve Spread,UBS,4000000.0,1Y_5Y,3.0
+MXN,Vanilla Curve Spread,UBS,10000000.0,1Y_5Y,6.0
+MXN,Vanilla Curve Spread,UBS,20000000.0,1Y_5Y,12.0
+MXN,Vanilla Curve Spread,UBS,40000000.0,1Y_5Y,22.0
+MXN,Vanilla Curve Spread,UBS,100000000.0,1Y_5Y,33.0
+MXN,Vanilla Curve Spread,UBS,200000000.0,1Y_5Y,55.0
+MXN,Vanilla Curve Spread,UBS,4000000.0,1Y_10Y,3.0
+MXN,Vanilla Curve Spread,UBS,10000000.0,1Y_10Y,7.0
+MXN,Vanilla Curve Spread,UBS,20000000.0,1Y_10Y,15.0
+MXN,Vanilla Curve Spread,UBS,40000000.0,1Y_10Y,25.0
+MXN,Vanilla Curve Spread,UBS,100000000.0,1Y_10Y,35.0
+MXN,Vanilla Curve Spread,UBS,200000000.0,1Y_10Y,65.0
+MXN,Vanilla Curve Spread,UBS,4000000.0,2Y_5Y,3.0
+MXN,Vanilla Curve Spread,UBS,10000000.0,2Y_5Y,7.0
+MXN,Vanilla Curve Spread,UBS,20000000.0,2Y_5Y,14.0
+MXN,Vanilla Curve Spread,UBS,40000000.0,2Y_5Y,22.0
+MXN,Vanilla Curve Spread,UBS,100000000.0,2Y_5Y,33.0
+MXN,Vanilla Curve Spread,UBS,200000000.0,2Y_5Y,55.0
+MXN,Vanilla Curve Spread,UBS,4000000.0,2Y_10Y,3.0
+MXN,Vanilla Curve Spread,UBS,10000000.0,2Y_10Y,7.0
+MXN,Vanilla Curve Spread,UBS,20000000.0,2Y_10Y,14.0
+MXN,Vanilla Curve Spread,UBS,40000000.0,2Y_10Y,22.0
+MXN,Vanilla Curve Spread,UBS,100000000.0,2Y_10Y,33.0
+MXN,Vanilla Curve Spread,UBS,200000000.0,2Y_10Y,55.0
+MXN,Vanilla Curve Spread,UBS,4000000.0,5Y_10Y,3.0
+MXN,Vanilla Curve Spread,UBS,10000000.0,5Y_10Y,7.0
+MXN,Vanilla Curve Spread,UBS,20000000.0,5Y_10Y,14.0
+MXN,Vanilla Curve Spread,UBS,40000000.0,5Y_10Y,22.0
+MXN,Vanilla Curve Spread,UBS,100000000.0,5Y_10Y,33.0
+MXN,Vanilla Curve Spread,UBS,200000000.0,5Y_10Y,55.0
+MXN,Vanilla Curve Spread,BMO,4000000.0,1Y_2Y,
+MXN,Vanilla Curve Spread,BMO,10000000.0,1Y_2Y,
+MXN,Vanilla Curve Spread,BMO,20000000.0,1Y_2Y,
+MXN,Vanilla Curve Spread,BMO,40000000.0,1Y_2Y,
+MXN,Vanilla Curve Spread,BMO,100000000.0,1Y_2Y,
+MXN,Vanilla Curve Spread,BMO,200000000.0,1Y_2Y,
+MXN,Vanilla Curve Spread,BMO,4000000.0,1Y_5Y,
+MXN,Vanilla Curve Spread,BMO,10000000.0,1Y_5Y,
+MXN,Vanilla Curve Spread,BMO,20000000.0,1Y_5Y,
+MXN,Vanilla Curve Spread,BMO,40000000.0,1Y_5Y,
+MXN,Vanilla Curve Spread,BMO,100000000.0,1Y_5Y,
+MXN,Vanilla Curve Spread,BMO,200000000.0,1Y_5Y,
+MXN,Vanilla Curve Spread,BMO,4000000.0,1Y_10Y,
+MXN,Vanilla Curve Spread,BMO,10000000.0,1Y_10Y,
+MXN,Vanilla Curve Spread,BMO,20000000.0,1Y_10Y,
+MXN,Vanilla Curve Spread,BMO,40000000.0,1Y_10Y,
+MXN,Vanilla Curve Spread,BMO,100000000.0,1Y_10Y,
+MXN,Vanilla Curve Spread,BMO,200000000.0,1Y_10Y,
+MXN,Vanilla Curve Spread,BMO,4000000.0,2Y_5Y,
+MXN,Vanilla Curve Spread,BMO,10000000.0,2Y_5Y,
+MXN,Vanilla Curve Spread,BMO,20000000.0,2Y_5Y,
+MXN,Vanilla Curve Spread,BMO,40000000.0,2Y_5Y,
+MXN,Vanilla Curve Spread,BMO,100000000.0,2Y_5Y,
+MXN,Vanilla Curve Spread,BMO,200000000.0,2Y_5Y,
+MXN,Vanilla Curve Spread,BMO,4000000.0,2Y_10Y,
+MXN,Vanilla Curve Spread,BMO,10000000.0,2Y_10Y,
+MXN,Vanilla Curve Spread,BMO,20000000.0,2Y_10Y,
+MXN,Vanilla Curve Spread,BMO,40000000.0,2Y_10Y,
+MXN,Vanilla Curve Spread,BMO,100000000.0,2Y_10Y,
+MXN,Vanilla Curve Spread,BMO,200000000.0,2Y_10Y,
+MXN,Vanilla Curve Spread,BMO,4000000.0,5Y_10Y,
+MXN,Vanilla Curve Spread,BMO,10000000.0,5Y_10Y,
+MXN,Vanilla Curve Spread,BMO,20000000.0,5Y_10Y,
+MXN,Vanilla Curve Spread,BMO,40000000.0,5Y_10Y,
+MXN,Vanilla Curve Spread,BMO,100000000.0,5Y_10Y,
+MXN,Vanilla Curve Spread,BMO,200000000.0,5Y_10Y,
+MXN,Vanilla Curve Spread,TD,4000000.0,1Y_2Y,3.0
+MXN,Vanilla Curve Spread,TD,10000000.0,1Y_2Y,7.0
+MXN,Vanilla Curve Spread,TD,20000000.0,1Y_2Y,15.0
+MXN,Vanilla Curve Spread,TD,40000000.0,1Y_2Y,20.0
+MXN,Vanilla Curve Spread,TD,100000000.0,1Y_2Y,25.0
+MXN,Vanilla Curve Spread,TD,200000000.0,1Y_2Y,30.0
+MXN,Vanilla Curve Spread,TD,4000000.0,1Y_5Y,3.0
+MXN,Vanilla Curve Spread,TD,10000000.0,1Y_5Y,7.0
+MXN,Vanilla Curve Spread,TD,20000000.0,1Y_5Y,15.0
+MXN,Vanilla Curve Spread,TD,40000000.0,1Y_5Y,20.0
+MXN,Vanilla Curve Spread,TD,100000000.0,1Y_5Y,25.0
+MXN,Vanilla Curve Spread,TD,200000000.0,1Y_5Y,30.0
+MXN,Vanilla Curve Spread,TD,4000000.0,1Y_10Y,3.0
+MXN,Vanilla Curve Spread,TD,10000000.0,1Y_10Y,7.0
+MXN,Vanilla Curve Spread,TD,20000000.0,1Y_10Y,15.0
+MXN,Vanilla Curve Spread,TD,40000000.0,1Y_10Y,20.0
+MXN,Vanilla Curve Spread,TD,100000000.0,1Y_10Y,25.0
+MXN,Vanilla Curve Spread,TD,200000000.0,1Y_10Y,30.0
+MXN,Vanilla Curve Spread,TD,4000000.0,2Y_5Y,3.0
+MXN,Vanilla Curve Spread,TD,10000000.0,2Y_5Y,7.0
+MXN,Vanilla Curve Spread,TD,20000000.0,2Y_5Y,15.0
+MXN,Vanilla Curve Spread,TD,40000000.0,2Y_5Y,20.0
+MXN,Vanilla Curve Spread,TD,100000000.0,2Y_5Y,25.0
+MXN,Vanilla Curve Spread,TD,200000000.0,2Y_5Y,30.0
+MXN,Vanilla Curve Spread,TD,4000000.0,2Y_10Y,3.0
+MXN,Vanilla Curve Spread,TD,10000000.0,2Y_10Y,7.0
+MXN,Vanilla Curve Spread,TD,20000000.0,2Y_10Y,15.0
+MXN,Vanilla Curve Spread,TD,40000000.0,2Y_10Y,20.0
+MXN,Vanilla Curve Spread,TD,100000000.0,2Y_10Y,25.0
+MXN,Vanilla Curve Spread,TD,200000000.0,2Y_10Y,30.0
+MXN,Vanilla Curve Spread,TD,4000000.0,5Y_10Y,3.0
+MXN,Vanilla Curve Spread,TD,10000000.0,5Y_10Y,7.0
+MXN,Vanilla Curve Spread,TD,20000000.0,5Y_10Y,15.0
+MXN,Vanilla Curve Spread,TD,40000000.0,5Y_10Y,20.0
+MXN,Vanilla Curve Spread,TD,100000000.0,5Y_10Y,25.0
+MXN,Vanilla Curve Spread,TD,200000000.0,5Y_10Y,30.0
+MXN,Vanilla Curve Spread,Credit Suisse,4000000.0,1Y_2Y,4.0
+MXN,Vanilla Curve Spread,Credit Suisse,10000000.0,1Y_2Y,6.0
+MXN,Vanilla Curve Spread,Credit Suisse,20000000.0,1Y_2Y,8.0
+MXN,Vanilla Curve Spread,Credit Suisse,40000000.0,1Y_2Y,12.0
+MXN,Vanilla Curve Spread,Credit Suisse,100000000.0,1Y_2Y,21.0
+MXN,Vanilla Curve Spread,Credit Suisse,200000000.0,1Y_2Y,25.0
+MXN,Vanilla Curve Spread,Credit Suisse,4000000.0,1Y_5Y,6.0
+MXN,Vanilla Curve Spread,Credit Suisse,10000000.0,1Y_5Y,8.0
+MXN,Vanilla Curve Spread,Credit Suisse,20000000.0,1Y_5Y,10.0
+MXN,Vanilla Curve Spread,Credit Suisse,40000000.0,1Y_5Y,14.0
+MXN,Vanilla Curve Spread,Credit Suisse,100000000.0,1Y_5Y,23.0
+MXN,Vanilla Curve Spread,Credit Suisse,200000000.0,1Y_5Y,28.0
+MXN,Vanilla Curve Spread,Credit Suisse,4000000.0,1Y_10Y,8.0
+MXN,Vanilla Curve Spread,Credit Suisse,10000000.0,1Y_10Y,10.0
+MXN,Vanilla Curve Spread,Credit Suisse,20000000.0,1Y_10Y,12.0
+MXN,Vanilla Curve Spread,Credit Suisse,40000000.0,1Y_10Y,16.0
+MXN,Vanilla Curve Spread,Credit Suisse,100000000.0,1Y_10Y,25.0
+MXN,Vanilla Curve Spread,Credit Suisse,200000000.0,1Y_10Y,30.0
+MXN,Vanilla Curve Spread,Credit Suisse,4000000.0,2Y_5Y,3.0
+MXN,Vanilla Curve Spread,Credit Suisse,10000000.0,2Y_5Y,5.0
+MXN,Vanilla Curve Spread,Credit Suisse,20000000.0,2Y_5Y,7.0
+MXN,Vanilla Curve Spread,Credit Suisse,40000000.0,2Y_5Y,11.0
+MXN,Vanilla Curve Spread,Credit Suisse,100000000.0,2Y_5Y,20.0
+MXN,Vanilla Curve Spread,Credit Suisse,200000000.0,2Y_5Y,24.0
+MXN,Vanilla Curve Spread,Credit Suisse,4000000.0,2Y_10Y,5.0
+MXN,Vanilla Curve Spread,Credit Suisse,10000000.0,2Y_10Y,7.0
+MXN,Vanilla Curve Spread,Credit Suisse,20000000.0,2Y_10Y,10.0
+MXN,Vanilla Curve Spread,Credit Suisse,40000000.0,2Y_10Y,15.0
+MXN,Vanilla Curve Spread,Credit Suisse,100000000.0,2Y_10Y,24.0
+MXN,Vanilla Curve Spread,Credit Suisse,200000000.0,2Y_10Y,28.0
+MXN,Vanilla Curve Spread,Credit Suisse,4000000.0,5Y_10Y,4.0
+MXN,Vanilla Curve Spread,Credit Suisse,10000000.0,5Y_10Y,6.0
+MXN,Vanilla Curve Spread,Credit Suisse,20000000.0,5Y_10Y,8.0
+MXN,Vanilla Curve Spread,Credit Suisse,40000000.0,5Y_10Y,13.0
+MXN,Vanilla Curve Spread,Credit Suisse,100000000.0,5Y_10Y,20.0
+MXN,Vanilla Curve Spread,Credit Suisse,200000000.0,5Y_10Y,25.0
+MXN,Vanilla Curve Spread,HSBC,4000000.0,1Y_2Y,6.25
+MXN,Vanilla Curve Spread,HSBC,10000000.0,1Y_2Y,12.5
+MXN,Vanilla Curve Spread,HSBC,20000000.0,1Y_2Y,25.0
+MXN,Vanilla Curve Spread,HSBC,40000000.0,1Y_2Y,50.0
+MXN,Vanilla Curve Spread,HSBC,100000000.0,1Y_2Y,100.0
+MXN,Vanilla Curve Spread,HSBC,200000000.0,1Y_2Y,200.0
+MXN,Vanilla Curve Spread,HSBC,4000000.0,1Y_5Y,6.25
+MXN,Vanilla Curve Spread,HSBC,10000000.0,1Y_5Y,12.5
+MXN,Vanilla Curve Spread,HSBC,20000000.0,1Y_5Y,25.0
+MXN,Vanilla Curve Spread,HSBC,40000000.0,1Y_5Y,50.0
+MXN,Vanilla Curve Spread,HSBC,100000000.0,1Y_5Y,100.0
+MXN,Vanilla Curve Spread,HSBC,200000000.0,1Y_5Y,200.0
+MXN,Vanilla Curve Spread,HSBC,4000000.0,1Y_10Y,6.875000000000001
+MXN,Vanilla Curve Spread,HSBC,10000000.0,1Y_10Y,13.750000000000002
+MXN,Vanilla Curve Spread,HSBC,20000000.0,1Y_10Y,27.500000000000004
+MXN,Vanilla Curve Spread,HSBC,40000000.0,1Y_10Y,55.00000000000001
+MXN,Vanilla Curve Spread,HSBC,100000000.0,1Y_10Y,110.00000000000001
+MXN,Vanilla Curve Spread,HSBC,200000000.0,1Y_10Y,220.00000000000003
+MXN,Vanilla Curve Spread,HSBC,4000000.0,2Y_5Y,9.375
+MXN,Vanilla Curve Spread,HSBC,10000000.0,2Y_5Y,18.75
+MXN,Vanilla Curve Spread,HSBC,20000000.0,2Y_5Y,37.5
+MXN,Vanilla Curve Spread,HSBC,40000000.0,2Y_5Y,75.0
+MXN,Vanilla Curve Spread,HSBC,100000000.0,2Y_5Y,150.0
+MXN,Vanilla Curve Spread,HSBC,200000000.0,2Y_5Y,300.0
+MXN,Vanilla Curve Spread,HSBC,4000000.0,2Y_10Y,9.375
+MXN,Vanilla Curve Spread,HSBC,10000000.0,2Y_10Y,18.75
+MXN,Vanilla Curve Spread,HSBC,20000000.0,2Y_10Y,37.5
+MXN,Vanilla Curve Spread,HSBC,40000000.0,2Y_10Y,75.0
+MXN,Vanilla Curve Spread,HSBC,100000000.0,2Y_10Y,150.0
+MXN,Vanilla Curve Spread,HSBC,200000000.0,2Y_10Y,300.0
+MXN,Vanilla Curve Spread,HSBC,4000000.0,5Y_10Y,9.375
+MXN,Vanilla Curve Spread,HSBC,10000000.0,5Y_10Y,18.75
+MXN,Vanilla Curve Spread,HSBC,20000000.0,5Y_10Y,37.5
+MXN,Vanilla Curve Spread,HSBC,40000000.0,5Y_10Y,75.0
+MXN,Vanilla Curve Spread,HSBC,100000000.0,5Y_10Y,150.0
+MXN,Vanilla Curve Spread,HSBC,200000000.0,5Y_10Y,300.0
+MXN,Vanilla Curve Spread,Goldman,4000000.0,1Y_2Y,5.0
+MXN,Vanilla Curve Spread,Goldman,10000000.0,1Y_2Y,8.0
+MXN,Vanilla Curve Spread,Goldman,20000000.0,1Y_2Y,12.0
+MXN,Vanilla Curve Spread,Goldman,40000000.0,1Y_2Y,20.0
+MXN,Vanilla Curve Spread,Goldman,100000000.0,1Y_2Y,35.0
+MXN,Vanilla Curve Spread,Goldman,200000000.0,1Y_2Y,65.0
+MXN,Vanilla Curve Spread,Goldman,4000000.0,1Y_5Y,7.0
+MXN,Vanilla Curve Spread,Goldman,10000000.0,1Y_5Y,10.0
+MXN,Vanilla Curve Spread,Goldman,20000000.0,1Y_5Y,15.0
+MXN,Vanilla Curve Spread,Goldman,40000000.0,1Y_5Y,20.0
+MXN,Vanilla Curve Spread,Goldman,100000000.0,1Y_5Y,35.0
+MXN,Vanilla Curve Spread,Goldman,200000000.0,1Y_5Y,65.0
+MXN,Vanilla Curve Spread,Goldman,4000000.0,1Y_10Y,7.0
+MXN,Vanilla Curve Spread,Goldman,10000000.0,1Y_10Y,10.0
+MXN,Vanilla Curve Spread,Goldman,20000000.0,1Y_10Y,15.0
+MXN,Vanilla Curve Spread,Goldman,40000000.0,1Y_10Y,23.0
+MXN,Vanilla Curve Spread,Goldman,100000000.0,1Y_10Y,40.0
+MXN,Vanilla Curve Spread,Goldman,200000000.0,1Y_10Y,72.0
+MXN,Vanilla Curve Spread,Goldman,4000000.0,2Y_5Y,5.0
+MXN,Vanilla Curve Spread,Goldman,10000000.0,2Y_5Y,8.0
+MXN,Vanilla Curve Spread,Goldman,20000000.0,2Y_5Y,12.0
+MXN,Vanilla Curve Spread,Goldman,40000000.0,2Y_5Y,23.0
+MXN,Vanilla Curve Spread,Goldman,100000000.0,2Y_5Y,40.0
+MXN,Vanilla Curve Spread,Goldman,200000000.0,2Y_5Y,72.0
+MXN,Vanilla Curve Spread,Goldman,4000000.0,2Y_10Y,5.0
+MXN,Vanilla Curve Spread,Goldman,10000000.0,2Y_10Y,8.0
+MXN,Vanilla Curve Spread,Goldman,20000000.0,2Y_10Y,12.0
+MXN,Vanilla Curve Spread,Goldman,40000000.0,2Y_10Y,20.0
+MXN,Vanilla Curve Spread,Goldman,100000000.0,2Y_10Y,35.0
+MXN,Vanilla Curve Spread,Goldman,200000000.0,2Y_10Y,65.0
+MXN,Vanilla Curve Spread,Goldman,4000000.0,5Y_10Y,5.0
+MXN,Vanilla Curve Spread,Goldman,10000000.0,5Y_10Y,8.0
+MXN,Vanilla Curve Spread,Goldman,20000000.0,5Y_10Y,12.0
+MXN,Vanilla Curve Spread,Goldman,40000000.0,5Y_10Y,20.0
+MXN,Vanilla Curve Spread,Goldman,100000000.0,5Y_10Y,30.0
+MXN,Vanilla Curve Spread,Goldman,200000000.0,5Y_10Y,55.0
+MXN,Vanilla Curve Spread,Wells Fargo,4000000.0,1Y_2Y,2.63671875
+MXN,Vanilla Curve Spread,Wells Fargo,10000000.0,1Y_2Y,3.515625
+MXN,Vanilla Curve Spread,Wells Fargo,20000000.0,1Y_2Y,5.15625
+MXN,Vanilla Curve Spread,Wells Fargo,40000000.0,1Y_2Y,7.734375000000001
+MXN,Vanilla Curve Spread,Wells Fargo,100000000.0,1Y_2Y,10.3125
+MXN,Vanilla Curve Spread,Wells Fargo,200000000.0,1Y_2Y,18.046875
+MXN,Vanilla Curve Spread,Wells Fargo,4000000.0,1Y_5Y,3.515625
+MXN,Vanilla Curve Spread,Wells Fargo,10000000.0,1Y_5Y,4.6875
+MXN,Vanilla Curve Spread,Wells Fargo,20000000.0,1Y_5Y,8.7890625
+MXN,Vanilla Curve Spread,Wells Fargo,40000000.0,1Y_5Y,11.71875
+MXN,Vanilla Curve Spread,Wells Fargo,100000000.0,1Y_5Y,17.578125
+MXN,Vanilla Curve Spread,Wells Fargo,200000000.0,1Y_5Y,32.2265625
+MXN,Vanilla Curve Spread,Wells Fargo,4000000.0,1Y_10Y,3.515625
+MXN,Vanilla Curve Spread,Wells Fargo,10000000.0,1Y_10Y,4.6875
+MXN,Vanilla Curve Spread,Wells Fargo,20000000.0,1Y_10Y,8.7890625
+MXN,Vanilla Curve Spread,Wells Fargo,40000000.0,1Y_10Y,14.6484375
+MXN,Vanilla Curve Spread,Wells Fargo,100000000.0,1Y_10Y,23.4375
+MXN,Vanilla Curve Spread,Wells Fargo,200000000.0,1Y_10Y,38.0859375
+MXN,Vanilla Curve Spread,Wells Fargo,4000000.0,2Y_5Y,2.63671875
+MXN,Vanilla Curve Spread,Wells Fargo,10000000.0,2Y_5Y,3.515625
+MXN,Vanilla Curve Spread,Wells Fargo,20000000.0,2Y_5Y,7.32421875
+MXN,Vanilla Curve Spread,Wells Fargo,40000000.0,2Y_5Y,10.25390625
+MXN,Vanilla Curve Spread,Wells Fargo,100000000.0,2Y_5Y,14.6484375
+MXN,Vanilla Curve Spread,Wells Fargo,200000000.0,2Y_5Y,29.296875
+MXN,Vanilla Curve Spread,Wells Fargo,4000000.0,2Y_10Y,3.515625
+MXN,Vanilla Curve Spread,Wells Fargo,10000000.0,2Y_10Y,4.6875
+MXN,Vanilla Curve Spread,Wells Fargo,20000000.0,2Y_10Y,8.7890625
+MXN,Vanilla Curve Spread,Wells Fargo,40000000.0,2Y_10Y,11.71875
+MXN,Vanilla Curve Spread,Wells Fargo,100000000.0,2Y_10Y,20.5078125
+MXN,Vanilla Curve Spread,Wells Fargo,200000000.0,2Y_10Y,35.15625
+MXN,Vanilla Curve Spread,Wells Fargo,4000000.0,5Y_10Y,2.63671875
+MXN,Vanilla Curve Spread,Wells Fargo,10000000.0,5Y_10Y,3.515625
+MXN,Vanilla Curve Spread,Wells Fargo,20000000.0,5Y_10Y,7.32421875
+MXN,Vanilla Curve Spread,Wells Fargo,40000000.0,5Y_10Y,10.25390625
+MXN,Vanilla Curve Spread,Wells Fargo,100000000.0,5Y_10Y,17.578125
+MXN,Vanilla Curve Spread,Wells Fargo,200000000.0,5Y_10Y,32.2265625
+MXN,Vanilla Curve Spread,Citi,4000000.0,1Y_2Y,5.0
+MXN,Vanilla Curve Spread,Citi,10000000.0,1Y_2Y,7.0
+MXN,Vanilla Curve Spread,Citi,20000000.0,1Y_2Y,12.0
+MXN,Vanilla Curve Spread,Citi,40000000.0,1Y_2Y,15.0
+MXN,Vanilla Curve Spread,Citi,100000000.0,1Y_2Y,33.0
+MXN,Vanilla Curve Spread,Citi,200000000.0,1Y_2Y,60.0
+MXN,Vanilla Curve Spread,Citi,4000000.0,1Y_5Y,7.0
+MXN,Vanilla Curve Spread,Citi,10000000.0,1Y_5Y,10.0
+MXN,Vanilla Curve Spread,Citi,20000000.0,1Y_5Y,17.0
+MXN,Vanilla Curve Spread,Citi,40000000.0,1Y_5Y,22.0
+MXN,Vanilla Curve Spread,Citi,100000000.0,1Y_5Y,48.0
+MXN,Vanilla Curve Spread,Citi,200000000.0,1Y_5Y,85.0
+MXN,Vanilla Curve Spread,Citi,4000000.0,1Y_10Y,10.0
+MXN,Vanilla Curve Spread,Citi,10000000.0,1Y_10Y,15.0
+MXN,Vanilla Curve Spread,Citi,20000000.0,1Y_10Y,22.0
+MXN,Vanilla Curve Spread,Citi,40000000.0,1Y_10Y,30.0
+MXN,Vanilla Curve Spread,Citi,100000000.0,1Y_10Y,63.0
+MXN,Vanilla Curve Spread,Citi,200000000.0,1Y_10Y,110.0
+MXN,Vanilla Curve Spread,Citi,4000000.0,2Y_5Y,5.0
+MXN,Vanilla Curve Spread,Citi,10000000.0,2Y_5Y,7.0
+MXN,Vanilla Curve Spread,Citi,20000000.0,2Y_5Y,12.0
+MXN,Vanilla Curve Spread,Citi,40000000.0,2Y_5Y,15.0
+MXN,Vanilla Curve Spread,Citi,100000000.0,2Y_5Y,33.0
+MXN,Vanilla Curve Spread,Citi,200000000.0,2Y_5Y,60.0
+MXN,Vanilla Curve Spread,Citi,4000000.0,2Y_10Y,10.0
+MXN,Vanilla Curve Spread,Citi,10000000.0,2Y_10Y,15.0
+MXN,Vanilla Curve Spread,Citi,20000000.0,2Y_10Y,22.0
+MXN,Vanilla Curve Spread,Citi,40000000.0,2Y_10Y,30.0
+MXN,Vanilla Curve Spread,Citi,100000000.0,2Y_10Y,63.0
+MXN,Vanilla Curve Spread,Citi,200000000.0,2Y_10Y,110.0
+MXN,Vanilla Curve Spread,Citi,4000000.0,5Y_10Y,7.0
+MXN,Vanilla Curve Spread,Citi,10000000.0,5Y_10Y,10.0
+MXN,Vanilla Curve Spread,Citi,20000000.0,5Y_10Y,17.0
+MXN,Vanilla Curve Spread,Citi,40000000.0,5Y_10Y,22.0
+MXN,Vanilla Curve Spread,Citi,100000000.0,5Y_10Y,48.0
+MXN,Vanilla Curve Spread,Citi,200000000.0,5Y_10Y,85.0
+MXN,Vanilla Curve Spread,RBS,4000000.0,1Y_2Y,
+MXN,Vanilla Curve Spread,RBS,10000000.0,1Y_2Y,
+MXN,Vanilla Curve Spread,RBS,20000000.0,1Y_2Y,
+MXN,Vanilla Curve Spread,RBS,40000000.0,1Y_2Y,
+MXN,Vanilla Curve Spread,RBS,100000000.0,1Y_2Y,
+MXN,Vanilla Curve Spread,RBS,200000000.0,1Y_2Y,
+MXN,Vanilla Curve Spread,RBS,4000000.0,1Y_5Y,
+MXN,Vanilla Curve Spread,RBS,10000000.0,1Y_5Y,
+MXN,Vanilla Curve Spread,RBS,20000000.0,1Y_5Y,
+MXN,Vanilla Curve Spread,RBS,40000000.0,1Y_5Y,
+MXN,Vanilla Curve Spread,RBS,100000000.0,1Y_5Y,
+MXN,Vanilla Curve Spread,RBS,200000000.0,1Y_5Y,
+MXN,Vanilla Curve Spread,RBS,4000000.0,1Y_10Y,
+MXN,Vanilla Curve Spread,RBS,10000000.0,1Y_10Y,
+MXN,Vanilla Curve Spread,RBS,20000000.0,1Y_10Y,
+MXN,Vanilla Curve Spread,RBS,40000000.0,1Y_10Y,
+MXN,Vanilla Curve Spread,RBS,100000000.0,1Y_10Y,
+MXN,Vanilla Curve Spread,RBS,200000000.0,1Y_10Y,
+MXN,Vanilla Curve Spread,RBS,4000000.0,2Y_5Y,
+MXN,Vanilla Curve Spread,RBS,10000000.0,2Y_5Y,
+MXN,Vanilla Curve Spread,RBS,20000000.0,2Y_5Y,
+MXN,Vanilla Curve Spread,RBS,40000000.0,2Y_5Y,
+MXN,Vanilla Curve Spread,RBS,100000000.0,2Y_5Y,
+MXN,Vanilla Curve Spread,RBS,200000000.0,2Y_5Y,
+MXN,Vanilla Curve Spread,RBS,4000000.0,2Y_10Y,
+MXN,Vanilla Curve Spread,RBS,10000000.0,2Y_10Y,
+MXN,Vanilla Curve Spread,RBS,20000000.0,2Y_10Y,
+MXN,Vanilla Curve Spread,RBS,40000000.0,2Y_10Y,
+MXN,Vanilla Curve Spread,RBS,100000000.0,2Y_10Y,
+MXN,Vanilla Curve Spread,RBS,200000000.0,2Y_10Y,
+MXN,Vanilla Curve Spread,RBS,4000000.0,5Y_10Y,
+MXN,Vanilla Curve Spread,RBS,10000000.0,5Y_10Y,
+MXN,Vanilla Curve Spread,RBS,20000000.0,5Y_10Y,
+MXN,Vanilla Curve Spread,RBS,40000000.0,5Y_10Y,
+MXN,Vanilla Curve Spread,RBS,100000000.0,5Y_10Y,
+MXN,Vanilla Curve Spread,RBS,200000000.0,5Y_10Y,
+MXN,Vanilla Curve Spread,BAML,4000000.0,1Y_2Y,10.125
+MXN,Vanilla Curve Spread,BAML,10000000.0,1Y_2Y,17.71875
+MXN,Vanilla Curve Spread,BAML,20000000.0,1Y_2Y,24.6796875
+MXN,Vanilla Curve Spread,BAML,40000000.0,1Y_2Y,34.171875
+MXN,Vanilla Curve Spread,BAML,100000000.0,1Y_2Y,58.73291015625001
+MXN,Vanilla Curve Spread,BAML,200000000.0,1Y_2Y,80.09033203125
+MXN,Vanilla Curve Spread,BAML,4000000.0,1Y_5Y,10.125
+MXN,Vanilla Curve Spread,BAML,10000000.0,1Y_5Y,17.71875
+MXN,Vanilla Curve Spread,BAML,20000000.0,1Y_5Y,24.6796875
+MXN,Vanilla Curve Spread,BAML,40000000.0,1Y_5Y,34.171875
+MXN,Vanilla Curve Spread,BAML,100000000.0,1Y_5Y,58.73291015625001
+MXN,Vanilla Curve Spread,BAML,200000000.0,1Y_5Y,80.09033203125
+MXN,Vanilla Curve Spread,BAML,4000000.0,1Y_10Y,10.125
+MXN,Vanilla Curve Spread,BAML,10000000.0,1Y_10Y,17.71875
+MXN,Vanilla Curve Spread,BAML,20000000.0,1Y_10Y,24.6796875
+MXN,Vanilla Curve Spread,BAML,40000000.0,1Y_10Y,34.171875
+MXN,Vanilla Curve Spread,BAML,100000000.0,1Y_10Y,58.73291015625001
+MXN,Vanilla Curve Spread,BAML,200000000.0,1Y_10Y,80.09033203125
+MXN,Vanilla Curve Spread,BAML,4000000.0,2Y_5Y,10.125
+MXN,Vanilla Curve Spread,BAML,10000000.0,2Y_5Y,17.71875
+MXN,Vanilla Curve Spread,BAML,20000000.0,2Y_5Y,24.6796875
+MXN,Vanilla Curve Spread,BAML,40000000.0,2Y_5Y,34.171875
+MXN,Vanilla Curve Spread,BAML,100000000.0,2Y_5Y,58.73291015625001
+MXN,Vanilla Curve Spread,BAML,200000000.0,2Y_5Y,80.09033203125
+MXN,Vanilla Curve Spread,BAML,4000000.0,2Y_10Y,10.125
+MXN,Vanilla Curve Spread,BAML,10000000.0,2Y_10Y,17.71875
+MXN,Vanilla Curve Spread,BAML,20000000.0,2Y_10Y,24.6796875
+MXN,Vanilla Curve Spread,BAML,40000000.0,2Y_10Y,34.171875
+MXN,Vanilla Curve Spread,BAML,100000000.0,2Y_10Y,58.73291015625001
+MXN,Vanilla Curve Spread,BAML,200000000.0,2Y_10Y,80.09033203125
+MXN,Vanilla Curve Spread,BAML,4000000.0,5Y_10Y,7.59375
+MXN,Vanilla Curve Spread,BAML,10000000.0,5Y_10Y,13.2890625
+MXN,Vanilla Curve Spread,BAML,20000000.0,5Y_10Y,18.509765625
+MXN,Vanilla Curve Spread,BAML,40000000.0,5Y_10Y,25.62890625
+MXN,Vanilla Curve Spread,BAML,100000000.0,5Y_10Y,44.04968261718751
+MXN,Vanilla Curve Spread,BAML,200000000.0,5Y_10Y,60.0677490234375
+MXN,Vanilla Curve Spread,Morgan Stanley,4000000.0,1Y_2Y,4.0
+MXN,Vanilla Curve Spread,Morgan Stanley,10000000.0,1Y_2Y,7.0
+MXN,Vanilla Curve Spread,Morgan Stanley,20000000.0,1Y_2Y,10.0
+MXN,Vanilla Curve Spread,Morgan Stanley,40000000.0,1Y_2Y,15.0
+MXN,Vanilla Curve Spread,Morgan Stanley,100000000.0,1Y_2Y,25.0
+MXN,Vanilla Curve Spread,Morgan Stanley,200000000.0,1Y_2Y,30.0
+MXN,Vanilla Curve Spread,Morgan Stanley,4000000.0,1Y_5Y,4.0
+MXN,Vanilla Curve Spread,Morgan Stanley,10000000.0,1Y_5Y,7.0
+MXN,Vanilla Curve Spread,Morgan Stanley,20000000.0,1Y_5Y,10.0
+MXN,Vanilla Curve Spread,Morgan Stanley,40000000.0,1Y_5Y,15.0
+MXN,Vanilla Curve Spread,Morgan Stanley,100000000.0,1Y_5Y,25.0
+MXN,Vanilla Curve Spread,Morgan Stanley,200000000.0,1Y_5Y,30.0
+MXN,Vanilla Curve Spread,Morgan Stanley,4000000.0,1Y_10Y,4.0
+MXN,Vanilla Curve Spread,Morgan Stanley,10000000.0,1Y_10Y,7.0
+MXN,Vanilla Curve Spread,Morgan Stanley,20000000.0,1Y_10Y,10.0
+MXN,Vanilla Curve Spread,Morgan Stanley,40000000.0,1Y_10Y,15.0
+MXN,Vanilla Curve Spread,Morgan Stanley,100000000.0,1Y_10Y,25.0
+MXN,Vanilla Curve Spread,Morgan Stanley,200000000.0,1Y_10Y,30.0
+MXN,Vanilla Curve Spread,Morgan Stanley,4000000.0,2Y_5Y,4.0
+MXN,Vanilla Curve Spread,Morgan Stanley,10000000.0,2Y_5Y,7.0
+MXN,Vanilla Curve Spread,Morgan Stanley,20000000.0,2Y_5Y,10.0
+MXN,Vanilla Curve Spread,Morgan Stanley,40000000.0,2Y_5Y,15.0
+MXN,Vanilla Curve Spread,Morgan Stanley,100000000.0,2Y_5Y,25.0
+MXN,Vanilla Curve Spread,Morgan Stanley,200000000.0,2Y_5Y,30.0
+MXN,Vanilla Curve Spread,Morgan Stanley,4000000.0,2Y_10Y,4.0
+MXN,Vanilla Curve Spread,Morgan Stanley,10000000.0,2Y_10Y,7.0
+MXN,Vanilla Curve Spread,Morgan Stanley,20000000.0,2Y_10Y,10.0
+MXN,Vanilla Curve Spread,Morgan Stanley,40000000.0,2Y_10Y,15.0
+MXN,Vanilla Curve Spread,Morgan Stanley,100000000.0,2Y_10Y,25.0
+MXN,Vanilla Curve Spread,Morgan Stanley,200000000.0,2Y_10Y,30.0
+MXN,Vanilla Curve Spread,Morgan Stanley,4000000.0,5Y_10Y,4.0
+MXN,Vanilla Curve Spread,Morgan Stanley,10000000.0,5Y_10Y,7.0
+MXN,Vanilla Curve Spread,Morgan Stanley,20000000.0,5Y_10Y,10.0
+MXN,Vanilla Curve Spread,Morgan Stanley,40000000.0,5Y_10Y,15.0
+MXN,Vanilla Curve Spread,Morgan Stanley,100000000.0,5Y_10Y,25.0
+MXN,Vanilla Curve Spread,Morgan Stanley,200000000.0,5Y_10Y,30.0
+MXN,Vanilla Curve Spread,Scotia,4000000.0,1Y_2Y,8.0
+MXN,Vanilla Curve Spread,Scotia,10000000.0,1Y_2Y,12.0
+MXN,Vanilla Curve Spread,Scotia,20000000.0,1Y_2Y,20.0
+MXN,Vanilla Curve Spread,Scotia,40000000.0,1Y_2Y,26.0
+MXN,Vanilla Curve Spread,Scotia,100000000.0,1Y_2Y,
+MXN,Vanilla Curve Spread,Scotia,200000000.0,1Y_2Y,
+MXN,Vanilla Curve Spread,Scotia,4000000.0,1Y_5Y,10.0
+MXN,Vanilla Curve Spread,Scotia,10000000.0,1Y_5Y,14.0
+MXN,Vanilla Curve Spread,Scotia,20000000.0,1Y_5Y,22.0
+MXN,Vanilla Curve Spread,Scotia,40000000.0,1Y_5Y,32.0
+MXN,Vanilla Curve Spread,Scotia,100000000.0,1Y_5Y,
+MXN,Vanilla Curve Spread,Scotia,200000000.0,1Y_5Y,
+MXN,Vanilla Curve Spread,Scotia,4000000.0,1Y_10Y,12.0
+MXN,Vanilla Curve Spread,Scotia,10000000.0,1Y_10Y,18.0
+MXN,Vanilla Curve Spread,Scotia,20000000.0,1Y_10Y,26.0
+MXN,Vanilla Curve Spread,Scotia,40000000.0,1Y_10Y,34.0
+MXN,Vanilla Curve Spread,Scotia,100000000.0,1Y_10Y,
+MXN,Vanilla Curve Spread,Scotia,200000000.0,1Y_10Y,
+MXN,Vanilla Curve Spread,Scotia,4000000.0,2Y_5Y,8.0
+MXN,Vanilla Curve Spread,Scotia,10000000.0,2Y_5Y,12.0
+MXN,Vanilla Curve Spread,Scotia,20000000.0,2Y_5Y,20.0
+MXN,Vanilla Curve Spread,Scotia,40000000.0,2Y_5Y,26.0
+MXN,Vanilla Curve Spread,Scotia,100000000.0,2Y_5Y,
+MXN,Vanilla Curve Spread,Scotia,200000000.0,2Y_5Y,
+MXN,Vanilla Curve Spread,Scotia,4000000.0,2Y_10Y,10.0
+MXN,Vanilla Curve Spread,Scotia,10000000.0,2Y_10Y,14.0
+MXN,Vanilla Curve Spread,Scotia,20000000.0,2Y_10Y,22.0
+MXN,Vanilla Curve Spread,Scotia,40000000.0,2Y_10Y,30.0
+MXN,Vanilla Curve Spread,Scotia,100000000.0,2Y_10Y,
+MXN,Vanilla Curve Spread,Scotia,200000000.0,2Y_10Y,
+MXN,Vanilla Curve Spread,Scotia,4000000.0,5Y_10Y,8.0
+MXN,Vanilla Curve Spread,Scotia,10000000.0,5Y_10Y,14.0
+MXN,Vanilla Curve Spread,Scotia,20000000.0,5Y_10Y,24.0
+MXN,Vanilla Curve Spread,Scotia,40000000.0,5Y_10Y,30.0
+MXN,Vanilla Curve Spread,Scotia,100000000.0,5Y_10Y,
+MXN,Vanilla Curve Spread,Scotia,200000000.0,5Y_10Y,
+MXN,Vanilla Curve Spread,JPM,4000000.0,1Y_2Y,5.0
+MXN,Vanilla Curve Spread,JPM,10000000.0,1Y_2Y,6.0
+MXN,Vanilla Curve Spread,JPM,20000000.0,1Y_2Y,8.0
+MXN,Vanilla Curve Spread,JPM,40000000.0,1Y_2Y,10.0
+MXN,Vanilla Curve Spread,JPM,100000000.0,1Y_2Y,12.0
+MXN,Vanilla Curve Spread,JPM,200000000.0,1Y_2Y,16.0
+MXN,Vanilla Curve Spread,JPM,4000000.0,1Y_5Y,6.0
+MXN,Vanilla Curve Spread,JPM,10000000.0,1Y_5Y,8.0
+MXN,Vanilla Curve Spread,JPM,20000000.0,1Y_5Y,8.0
+MXN,Vanilla Curve Spread,JPM,40000000.0,1Y_5Y,10.0
+MXN,Vanilla Curve Spread,JPM,100000000.0,1Y_5Y,12.0
+MXN,Vanilla Curve Spread,JPM,200000000.0,1Y_5Y,16.0
+MXN,Vanilla Curve Spread,JPM,4000000.0,1Y_10Y,6.0
+MXN,Vanilla Curve Spread,JPM,10000000.0,1Y_10Y,8.0
+MXN,Vanilla Curve Spread,JPM,20000000.0,1Y_10Y,8.0
+MXN,Vanilla Curve Spread,JPM,40000000.0,1Y_10Y,10.0
+MXN,Vanilla Curve Spread,JPM,100000000.0,1Y_10Y,12.0
+MXN,Vanilla Curve Spread,JPM,200000000.0,1Y_10Y,16.0
+MXN,Vanilla Curve Spread,JPM,4000000.0,2Y_5Y,6.0
+MXN,Vanilla Curve Spread,JPM,10000000.0,2Y_5Y,8.0
+MXN,Vanilla Curve Spread,JPM,20000000.0,2Y_5Y,8.0
+MXN,Vanilla Curve Spread,JPM,40000000.0,2Y_5Y,10.0
+MXN,Vanilla Curve Spread,JPM,100000000.0,2Y_5Y,12.0
+MXN,Vanilla Curve Spread,JPM,200000000.0,2Y_5Y,16.0
+MXN,Vanilla Curve Spread,JPM,4000000.0,2Y_10Y,6.0
+MXN,Vanilla Curve Spread,JPM,10000000.0,2Y_10Y,8.0
+MXN,Vanilla Curve Spread,JPM,20000000.0,2Y_10Y,8.0
+MXN,Vanilla Curve Spread,JPM,40000000.0,2Y_10Y,10.0
+MXN,Vanilla Curve Spread,JPM,100000000.0,2Y_10Y,12.0
+MXN,Vanilla Curve Spread,JPM,200000000.0,2Y_10Y,16.0
+MXN,Vanilla Curve Spread,JPM,4000000.0,5Y_10Y,6.0
+MXN,Vanilla Curve Spread,JPM,10000000.0,5Y_10Y,8.0
+MXN,Vanilla Curve Spread,JPM,20000000.0,5Y_10Y,8.0
+MXN,Vanilla Curve Spread,JPM,40000000.0,5Y_10Y,10.0
+MXN,Vanilla Curve Spread,JPM,100000000.0,5Y_10Y,12.0
+MXN,Vanilla Curve Spread,JPM,200000000.0,5Y_10Y,16.0
+MXN,Vanilla Curve Spread,SocGen,4000000.0,1Y_2Y,5.0
+MXN,Vanilla Curve Spread,SocGen,10000000.0,1Y_2Y,8.0
+MXN,Vanilla Curve Spread,SocGen,20000000.0,1Y_2Y,15.0
+MXN,Vanilla Curve Spread,SocGen,40000000.0,1Y_2Y,20.0
+MXN,Vanilla Curve Spread,SocGen,100000000.0,1Y_2Y,32.0
+MXN,Vanilla Curve Spread,SocGen,200000000.0,1Y_2Y,60.0
+MXN,Vanilla Curve Spread,SocGen,4000000.0,1Y_5Y,5.0
+MXN,Vanilla Curve Spread,SocGen,10000000.0,1Y_5Y,12.0
+MXN,Vanilla Curve Spread,SocGen,20000000.0,1Y_5Y,20.0
+MXN,Vanilla Curve Spread,SocGen,40000000.0,1Y_5Y,25.0
+MXN,Vanilla Curve Spread,SocGen,100000000.0,1Y_5Y,45.0
+MXN,Vanilla Curve Spread,SocGen,200000000.0,1Y_5Y,75.0
+MXN,Vanilla Curve Spread,SocGen,4000000.0,1Y_10Y,5.0
+MXN,Vanilla Curve Spread,SocGen,10000000.0,1Y_10Y,12.0
+MXN,Vanilla Curve Spread,SocGen,20000000.0,1Y_10Y,20.0
+MXN,Vanilla Curve Spread,SocGen,40000000.0,1Y_10Y,25.0
+MXN,Vanilla Curve Spread,SocGen,100000000.0,1Y_10Y,45.0
+MXN,Vanilla Curve Spread,SocGen,200000000.0,1Y_10Y,75.0
+MXN,Vanilla Curve Spread,SocGen,4000000.0,2Y_5Y,5.0
+MXN,Vanilla Curve Spread,SocGen,10000000.0,2Y_5Y,8.0
+MXN,Vanilla Curve Spread,SocGen,20000000.0,2Y_5Y,15.0
+MXN,Vanilla Curve Spread,SocGen,40000000.0,2Y_5Y,20.0
+MXN,Vanilla Curve Spread,SocGen,100000000.0,2Y_5Y,32.0
+MXN,Vanilla Curve Spread,SocGen,200000000.0,2Y_5Y,60.0
+MXN,Vanilla Curve Spread,SocGen,4000000.0,2Y_10Y,5.0
+MXN,Vanilla Curve Spread,SocGen,10000000.0,2Y_10Y,12.0
+MXN,Vanilla Curve Spread,SocGen,20000000.0,2Y_10Y,20.0
+MXN,Vanilla Curve Spread,SocGen,40000000.0,2Y_10Y,25.0
+MXN,Vanilla Curve Spread,SocGen,100000000.0,2Y_10Y,45.0
+MXN,Vanilla Curve Spread,SocGen,200000000.0,2Y_10Y,75.0
+MXN,Vanilla Curve Spread,SocGen,4000000.0,5Y_10Y,5.0
+MXN,Vanilla Curve Spread,SocGen,10000000.0,5Y_10Y,8.0
+MXN,Vanilla Curve Spread,SocGen,20000000.0,5Y_10Y,15.0
+MXN,Vanilla Curve Spread,SocGen,40000000.0,5Y_10Y,20.0
+MXN,Vanilla Curve Spread,SocGen,100000000.0,5Y_10Y,32.0
+MXN,Vanilla Curve Spread,SocGen,200000000.0,5Y_10Y,60.0
+MXN,Vanilla Curve Spread,Barclays,4000000.0,1Y_2Y,6.0
+MXN,Vanilla Curve Spread,Barclays,10000000.0,1Y_2Y,10.0
+MXN,Vanilla Curve Spread,Barclays,20000000.0,1Y_2Y,15.0
+MXN,Vanilla Curve Spread,Barclays,40000000.0,1Y_2Y,20.0
+MXN,Vanilla Curve Spread,Barclays,100000000.0,1Y_2Y,25.0
+MXN,Vanilla Curve Spread,Barclays,200000000.0,1Y_2Y,30.0
+MXN,Vanilla Curve Spread,Barclays,4000000.0,1Y_5Y,8.0
+MXN,Vanilla Curve Spread,Barclays,10000000.0,1Y_5Y,12.0
+MXN,Vanilla Curve Spread,Barclays,20000000.0,1Y_5Y,16.0
+MXN,Vanilla Curve Spread,Barclays,40000000.0,1Y_5Y,20.0
+MXN,Vanilla Curve Spread,Barclays,100000000.0,1Y_5Y,25.0
+MXN,Vanilla Curve Spread,Barclays,200000000.0,1Y_5Y,30.0
+MXN,Vanilla Curve Spread,Barclays,4000000.0,1Y_10Y,10.0
+MXN,Vanilla Curve Spread,Barclays,10000000.0,1Y_10Y,14.0
+MXN,Vanilla Curve Spread,Barclays,20000000.0,1Y_10Y,18.0
+MXN,Vanilla Curve Spread,Barclays,40000000.0,1Y_10Y,22.0
+MXN,Vanilla Curve Spread,Barclays,100000000.0,1Y_10Y,25.0
+MXN,Vanilla Curve Spread,Barclays,200000000.0,1Y_10Y,30.0
+MXN,Vanilla Curve Spread,Barclays,4000000.0,2Y_5Y,8.0
+MXN,Vanilla Curve Spread,Barclays,10000000.0,2Y_5Y,12.0
+MXN,Vanilla Curve Spread,Barclays,20000000.0,2Y_5Y,16.0
+MXN,Vanilla Curve Spread,Barclays,40000000.0,2Y_5Y,20.0
+MXN,Vanilla Curve Spread,Barclays,100000000.0,2Y_5Y,25.0
+MXN,Vanilla Curve Spread,Barclays,200000000.0,2Y_5Y,30.0
+MXN,Vanilla Curve Spread,Barclays,4000000.0,2Y_10Y,8.0
+MXN,Vanilla Curve Spread,Barclays,10000000.0,2Y_10Y,12.0
+MXN,Vanilla Curve Spread,Barclays,20000000.0,2Y_10Y,16.0
+MXN,Vanilla Curve Spread,Barclays,40000000.0,2Y_10Y,20.0
+MXN,Vanilla Curve Spread,Barclays,100000000.0,2Y_10Y,25.0
+MXN,Vanilla Curve Spread,Barclays,200000000.0,2Y_10Y,30.0
+MXN,Vanilla Curve Spread,Barclays,4000000.0,5Y_10Y,6.0
+MXN,Vanilla Curve Spread,Barclays,10000000.0,5Y_10Y,10.0
+MXN,Vanilla Curve Spread,Barclays,20000000.0,5Y_10Y,15.0
+MXN,Vanilla Curve Spread,Barclays,40000000.0,5Y_10Y,20.0
+MXN,Vanilla Curve Spread,Barclays,100000000.0,5Y_10Y,25.0
+MXN,Vanilla Curve Spread,Barclays,200000000.0,5Y_10Y,30.0
+MXN,Vanilla Curve Spread,RBC,4000000.0,1Y_2Y,10.0
+MXN,Vanilla Curve Spread,RBC,10000000.0,1Y_2Y,15.0
+MXN,Vanilla Curve Spread,RBC,20000000.0,1Y_2Y,20.0
+MXN,Vanilla Curve Spread,RBC,40000000.0,1Y_2Y,20.0
+MXN,Vanilla Curve Spread,RBC,100000000.0,1Y_2Y,30.0
+MXN,Vanilla Curve Spread,RBC,200000000.0,1Y_2Y,30.0
+MXN,Vanilla Curve Spread,RBC,4000000.0,1Y_5Y,15.0
+MXN,Vanilla Curve Spread,RBC,10000000.0,1Y_5Y,25.0
+MXN,Vanilla Curve Spread,RBC,20000000.0,1Y_5Y,40.0
+MXN,Vanilla Curve Spread,RBC,40000000.0,1Y_5Y,60.0
+MXN,Vanilla Curve Spread,RBC,100000000.0,1Y_5Y,80.0
+MXN,Vanilla Curve Spread,RBC,200000000.0,1Y_5Y,80.0
+MXN,Vanilla Curve Spread,RBC,4000000.0,1Y_10Y,25.0
+MXN,Vanilla Curve Spread,RBC,10000000.0,1Y_10Y,50.0
+MXN,Vanilla Curve Spread,RBC,20000000.0,1Y_10Y,75.0
+MXN,Vanilla Curve Spread,RBC,40000000.0,1Y_10Y,100.0
+MXN,Vanilla Curve Spread,RBC,100000000.0,1Y_10Y,150.0
+MXN,Vanilla Curve Spread,RBC,200000000.0,1Y_10Y,150.0
+MXN,Vanilla Curve Spread,RBC,4000000.0,2Y_5Y,15.0
+MXN,Vanilla Curve Spread,RBC,10000000.0,2Y_5Y,20.0
+MXN,Vanilla Curve Spread,RBC,20000000.0,2Y_5Y,30.0
+MXN,Vanilla Curve Spread,RBC,40000000.0,2Y_5Y,40.0
+MXN,Vanilla Curve Spread,RBC,100000000.0,2Y_5Y,50.0
+MXN,Vanilla Curve Spread,RBC,200000000.0,2Y_5Y,50.0
+MXN,Vanilla Curve Spread,RBC,4000000.0,2Y_10Y,25.0
+MXN,Vanilla Curve Spread,RBC,10000000.0,2Y_10Y,50.0
+MXN,Vanilla Curve Spread,RBC,20000000.0,2Y_10Y,75.0
+MXN,Vanilla Curve Spread,RBC,40000000.0,2Y_10Y,100.0
+MXN,Vanilla Curve Spread,RBC,100000000.0,2Y_10Y,125.0
+MXN,Vanilla Curve Spread,RBC,200000000.0,2Y_10Y,125.0
+MXN,Vanilla Curve Spread,RBC,4000000.0,5Y_10Y,15.0
+MXN,Vanilla Curve Spread,RBC,10000000.0,5Y_10Y,20.0
+MXN,Vanilla Curve Spread,RBC,20000000.0,5Y_10Y,30.0
+MXN,Vanilla Curve Spread,RBC,40000000.0,5Y_10Y,50.0
+MXN,Vanilla Curve Spread,RBC,100000000.0,5Y_10Y,60.0
+MXN,Vanilla Curve Spread,RBC,200000000.0,5Y_10Y,60.0
+MXN,Vanilla Curve Spread,Credit Agricole,4000000.0,1Y_2Y,
+MXN,Vanilla Curve Spread,Credit Agricole,10000000.0,1Y_2Y,
+MXN,Vanilla Curve Spread,Credit Agricole,20000000.0,1Y_2Y,
+MXN,Vanilla Curve Spread,Credit Agricole,40000000.0,1Y_2Y,
+MXN,Vanilla Curve Spread,Credit Agricole,100000000.0,1Y_2Y,
+MXN,Vanilla Curve Spread,Credit Agricole,200000000.0,1Y_2Y,
+MXN,Vanilla Curve Spread,Credit Agricole,4000000.0,1Y_5Y,
+MXN,Vanilla Curve Spread,Credit Agricole,10000000.0,1Y_5Y,
+MXN,Vanilla Curve Spread,Credit Agricole,20000000.0,1Y_5Y,
+MXN,Vanilla Curve Spread,Credit Agricole,40000000.0,1Y_5Y,
+MXN,Vanilla Curve Spread,Credit Agricole,100000000.0,1Y_5Y,
+MXN,Vanilla Curve Spread,Credit Agricole,200000000.0,1Y_5Y,
+MXN,Vanilla Curve Spread,Credit Agricole,4000000.0,1Y_10Y,
+MXN,Vanilla Curve Spread,Credit Agricole,10000000.0,1Y_10Y,
+MXN,Vanilla Curve Spread,Credit Agricole,20000000.0,1Y_10Y,
+MXN,Vanilla Curve Spread,Credit Agricole,40000000.0,1Y_10Y,
+MXN,Vanilla Curve Spread,Credit Agricole,100000000.0,1Y_10Y,
+MXN,Vanilla Curve Spread,Credit Agricole,200000000.0,1Y_10Y,
+MXN,Vanilla Curve Spread,Credit Agricole,4000000.0,2Y_5Y,
+MXN,Vanilla Curve Spread,Credit Agricole,10000000.0,2Y_5Y,
+MXN,Vanilla Curve Spread,Credit Agricole,20000000.0,2Y_5Y,
+MXN,Vanilla Curve Spread,Credit Agricole,40000000.0,2Y_5Y,
+MXN,Vanilla Curve Spread,Credit Agricole,100000000.0,2Y_5Y,
+MXN,Vanilla Curve Spread,Credit Agricole,200000000.0,2Y_5Y,
+MXN,Vanilla Curve Spread,Credit Agricole,4000000.0,2Y_10Y,
+MXN,Vanilla Curve Spread,Credit Agricole,10000000.0,2Y_10Y,
+MXN,Vanilla Curve Spread,Credit Agricole,20000000.0,2Y_10Y,
+MXN,Vanilla Curve Spread,Credit Agricole,40000000.0,2Y_10Y,
+MXN,Vanilla Curve Spread,Credit Agricole,100000000.0,2Y_10Y,
+MXN,Vanilla Curve Spread,Credit Agricole,200000000.0,2Y_10Y,
+MXN,Vanilla Curve Spread,Credit Agricole,4000000.0,5Y_10Y,
+MXN,Vanilla Curve Spread,Credit Agricole,10000000.0,5Y_10Y,
+MXN,Vanilla Curve Spread,Credit Agricole,20000000.0,5Y_10Y,
+MXN,Vanilla Curve Spread,Credit Agricole,40000000.0,5Y_10Y,
+MXN,Vanilla Curve Spread,Credit Agricole,100000000.0,5Y_10Y,
+MXN,Vanilla Curve Spread,Credit Agricole,200000000.0,5Y_10Y,
+MXN,Vanilla Curve Spread,Santander,4000000.0,1Y_2Y,5.0
+MXN,Vanilla Curve Spread,Santander,10000000.0,1Y_2Y,7.0
+MXN,Vanilla Curve Spread,Santander,20000000.0,1Y_2Y,12.0
+MXN,Vanilla Curve Spread,Santander,40000000.0,1Y_2Y,18.0
+MXN,Vanilla Curve Spread,Santander,100000000.0,1Y_2Y,23.5
+MXN,Vanilla Curve Spread,Santander,200000000.0,1Y_2Y,50.0
+MXN,Vanilla Curve Spread,Santander,4000000.0,1Y_5Y,6.0
+MXN,Vanilla Curve Spread,Santander,10000000.0,1Y_5Y,9.0
+MXN,Vanilla Curve Spread,Santander,20000000.0,1Y_5Y,15.0
+MXN,Vanilla Curve Spread,Santander,40000000.0,1Y_5Y,22.0
+MXN,Vanilla Curve Spread,Santander,100000000.0,1Y_5Y,29.0
+MXN,Vanilla Curve Spread,Santander,200000000.0,1Y_5Y,60.0
+MXN,Vanilla Curve Spread,Santander,4000000.0,1Y_10Y,7.0
+MXN,Vanilla Curve Spread,Santander,10000000.0,1Y_10Y,12.0
+MXN,Vanilla Curve Spread,Santander,20000000.0,1Y_10Y,15.0
+MXN,Vanilla Curve Spread,Santander,40000000.0,1Y_10Y,23.0
+MXN,Vanilla Curve Spread,Santander,100000000.0,1Y_10Y,30.0
+MXN,Vanilla Curve Spread,Santander,200000000.0,1Y_10Y,60.0
+MXN,Vanilla Curve Spread,Santander,4000000.0,2Y_5Y,5.0
+MXN,Vanilla Curve Spread,Santander,10000000.0,2Y_5Y,8.0
+MXN,Vanilla Curve Spread,Santander,20000000.0,2Y_5Y,14.0
+MXN,Vanilla Curve Spread,Santander,40000000.0,2Y_5Y,22.0
+MXN,Vanilla Curve Spread,Santander,100000000.0,2Y_5Y,29.0
+MXN,Vanilla Curve Spread,Santander,200000000.0,2Y_5Y,60.0
+MXN,Vanilla Curve Spread,Santander,4000000.0,2Y_10Y,6.0
+MXN,Vanilla Curve Spread,Santander,10000000.0,2Y_10Y,10.0
+MXN,Vanilla Curve Spread,Santander,20000000.0,2Y_10Y,15.0
+MXN,Vanilla Curve Spread,Santander,40000000.0,2Y_10Y,22.0
+MXN,Vanilla Curve Spread,Santander,100000000.0,2Y_10Y,29.0
+MXN,Vanilla Curve Spread,Santander,200000000.0,2Y_10Y,60.0
+MXN,Vanilla Curve Spread,Santander,4000000.0,5Y_10Y,5.0
+MXN,Vanilla Curve Spread,Santander,10000000.0,5Y_10Y,8.0
+MXN,Vanilla Curve Spread,Santander,20000000.0,5Y_10Y,14.0
+MXN,Vanilla Curve Spread,Santander,40000000.0,5Y_10Y,22.0
+MXN,Vanilla Curve Spread,Santander,100000000.0,5Y_10Y,29.0
+MXN,Vanilla Curve Spread,Santander,200000000.0,5Y_10Y,60.0
+MXN,Vanilla Curve Spread,BBVA,4000000.0,1Y_2Y,10.0
+MXN,Vanilla Curve Spread,BBVA,10000000.0,1Y_2Y,15.0
+MXN,Vanilla Curve Spread,BBVA,20000000.0,1Y_2Y,25.0
+MXN,Vanilla Curve Spread,BBVA,40000000.0,1Y_2Y,40.0
+MXN,Vanilla Curve Spread,BBVA,100000000.0,1Y_2Y,60.0
+MXN,Vanilla Curve Spread,BBVA,200000000.0,1Y_2Y,80.0
+MXN,Vanilla Curve Spread,BBVA,4000000.0,1Y_5Y,10.0
+MXN,Vanilla Curve Spread,BBVA,10000000.0,1Y_5Y,15.0
+MXN,Vanilla Curve Spread,BBVA,20000000.0,1Y_5Y,25.0
+MXN,Vanilla Curve Spread,BBVA,40000000.0,1Y_5Y,40.0
+MXN,Vanilla Curve Spread,BBVA,100000000.0,1Y_5Y,60.0
+MXN,Vanilla Curve Spread,BBVA,200000000.0,1Y_5Y,80.0
+MXN,Vanilla Curve Spread,BBVA,4000000.0,1Y_10Y,10.0
+MXN,Vanilla Curve Spread,BBVA,10000000.0,1Y_10Y,15.0
+MXN,Vanilla Curve Spread,BBVA,20000000.0,1Y_10Y,25.0
+MXN,Vanilla Curve Spread,BBVA,40000000.0,1Y_10Y,40.0
+MXN,Vanilla Curve Spread,BBVA,100000000.0,1Y_10Y,60.0
+MXN,Vanilla Curve Spread,BBVA,200000000.0,1Y_10Y,80.0
+MXN,Vanilla Curve Spread,BBVA,4000000.0,2Y_5Y,10.0
+MXN,Vanilla Curve Spread,BBVA,10000000.0,2Y_5Y,15.0
+MXN,Vanilla Curve Spread,BBVA,20000000.0,2Y_5Y,25.0
+MXN,Vanilla Curve Spread,BBVA,40000000.0,2Y_5Y,40.0
+MXN,Vanilla Curve Spread,BBVA,100000000.0,2Y_5Y,60.0
+MXN,Vanilla Curve Spread,BBVA,200000000.0,2Y_5Y,80.0
+MXN,Vanilla Curve Spread,BBVA,4000000.0,2Y_10Y,10.0
+MXN,Vanilla Curve Spread,BBVA,10000000.0,2Y_10Y,15.0
+MXN,Vanilla Curve Spread,BBVA,20000000.0,2Y_10Y,25.0
+MXN,Vanilla Curve Spread,BBVA,40000000.0,2Y_10Y,40.0
+MXN,Vanilla Curve Spread,BBVA,100000000.0,2Y_10Y,60.0
+MXN,Vanilla Curve Spread,BBVA,200000000.0,2Y_10Y,80.0
+MXN,Vanilla Curve Spread,BBVA,4000000.0,5Y_10Y,10.0
+MXN,Vanilla Curve Spread,BBVA,10000000.0,5Y_10Y,15.0
+MXN,Vanilla Curve Spread,BBVA,20000000.0,5Y_10Y,25.0
+MXN,Vanilla Curve Spread,BBVA,40000000.0,5Y_10Y,40.0
+MXN,Vanilla Curve Spread,BBVA,100000000.0,5Y_10Y,60.0
+MXN,Vanilla Curve Spread,BBVA,200000000.0,5Y_10Y,80.0
+MXN,Vanilla Butterfly,Median,2000000.0,1Y_2Y_5Y,5.5
+MXN,Vanilla Butterfly,Median,5000000.0,1Y_2Y_5Y,7.0
+MXN,Vanilla Butterfly,Median,10000000.0,1Y_2Y_5Y,11.0
+MXN,Vanilla Butterfly,Median,20000000.0,1Y_2Y_5Y,15.0
+MXN,Vanilla Butterfly,Median,50000000.0,1Y_2Y_5Y,27.5
+MXN,Vanilla Butterfly,Median,100000000.0,1Y_2Y_5Y,40.0
+MXN,Vanilla Butterfly,Median,2000000.0,1Y_2Y_10Y,6.333333333333334
+MXN,Vanilla Butterfly,Median,5000000.0,1Y_2Y_10Y,9.0
+MXN,Vanilla Butterfly,Median,10000000.0,1Y_2Y_10Y,12.0
+MXN,Vanilla Butterfly,Median,20000000.0,1Y_2Y_10Y,17.922421874999998
+MXN,Vanilla Butterfly,Median,50000000.0,1Y_2Y_10Y,28.25
+MXN,Vanilla Butterfly,Median,100000000.0,1Y_2Y_10Y,40.0
+MXN,Vanilla Butterfly,Median,2000000.0,1Y_5Y_10Y,6.333333333333334
+MXN,Vanilla Butterfly,Median,5000000.0,1Y_5Y_10Y,8.5
+MXN,Vanilla Butterfly,Median,10000000.0,1Y_5Y_10Y,11.5
+MXN,Vanilla Butterfly,Median,20000000.0,1Y_5Y_10Y,17.922421874999998
+MXN,Vanilla Butterfly,Median,50000000.0,1Y_5Y_10Y,27.5
+MXN,Vanilla Butterfly,Median,100000000.0,1Y_5Y_10Y,40.0
+MXN,Vanilla Butterfly,Median,2000000.0,2Y_5Y_10Y,6.0
+MXN,Vanilla Butterfly,Median,5000000.0,2Y_5Y_10Y,8.0
+MXN,Vanilla Butterfly,Median,10000000.0,2Y_5Y_10Y,11.5
+MXN,Vanilla Butterfly,Median,20000000.0,2Y_5Y_10Y,17.5
+MXN,Vanilla Butterfly,Median,50000000.0,2Y_5Y_10Y,27.5
+MXN,Vanilla Butterfly,Median,100000000.0,2Y_5Y_10Y,40.0
+MXN,Vanilla Butterfly,DB,2000000.0,1Y_2Y_5Y,10.0
+MXN,Vanilla Butterfly,DB,5000000.0,1Y_2Y_5Y,17.5
+MXN,Vanilla Butterfly,DB,10000000.0,1Y_2Y_5Y,30.0
+MXN,Vanilla Butterfly,DB,20000000.0,1Y_2Y_5Y,40.0
+MXN,Vanilla Butterfly,DB,50000000.0,1Y_2Y_5Y,50.0
+MXN,Vanilla Butterfly,DB,100000000.0,1Y_2Y_5Y,62.5
+MXN,Vanilla Butterfly,DB,2000000.0,1Y_2Y_10Y,15.0
+MXN,Vanilla Butterfly,DB,5000000.0,1Y_2Y_10Y,25.0
+MXN,Vanilla Butterfly,DB,10000000.0,1Y_2Y_10Y,40.0
+MXN,Vanilla Butterfly,DB,20000000.0,1Y_2Y_10Y,50.0
+MXN,Vanilla Butterfly,DB,50000000.0,1Y_2Y_10Y,62.5
+MXN,Vanilla Butterfly,DB,100000000.0,1Y_2Y_10Y,75.0
+MXN,Vanilla Butterfly,DB,2000000.0,1Y_5Y_10Y,15.0
+MXN,Vanilla Butterfly,DB,5000000.0,1Y_5Y_10Y,25.0
+MXN,Vanilla Butterfly,DB,10000000.0,1Y_5Y_10Y,40.0
+MXN,Vanilla Butterfly,DB,20000000.0,1Y_5Y_10Y,50.0
+MXN,Vanilla Butterfly,DB,50000000.0,1Y_5Y_10Y,62.5
+MXN,Vanilla Butterfly,DB,100000000.0,1Y_5Y_10Y,75.0
+MXN,Vanilla Butterfly,DB,2000000.0,2Y_5Y_10Y,10.0
+MXN,Vanilla Butterfly,DB,5000000.0,2Y_5Y_10Y,17.5
+MXN,Vanilla Butterfly,DB,10000000.0,2Y_5Y_10Y,30.0
+MXN,Vanilla Butterfly,DB,20000000.0,2Y_5Y_10Y,40.0
+MXN,Vanilla Butterfly,DB,50000000.0,2Y_5Y_10Y,50.0
+MXN,Vanilla Butterfly,DB,100000000.0,2Y_5Y_10Y,62.5
+MXN,Vanilla Butterfly,BNP,2000000.0,1Y_2Y_5Y,2.5
+MXN,Vanilla Butterfly,BNP,5000000.0,1Y_2Y_5Y,5.0
+MXN,Vanilla Butterfly,BNP,10000000.0,1Y_2Y_5Y,7.5
+MXN,Vanilla Butterfly,BNP,20000000.0,1Y_2Y_5Y,10.0
+MXN,Vanilla Butterfly,BNP,50000000.0,1Y_2Y_5Y,15.0
+MXN,Vanilla Butterfly,BNP,100000000.0,1Y_2Y_5Y,25.0
+MXN,Vanilla Butterfly,BNP,2000000.0,1Y_2Y_10Y,3.0
+MXN,Vanilla Butterfly,BNP,5000000.0,1Y_2Y_10Y,5.0
+MXN,Vanilla Butterfly,BNP,10000000.0,1Y_2Y_10Y,10.0
+MXN,Vanilla Butterfly,BNP,20000000.0,1Y_2Y_10Y,15.0
+MXN,Vanilla Butterfly,BNP,50000000.0,1Y_2Y_10Y,20.0
+MXN,Vanilla Butterfly,BNP,100000000.0,1Y_2Y_10Y,25.0
+MXN,Vanilla Butterfly,BNP,2000000.0,1Y_5Y_10Y,3.0
+MXN,Vanilla Butterfly,BNP,5000000.0,1Y_5Y_10Y,5.0
+MXN,Vanilla Butterfly,BNP,10000000.0,1Y_5Y_10Y,10.0
+MXN,Vanilla Butterfly,BNP,20000000.0,1Y_5Y_10Y,15.0
+MXN,Vanilla Butterfly,BNP,50000000.0,1Y_5Y_10Y,20.0
+MXN,Vanilla Butterfly,BNP,100000000.0,1Y_5Y_10Y,25.0
+MXN,Vanilla Butterfly,BNP,2000000.0,2Y_5Y_10Y,3.0
+MXN,Vanilla Butterfly,BNP,5000000.0,2Y_5Y_10Y,5.0
+MXN,Vanilla Butterfly,BNP,10000000.0,2Y_5Y_10Y,10.0
+MXN,Vanilla Butterfly,BNP,20000000.0,2Y_5Y_10Y,15.0
+MXN,Vanilla Butterfly,BNP,50000000.0,2Y_5Y_10Y,20.0
+MXN,Vanilla Butterfly,BNP,100000000.0,2Y_5Y_10Y,25.0
+MXN,Vanilla Butterfly,RABO,2000000.0,1Y_2Y_5Y,4.0
+MXN,Vanilla Butterfly,RABO,5000000.0,1Y_2Y_5Y,6.0
+MXN,Vanilla Butterfly,RABO,10000000.0,1Y_2Y_5Y,8.0
+MXN,Vanilla Butterfly,RABO,20000000.0,1Y_2Y_5Y,10.0
+MXN,Vanilla Butterfly,RABO,50000000.0,1Y_2Y_5Y,16.0
+MXN,Vanilla Butterfly,RABO,100000000.0,1Y_2Y_5Y,18.0
+MXN,Vanilla Butterfly,RABO,2000000.0,1Y_2Y_10Y,4.0
+MXN,Vanilla Butterfly,RABO,5000000.0,1Y_2Y_10Y,6.0
+MXN,Vanilla Butterfly,RABO,10000000.0,1Y_2Y_10Y,8.0
+MXN,Vanilla Butterfly,RABO,20000000.0,1Y_2Y_10Y,10.0
+MXN,Vanilla Butterfly,RABO,50000000.0,1Y_2Y_10Y,16.0
+MXN,Vanilla Butterfly,RABO,100000000.0,1Y_2Y_10Y,18.0
+MXN,Vanilla Butterfly,RABO,2000000.0,1Y_5Y_10Y,6.0
+MXN,Vanilla Butterfly,RABO,5000000.0,1Y_5Y_10Y,8.0
+MXN,Vanilla Butterfly,RABO,10000000.0,1Y_5Y_10Y,10.0
+MXN,Vanilla Butterfly,RABO,20000000.0,1Y_5Y_10Y,12.0
+MXN,Vanilla Butterfly,RABO,50000000.0,1Y_5Y_10Y,18.0
+MXN,Vanilla Butterfly,RABO,100000000.0,1Y_5Y_10Y,20.0
+MXN,Vanilla Butterfly,RABO,2000000.0,2Y_5Y_10Y,6.0
+MXN,Vanilla Butterfly,RABO,5000000.0,2Y_5Y_10Y,8.0
+MXN,Vanilla Butterfly,RABO,10000000.0,2Y_5Y_10Y,10.0
+MXN,Vanilla Butterfly,RABO,20000000.0,2Y_5Y_10Y,12.0
+MXN,Vanilla Butterfly,RABO,50000000.0,2Y_5Y_10Y,18.0
+MXN,Vanilla Butterfly,RABO,100000000.0,2Y_5Y_10Y,20.0
+MXN,Vanilla Butterfly,Nomura,2000000.0,1Y_2Y_5Y,5.0
+MXN,Vanilla Butterfly,Nomura,5000000.0,1Y_2Y_5Y,7.0
+MXN,Vanilla Butterfly,Nomura,10000000.0,1Y_2Y_5Y,10.0
+MXN,Vanilla Butterfly,Nomura,20000000.0,1Y_2Y_5Y,12.0
+MXN,Vanilla Butterfly,Nomura,50000000.0,1Y_2Y_5Y,15.0
+MXN,Vanilla Butterfly,Nomura,100000000.0,1Y_2Y_5Y,17.0
+MXN,Vanilla Butterfly,Nomura,2000000.0,1Y_2Y_10Y,6.0
+MXN,Vanilla Butterfly,Nomura,5000000.0,1Y_2Y_10Y,8.0
+MXN,Vanilla Butterfly,Nomura,10000000.0,1Y_2Y_10Y,10.0
+MXN,Vanilla Butterfly,Nomura,20000000.0,1Y_2Y_10Y,12.0
+MXN,Vanilla Butterfly,Nomura,50000000.0,1Y_2Y_10Y,15.0
+MXN,Vanilla Butterfly,Nomura,100000000.0,1Y_2Y_10Y,17.0
+MXN,Vanilla Butterfly,Nomura,2000000.0,1Y_5Y_10Y,6.0
+MXN,Vanilla Butterfly,Nomura,5000000.0,1Y_5Y_10Y,8.0
+MXN,Vanilla Butterfly,Nomura,10000000.0,1Y_5Y_10Y,10.0
+MXN,Vanilla Butterfly,Nomura,20000000.0,1Y_5Y_10Y,12.0
+MXN,Vanilla Butterfly,Nomura,50000000.0,1Y_5Y_10Y,15.0
+MXN,Vanilla Butterfly,Nomura,100000000.0,1Y_5Y_10Y,17.0
+MXN,Vanilla Butterfly,Nomura,2000000.0,2Y_5Y_10Y,5.0
+MXN,Vanilla Butterfly,Nomura,5000000.0,2Y_5Y_10Y,7.0
+MXN,Vanilla Butterfly,Nomura,10000000.0,2Y_5Y_10Y,10.0
+MXN,Vanilla Butterfly,Nomura,20000000.0,2Y_5Y_10Y,12.0
+MXN,Vanilla Butterfly,Nomura,50000000.0,2Y_5Y_10Y,15.0
+MXN,Vanilla Butterfly,Nomura,100000000.0,2Y_5Y_10Y,17.0
+MXN,Vanilla Butterfly,UBS,2000000.0,1Y_2Y_5Y,3.0
+MXN,Vanilla Butterfly,UBS,5000000.0,1Y_2Y_5Y,6.0
+MXN,Vanilla Butterfly,UBS,10000000.0,1Y_2Y_5Y,12.0
+MXN,Vanilla Butterfly,UBS,20000000.0,1Y_2Y_5Y,21.0
+MXN,Vanilla Butterfly,UBS,50000000.0,1Y_2Y_5Y,31.5
+MXN,Vanilla Butterfly,UBS,100000000.0,1Y_2Y_5Y,50.0
+MXN,Vanilla Butterfly,UBS,2000000.0,1Y_2Y_10Y,3.0
+MXN,Vanilla Butterfly,UBS,5000000.0,1Y_2Y_10Y,6.0
+MXN,Vanilla Butterfly,UBS,10000000.0,1Y_2Y_10Y,12.0
+MXN,Vanilla Butterfly,UBS,20000000.0,1Y_2Y_10Y,21.0
+MXN,Vanilla Butterfly,UBS,50000000.0,1Y_2Y_10Y,31.5
+MXN,Vanilla Butterfly,UBS,100000000.0,1Y_2Y_10Y,50.0
+MXN,Vanilla Butterfly,UBS,2000000.0,1Y_5Y_10Y,3.0
+MXN,Vanilla Butterfly,UBS,5000000.0,1Y_5Y_10Y,6.5
+MXN,Vanilla Butterfly,UBS,10000000.0,1Y_5Y_10Y,13.0
+MXN,Vanilla Butterfly,UBS,20000000.0,1Y_5Y_10Y,22.0
+MXN,Vanilla Butterfly,UBS,50000000.0,1Y_5Y_10Y,33.0
+MXN,Vanilla Butterfly,UBS,100000000.0,1Y_5Y_10Y,55.0
+MXN,Vanilla Butterfly,UBS,2000000.0,2Y_5Y_10Y,3.0
+MXN,Vanilla Butterfly,UBS,5000000.0,2Y_5Y_10Y,7.0
+MXN,Vanilla Butterfly,UBS,10000000.0,2Y_5Y_10Y,14.0
+MXN,Vanilla Butterfly,UBS,20000000.0,2Y_5Y_10Y,22.0
+MXN,Vanilla Butterfly,UBS,50000000.0,2Y_5Y_10Y,33.0
+MXN,Vanilla Butterfly,UBS,100000000.0,2Y_5Y_10Y,55.0
+MXN,Vanilla Butterfly,BMO,2000000.0,1Y_2Y_5Y,
+MXN,Vanilla Butterfly,BMO,5000000.0,1Y_2Y_5Y,
+MXN,Vanilla Butterfly,BMO,10000000.0,1Y_2Y_5Y,
+MXN,Vanilla Butterfly,BMO,20000000.0,1Y_2Y_5Y,
+MXN,Vanilla Butterfly,BMO,50000000.0,1Y_2Y_5Y,
+MXN,Vanilla Butterfly,BMO,100000000.0,1Y_2Y_5Y,
+MXN,Vanilla Butterfly,BMO,2000000.0,1Y_2Y_10Y,
+MXN,Vanilla Butterfly,BMO,5000000.0,1Y_2Y_10Y,
+MXN,Vanilla Butterfly,BMO,10000000.0,1Y_2Y_10Y,
+MXN,Vanilla Butterfly,BMO,20000000.0,1Y_2Y_10Y,
+MXN,Vanilla Butterfly,BMO,50000000.0,1Y_2Y_10Y,
+MXN,Vanilla Butterfly,BMO,100000000.0,1Y_2Y_10Y,
+MXN,Vanilla Butterfly,BMO,2000000.0,1Y_5Y_10Y,
+MXN,Vanilla Butterfly,BMO,5000000.0,1Y_5Y_10Y,
+MXN,Vanilla Butterfly,BMO,10000000.0,1Y_5Y_10Y,
+MXN,Vanilla Butterfly,BMO,20000000.0,1Y_5Y_10Y,
+MXN,Vanilla Butterfly,BMO,50000000.0,1Y_5Y_10Y,
+MXN,Vanilla Butterfly,BMO,100000000.0,1Y_5Y_10Y,
+MXN,Vanilla Butterfly,BMO,2000000.0,2Y_5Y_10Y,
+MXN,Vanilla Butterfly,BMO,5000000.0,2Y_5Y_10Y,
+MXN,Vanilla Butterfly,BMO,10000000.0,2Y_5Y_10Y,
+MXN,Vanilla Butterfly,BMO,20000000.0,2Y_5Y_10Y,
+MXN,Vanilla Butterfly,BMO,50000000.0,2Y_5Y_10Y,
+MXN,Vanilla Butterfly,BMO,100000000.0,2Y_5Y_10Y,
+MXN,Vanilla Butterfly,TD,2000000.0,1Y_2Y_5Y,2.0
+MXN,Vanilla Butterfly,TD,5000000.0,1Y_2Y_5Y,5.0
+MXN,Vanilla Butterfly,TD,10000000.0,1Y_2Y_5Y,10.0
+MXN,Vanilla Butterfly,TD,20000000.0,1Y_2Y_5Y,15.0
+MXN,Vanilla Butterfly,TD,50000000.0,1Y_2Y_5Y,20.0
+MXN,Vanilla Butterfly,TD,100000000.0,1Y_2Y_5Y,25.0
+MXN,Vanilla Butterfly,TD,2000000.0,1Y_2Y_10Y,2.0
+MXN,Vanilla Butterfly,TD,5000000.0,1Y_2Y_10Y,5.0
+MXN,Vanilla Butterfly,TD,10000000.0,1Y_2Y_10Y,10.0
+MXN,Vanilla Butterfly,TD,20000000.0,1Y_2Y_10Y,15.0
+MXN,Vanilla Butterfly,TD,50000000.0,1Y_2Y_10Y,20.0
+MXN,Vanilla Butterfly,TD,100000000.0,1Y_2Y_10Y,25.0
+MXN,Vanilla Butterfly,TD,2000000.0,1Y_5Y_10Y,2.0
+MXN,Vanilla Butterfly,TD,5000000.0,1Y_5Y_10Y,5.0
+MXN,Vanilla Butterfly,TD,10000000.0,1Y_5Y_10Y,10.0
+MXN,Vanilla Butterfly,TD,20000000.0,1Y_5Y_10Y,15.0
+MXN,Vanilla Butterfly,TD,50000000.0,1Y_5Y_10Y,20.0
+MXN,Vanilla Butterfly,TD,100000000.0,1Y_5Y_10Y,25.0
+MXN,Vanilla Butterfly,TD,2000000.0,2Y_5Y_10Y,2.0
+MXN,Vanilla Butterfly,TD,5000000.0,2Y_5Y_10Y,5.0
+MXN,Vanilla Butterfly,TD,10000000.0,2Y_5Y_10Y,10.0
+MXN,Vanilla Butterfly,TD,20000000.0,2Y_5Y_10Y,15.0
+MXN,Vanilla Butterfly,TD,50000000.0,2Y_5Y_10Y,20.0
+MXN,Vanilla Butterfly,TD,100000000.0,2Y_5Y_10Y,25.0
+MXN,Vanilla Butterfly,Credit Suisse,2000000.0,1Y_2Y_5Y,3.0
+MXN,Vanilla Butterfly,Credit Suisse,5000000.0,1Y_2Y_5Y,5.0
+MXN,Vanilla Butterfly,Credit Suisse,10000000.0,1Y_2Y_5Y,7.0
+MXN,Vanilla Butterfly,Credit Suisse,20000000.0,1Y_2Y_5Y,11.0
+MXN,Vanilla Butterfly,Credit Suisse,50000000.0,1Y_2Y_5Y,19.0
+MXN,Vanilla Butterfly,Credit Suisse,100000000.0,1Y_2Y_5Y,22.0
+MXN,Vanilla Butterfly,Credit Suisse,2000000.0,1Y_2Y_10Y,5.0
+MXN,Vanilla Butterfly,Credit Suisse,5000000.0,1Y_2Y_10Y,6.0
+MXN,Vanilla Butterfly,Credit Suisse,10000000.0,1Y_2Y_10Y,8.0
+MXN,Vanilla Butterfly,Credit Suisse,20000000.0,1Y_2Y_10Y,12.0
+MXN,Vanilla Butterfly,Credit Suisse,50000000.0,1Y_2Y_10Y,20.0
+MXN,Vanilla Butterfly,Credit Suisse,100000000.0,1Y_2Y_10Y,25.0
+MXN,Vanilla Butterfly,Credit Suisse,2000000.0,1Y_5Y_10Y,7.0
+MXN,Vanilla Butterfly,Credit Suisse,5000000.0,1Y_5Y_10Y,9.0
+MXN,Vanilla Butterfly,Credit Suisse,10000000.0,1Y_5Y_10Y,10.0
+MXN,Vanilla Butterfly,Credit Suisse,20000000.0,1Y_5Y_10Y,14.0
+MXN,Vanilla Butterfly,Credit Suisse,50000000.0,1Y_5Y_10Y,23.0
+MXN,Vanilla Butterfly,Credit Suisse,100000000.0,1Y_5Y_10Y,25.0
+MXN,Vanilla Butterfly,Credit Suisse,2000000.0,2Y_5Y_10Y,3.0
+MXN,Vanilla Butterfly,Credit Suisse,5000000.0,2Y_5Y_10Y,5.0
+MXN,Vanilla Butterfly,Credit Suisse,10000000.0,2Y_5Y_10Y,7.0
+MXN,Vanilla Butterfly,Credit Suisse,20000000.0,2Y_5Y_10Y,11.0
+MXN,Vanilla Butterfly,Credit Suisse,50000000.0,2Y_5Y_10Y,18.0
+MXN,Vanilla Butterfly,Credit Suisse,100000000.0,2Y_5Y_10Y,23.0
+MXN,Vanilla Butterfly,HSBC,2000000.0,1Y_2Y_5Y,6.666666666666667
+MXN,Vanilla Butterfly,HSBC,5000000.0,1Y_2Y_5Y,13.333333333333336
+MXN,Vanilla Butterfly,HSBC,10000000.0,1Y_2Y_5Y,26.66666666666667
+MXN,Vanilla Butterfly,HSBC,20000000.0,1Y_2Y_5Y,53.33333333333334
+MXN,Vanilla Butterfly,HSBC,50000000.0,1Y_2Y_5Y,133.33333333333334
+MXN,Vanilla Butterfly,HSBC,100000000.0,1Y_2Y_5Y,213.33333333333337
+MXN,Vanilla Butterfly,HSBC,2000000.0,1Y_2Y_10Y,6.666666666666667
+MXN,Vanilla Butterfly,HSBC,5000000.0,1Y_2Y_10Y,13.333333333333336
+MXN,Vanilla Butterfly,HSBC,10000000.0,1Y_2Y_10Y,26.66666666666667
+MXN,Vanilla Butterfly,HSBC,20000000.0,1Y_2Y_10Y,53.33333333333334
+MXN,Vanilla Butterfly,HSBC,50000000.0,1Y_2Y_10Y,133.33333333333334
+MXN,Vanilla Butterfly,HSBC,100000000.0,1Y_2Y_10Y,213.33333333333337
+MXN,Vanilla Butterfly,HSBC,2000000.0,1Y_5Y_10Y,6.666666666666667
+MXN,Vanilla Butterfly,HSBC,5000000.0,1Y_5Y_10Y,13.333333333333336
+MXN,Vanilla Butterfly,HSBC,10000000.0,1Y_5Y_10Y,29.33333333333334
+MXN,Vanilla Butterfly,HSBC,20000000.0,1Y_5Y_10Y,53.33333333333334
+MXN,Vanilla Butterfly,HSBC,50000000.0,1Y_5Y_10Y,133.33333333333334
+MXN,Vanilla Butterfly,HSBC,100000000.0,1Y_5Y_10Y,213.33333333333337
+MXN,Vanilla Butterfly,HSBC,2000000.0,2Y_5Y_10Y,6.666666666666667
+MXN,Vanilla Butterfly,HSBC,5000000.0,2Y_5Y_10Y,13.333333333333336
+MXN,Vanilla Butterfly,HSBC,10000000.0,2Y_5Y_10Y,40.0
+MXN,Vanilla Butterfly,HSBC,20000000.0,2Y_5Y_10Y,53.33333333333334
+MXN,Vanilla Butterfly,HSBC,50000000.0,2Y_5Y_10Y,133.33333333333334
+MXN,Vanilla Butterfly,HSBC,100000000.0,2Y_5Y_10Y,213.33333333333337
+MXN,Vanilla Butterfly,Goldman,2000000.0,1Y_2Y_5Y,7.0
+MXN,Vanilla Butterfly,Goldman,5000000.0,1Y_2Y_5Y,10.0
+MXN,Vanilla Butterfly,Goldman,10000000.0,1Y_2Y_5Y,15.0
+MXN,Vanilla Butterfly,Goldman,20000000.0,1Y_2Y_5Y,22.0
+MXN,Vanilla Butterfly,Goldman,50000000.0,1Y_2Y_5Y,40.0
+MXN,Vanilla Butterfly,Goldman,100000000.0,1Y_2Y_5Y,70.0
+MXN,Vanilla Butterfly,Goldman,2000000.0,1Y_2Y_10Y,9.0
+MXN,Vanilla Butterfly,Goldman,5000000.0,1Y_2Y_10Y,11.0
+MXN,Vanilla Butterfly,Goldman,10000000.0,1Y_2Y_10Y,17.0
+MXN,Vanilla Butterfly,Goldman,20000000.0,1Y_2Y_10Y,25.0
+MXN,Vanilla Butterfly,Goldman,50000000.0,1Y_2Y_10Y,45.0
+MXN,Vanilla Butterfly,Goldman,100000000.0,1Y_2Y_10Y,80.0
+MXN,Vanilla Butterfly,Goldman,2000000.0,1Y_5Y_10Y,9.0
+MXN,Vanilla Butterfly,Goldman,5000000.0,1Y_5Y_10Y,11.0
+MXN,Vanilla Butterfly,Goldman,10000000.0,1Y_5Y_10Y,17.0
+MXN,Vanilla Butterfly,Goldman,20000000.0,1Y_5Y_10Y,25.0
+MXN,Vanilla Butterfly,Goldman,50000000.0,1Y_5Y_10Y,45.0
+MXN,Vanilla Butterfly,Goldman,100000000.0,1Y_5Y_10Y,80.0
+MXN,Vanilla Butterfly,Goldman,2000000.0,2Y_5Y_10Y,5.0
+MXN,Vanilla Butterfly,Goldman,5000000.0,2Y_5Y_10Y,7.0
+MXN,Vanilla Butterfly,Goldman,10000000.0,2Y_5Y_10Y,13.0
+MXN,Vanilla Butterfly,Goldman,20000000.0,2Y_5Y_10Y,20.0
+MXN,Vanilla Butterfly,Goldman,50000000.0,2Y_5Y_10Y,38.0
+MXN,Vanilla Butterfly,Goldman,100000000.0,2Y_5Y_10Y,60.0
+MXN,Vanilla Butterfly,Wells Fargo,2000000.0,1Y_2Y_5Y,2.63671875
+MXN,Vanilla Butterfly,Wells Fargo,5000000.0,1Y_2Y_5Y,3.2958984375
+MXN,Vanilla Butterfly,Wells Fargo,10000000.0,1Y_2Y_5Y,4.39453125
+MXN,Vanilla Butterfly,Wells Fargo,20000000.0,1Y_2Y_5Y,7.32421875
+MXN,Vanilla Butterfly,Wells Fargo,50000000.0,1Y_2Y_5Y,10.25390625
+MXN,Vanilla Butterfly,Wells Fargo,100000000.0,1Y_2Y_5Y,17.578125
+MXN,Vanilla Butterfly,Wells Fargo,2000000.0,1Y_2Y_10Y,4.39453125
+MXN,Vanilla Butterfly,Wells Fargo,5000000.0,1Y_2Y_10Y,5.4931640625
+MXN,Vanilla Butterfly,Wells Fargo,10000000.0,1Y_2Y_10Y,7.32421875
+MXN,Vanilla Butterfly,Wells Fargo,20000000.0,1Y_2Y_10Y,10.986328125
+MXN,Vanilla Butterfly,Wells Fargo,50000000.0,1Y_2Y_10Y,14.6484375
+MXN,Vanilla Butterfly,Wells Fargo,100000000.0,1Y_2Y_10Y,26.3671875
+MXN,Vanilla Butterfly,Wells Fargo,2000000.0,1Y_5Y_10Y,3.515625
+MXN,Vanilla Butterfly,Wells Fargo,5000000.0,1Y_5Y_10Y,4.39453125
+MXN,Vanilla Butterfly,Wells Fargo,10000000.0,1Y_5Y_10Y,5.859375
+MXN,Vanilla Butterfly,Wells Fargo,20000000.0,1Y_5Y_10Y,8.7890625
+MXN,Vanilla Butterfly,Wells Fargo,50000000.0,1Y_5Y_10Y,11.71875
+MXN,Vanilla Butterfly,Wells Fargo,100000000.0,1Y_5Y_10Y,20.5078125
+MXN,Vanilla Butterfly,Wells Fargo,2000000.0,2Y_5Y_10Y,3.515625
+MXN,Vanilla Butterfly,Wells Fargo,5000000.0,2Y_5Y_10Y,4.39453125
+MXN,Vanilla Butterfly,Wells Fargo,10000000.0,2Y_5Y_10Y,5.859375
+MXN,Vanilla Butterfly,Wells Fargo,20000000.0,2Y_5Y_10Y,8.7890625
+MXN,Vanilla Butterfly,Wells Fargo,50000000.0,2Y_5Y_10Y,11.71875
+MXN,Vanilla Butterfly,Wells Fargo,100000000.0,2Y_5Y_10Y,20.5078125
+MXN,Vanilla Butterfly,Citi,2000000.0,1Y_2Y_5Y,6.0
+MXN,Vanilla Butterfly,Citi,5000000.0,1Y_2Y_5Y,7.0
+MXN,Vanilla Butterfly,Citi,10000000.0,1Y_2Y_5Y,12.0
+MXN,Vanilla Butterfly,Citi,20000000.0,1Y_2Y_5Y,15.0
+MXN,Vanilla Butterfly,Citi,50000000.0,1Y_2Y_5Y,33.0
+MXN,Vanilla Butterfly,Citi,100000000.0,1Y_2Y_5Y,60.0
+MXN,Vanilla Butterfly,Citi,2000000.0,1Y_2Y_10Y,8.0
+MXN,Vanilla Butterfly,Citi,5000000.0,1Y_2Y_10Y,10.0
+MXN,Vanilla Butterfly,Citi,10000000.0,1Y_2Y_10Y,17.0
+MXN,Vanilla Butterfly,Citi,20000000.0,1Y_2Y_10Y,22.0
+MXN,Vanilla Butterfly,Citi,50000000.0,1Y_2Y_10Y,48.0
+MXN,Vanilla Butterfly,Citi,100000000.0,1Y_2Y_10Y,85.0
+MXN,Vanilla Butterfly,Citi,2000000.0,1Y_5Y_10Y,11.0
+MXN,Vanilla Butterfly,Citi,5000000.0,1Y_5Y_10Y,15.0
+MXN,Vanilla Butterfly,Citi,10000000.0,1Y_5Y_10Y,22.0
+MXN,Vanilla Butterfly,Citi,20000000.0,1Y_5Y_10Y,30.0
+MXN,Vanilla Butterfly,Citi,50000000.0,1Y_5Y_10Y,63.0
+MXN,Vanilla Butterfly,Citi,100000000.0,1Y_5Y_10Y,110.0
+MXN,Vanilla Butterfly,Citi,2000000.0,2Y_5Y_10Y,11.0
+MXN,Vanilla Butterfly,Citi,5000000.0,2Y_5Y_10Y,15.0
+MXN,Vanilla Butterfly,Citi,10000000.0,2Y_5Y_10Y,22.0
+MXN,Vanilla Butterfly,Citi,20000000.0,2Y_5Y_10Y,30.0
+MXN,Vanilla Butterfly,Citi,50000000.0,2Y_5Y_10Y,63.0
+MXN,Vanilla Butterfly,Citi,100000000.0,2Y_5Y_10Y,110.0
+MXN,Vanilla Butterfly,RBS,2000000.0,1Y_2Y_5Y,
+MXN,Vanilla Butterfly,RBS,5000000.0,1Y_2Y_5Y,
+MXN,Vanilla Butterfly,RBS,10000000.0,1Y_2Y_5Y,
+MXN,Vanilla Butterfly,RBS,20000000.0,1Y_2Y_5Y,
+MXN,Vanilla Butterfly,RBS,50000000.0,1Y_2Y_5Y,
+MXN,Vanilla Butterfly,RBS,100000000.0,1Y_2Y_5Y,
+MXN,Vanilla Butterfly,RBS,2000000.0,1Y_2Y_10Y,
+MXN,Vanilla Butterfly,RBS,5000000.0,1Y_2Y_10Y,
+MXN,Vanilla Butterfly,RBS,10000000.0,1Y_2Y_10Y,
+MXN,Vanilla Butterfly,RBS,20000000.0,1Y_2Y_10Y,
+MXN,Vanilla Butterfly,RBS,50000000.0,1Y_2Y_10Y,
+MXN,Vanilla Butterfly,RBS,100000000.0,1Y_2Y_10Y,
+MXN,Vanilla Butterfly,RBS,2000000.0,1Y_5Y_10Y,
+MXN,Vanilla Butterfly,RBS,5000000.0,1Y_5Y_10Y,
+MXN,Vanilla Butterfly,RBS,10000000.0,1Y_5Y_10Y,
+MXN,Vanilla Butterfly,RBS,20000000.0,1Y_5Y_10Y,
+MXN,Vanilla Butterfly,RBS,50000000.0,1Y_5Y_10Y,
+MXN,Vanilla Butterfly,RBS,100000000.0,1Y_5Y_10Y,
+MXN,Vanilla Butterfly,RBS,2000000.0,2Y_5Y_10Y,
+MXN,Vanilla Butterfly,RBS,5000000.0,2Y_5Y_10Y,
+MXN,Vanilla Butterfly,RBS,10000000.0,2Y_5Y_10Y,
+MXN,Vanilla Butterfly,RBS,20000000.0,2Y_5Y_10Y,
+MXN,Vanilla Butterfly,RBS,50000000.0,2Y_5Y_10Y,
+MXN,Vanilla Butterfly,RBS,100000000.0,2Y_5Y_10Y,
+MXN,Vanilla Butterfly,BAML,2000000.0,1Y_2Y_5Y,7.0874999999999995
+MXN,Vanilla Butterfly,BAML,5000000.0,1Y_2Y_5Y,11.871562500000001
+MXN,Vanilla Butterfly,BAML,10000000.0,1Y_2Y_5Y,15.795
+MXN,Vanilla Butterfly,BAML,20000000.0,1Y_2Y_5Y,20.84484375
+MXN,Vanilla Butterfly,BAML,50000000.0,1Y_2Y_5Y,34.065087890625
+MXN,Vanilla Butterfly,BAML,100000000.0,1Y_2Y_5Y,44.04968261718751
+MXN,Vanilla Butterfly,BAML,2000000.0,1Y_2Y_10Y,7.0874999999999995
+MXN,Vanilla Butterfly,BAML,5000000.0,1Y_2Y_10Y,11.871562500000001
+MXN,Vanilla Butterfly,BAML,10000000.0,1Y_2Y_10Y,15.795
+MXN,Vanilla Butterfly,BAML,20000000.0,1Y_2Y_10Y,20.84484375
+MXN,Vanilla Butterfly,BAML,50000000.0,1Y_2Y_10Y,34.065087890625
+MXN,Vanilla Butterfly,BAML,100000000.0,1Y_2Y_10Y,44.04968261718751
+MXN,Vanilla Butterfly,BAML,2000000.0,1Y_5Y_10Y,7.0874999999999995
+MXN,Vanilla Butterfly,BAML,5000000.0,1Y_5Y_10Y,11.871562500000001
+MXN,Vanilla Butterfly,BAML,10000000.0,1Y_5Y_10Y,15.795
+MXN,Vanilla Butterfly,BAML,20000000.0,1Y_5Y_10Y,20.84484375
+MXN,Vanilla Butterfly,BAML,50000000.0,1Y_5Y_10Y,34.065087890625
+MXN,Vanilla Butterfly,BAML,100000000.0,1Y_5Y_10Y,44.04968261718751
+MXN,Vanilla Butterfly,BAML,2000000.0,2Y_5Y_10Y,7.0874999999999995
+MXN,Vanilla Butterfly,BAML,5000000.0,2Y_5Y_10Y,11.871562500000001
+MXN,Vanilla Butterfly,BAML,10000000.0,2Y_5Y_10Y,15.795
+MXN,Vanilla Butterfly,BAML,20000000.0,2Y_5Y_10Y,20.84484375
+MXN,Vanilla Butterfly,BAML,50000000.0,2Y_5Y_10Y,34.065087890625
+MXN,Vanilla Butterfly,BAML,100000000.0,2Y_5Y_10Y,44.04968261718751
+MXN,Vanilla Butterfly,Morgan Stanley,2000000.0,1Y_2Y_5Y,4.0
+MXN,Vanilla Butterfly,Morgan Stanley,5000000.0,1Y_2Y_5Y,7.0
+MXN,Vanilla Butterfly,Morgan Stanley,10000000.0,1Y_2Y_5Y,10.0
+MXN,Vanilla Butterfly,Morgan Stanley,20000000.0,1Y_2Y_5Y,15.0
+MXN,Vanilla Butterfly,Morgan Stanley,50000000.0,1Y_2Y_5Y,25.0
+MXN,Vanilla Butterfly,Morgan Stanley,100000000.0,1Y_2Y_5Y,30.0
+MXN,Vanilla Butterfly,Morgan Stanley,2000000.0,1Y_2Y_10Y,4.0
+MXN,Vanilla Butterfly,Morgan Stanley,5000000.0,1Y_2Y_10Y,7.0
+MXN,Vanilla Butterfly,Morgan Stanley,10000000.0,1Y_2Y_10Y,10.0
+MXN,Vanilla Butterfly,Morgan Stanley,20000000.0,1Y_2Y_10Y,15.0
+MXN,Vanilla Butterfly,Morgan Stanley,50000000.0,1Y_2Y_10Y,25.0
+MXN,Vanilla Butterfly,Morgan Stanley,100000000.0,1Y_2Y_10Y,30.0
+MXN,Vanilla Butterfly,Morgan Stanley,2000000.0,1Y_5Y_10Y,4.0
+MXN,Vanilla Butterfly,Morgan Stanley,5000000.0,1Y_5Y_10Y,7.0
+MXN,Vanilla Butterfly,Morgan Stanley,10000000.0,1Y_5Y_10Y,10.0
+MXN,Vanilla Butterfly,Morgan Stanley,20000000.0,1Y_5Y_10Y,15.0
+MXN,Vanilla Butterfly,Morgan Stanley,50000000.0,1Y_5Y_10Y,25.0
+MXN,Vanilla Butterfly,Morgan Stanley,100000000.0,1Y_5Y_10Y,30.0
+MXN,Vanilla Butterfly,Morgan Stanley,2000000.0,2Y_5Y_10Y,4.0
+MXN,Vanilla Butterfly,Morgan Stanley,5000000.0,2Y_5Y_10Y,7.0
+MXN,Vanilla Butterfly,Morgan Stanley,10000000.0,2Y_5Y_10Y,10.0
+MXN,Vanilla Butterfly,Morgan Stanley,20000000.0,2Y_5Y_10Y,15.0
+MXN,Vanilla Butterfly,Morgan Stanley,50000000.0,2Y_5Y_10Y,25.0
+MXN,Vanilla Butterfly,Morgan Stanley,100000000.0,2Y_5Y_10Y,30.0
+MXN,Vanilla Butterfly,Scotia,2000000.0,1Y_2Y_5Y,8.0
+MXN,Vanilla Butterfly,Scotia,5000000.0,1Y_2Y_5Y,12.0
+MXN,Vanilla Butterfly,Scotia,10000000.0,1Y_2Y_5Y,20.0
+MXN,Vanilla Butterfly,Scotia,20000000.0,1Y_2Y_5Y,24.0
+MXN,Vanilla Butterfly,Scotia,50000000.0,1Y_2Y_5Y,30.0
+MXN,Vanilla Butterfly,Scotia,100000000.0,1Y_2Y_5Y,
+MXN,Vanilla Butterfly,Scotia,2000000.0,1Y_2Y_10Y,10.0
+MXN,Vanilla Butterfly,Scotia,5000000.0,1Y_2Y_10Y,14.0
+MXN,Vanilla Butterfly,Scotia,10000000.0,1Y_2Y_10Y,22.0
+MXN,Vanilla Butterfly,Scotia,20000000.0,1Y_2Y_10Y,26.0
+MXN,Vanilla Butterfly,Scotia,50000000.0,1Y_2Y_10Y,34.0
+MXN,Vanilla Butterfly,Scotia,100000000.0,1Y_2Y_10Y,
+MXN,Vanilla Butterfly,Scotia,2000000.0,1Y_5Y_10Y,8.0
+MXN,Vanilla Butterfly,Scotia,5000000.0,1Y_5Y_10Y,12.0
+MXN,Vanilla Butterfly,Scotia,10000000.0,1Y_5Y_10Y,20.0
+MXN,Vanilla Butterfly,Scotia,20000000.0,1Y_5Y_10Y,24.0
+MXN,Vanilla Butterfly,Scotia,50000000.0,1Y_5Y_10Y,30.0
+MXN,Vanilla Butterfly,Scotia,100000000.0,1Y_5Y_10Y,
+MXN,Vanilla Butterfly,Scotia,2000000.0,2Y_5Y_10Y,8.0
+MXN,Vanilla Butterfly,Scotia,5000000.0,2Y_5Y_10Y,12.0
+MXN,Vanilla Butterfly,Scotia,10000000.0,2Y_5Y_10Y,18.0
+MXN,Vanilla Butterfly,Scotia,20000000.0,2Y_5Y_10Y,24.0
+MXN,Vanilla Butterfly,Scotia,50000000.0,2Y_5Y_10Y,30.0
+MXN,Vanilla Butterfly,Scotia,100000000.0,2Y_5Y_10Y,
+MXN,Vanilla Butterfly,JPM,2000000.0,1Y_2Y_5Y,6.0
+MXN,Vanilla Butterfly,JPM,5000000.0,1Y_2Y_5Y,8.0
+MXN,Vanilla Butterfly,JPM,10000000.0,1Y_2Y_5Y,9.0
+MXN,Vanilla Butterfly,JPM,20000000.0,1Y_2Y_5Y,10.0
+MXN,Vanilla Butterfly,JPM,50000000.0,1Y_2Y_5Y,12.0
+MXN,Vanilla Butterfly,JPM,100000000.0,1Y_2Y_5Y,14.0
+MXN,Vanilla Butterfly,JPM,2000000.0,1Y_2Y_10Y,6.0
+MXN,Vanilla Butterfly,JPM,5000000.0,1Y_2Y_10Y,8.0
+MXN,Vanilla Butterfly,JPM,10000000.0,1Y_2Y_10Y,9.0
+MXN,Vanilla Butterfly,JPM,20000000.0,1Y_2Y_10Y,10.0
+MXN,Vanilla Butterfly,JPM,50000000.0,1Y_2Y_10Y,12.0
+MXN,Vanilla Butterfly,JPM,100000000.0,1Y_2Y_10Y,14.0
+MXN,Vanilla Butterfly,JPM,2000000.0,1Y_5Y_10Y,6.0
+MXN,Vanilla Butterfly,JPM,5000000.0,1Y_5Y_10Y,8.0
+MXN,Vanilla Butterfly,JPM,10000000.0,1Y_5Y_10Y,9.0
+MXN,Vanilla Butterfly,JPM,20000000.0,1Y_5Y_10Y,10.0
+MXN,Vanilla Butterfly,JPM,50000000.0,1Y_5Y_10Y,12.0
+MXN,Vanilla Butterfly,JPM,100000000.0,1Y_5Y_10Y,14.0
+MXN,Vanilla Butterfly,JPM,2000000.0,2Y_5Y_10Y,6.0
+MXN,Vanilla Butterfly,JPM,5000000.0,2Y_5Y_10Y,8.0
+MXN,Vanilla Butterfly,JPM,10000000.0,2Y_5Y_10Y,9.0
+MXN,Vanilla Butterfly,JPM,20000000.0,2Y_5Y_10Y,10.0
+MXN,Vanilla Butterfly,JPM,50000000.0,2Y_5Y_10Y,12.0
+MXN,Vanilla Butterfly,JPM,100000000.0,2Y_5Y_10Y,14.0
+MXN,Vanilla Butterfly,SocGen,2000000.0,1Y_2Y_5Y,8.0
+MXN,Vanilla Butterfly,SocGen,5000000.0,1Y_2Y_5Y,14.0
+MXN,Vanilla Butterfly,SocGen,10000000.0,1Y_2Y_5Y,20.0
+MXN,Vanilla Butterfly,SocGen,20000000.0,1Y_2Y_5Y,28.0
+MXN,Vanilla Butterfly,SocGen,50000000.0,1Y_2Y_5Y,40.0
+MXN,Vanilla Butterfly,SocGen,100000000.0,1Y_2Y_5Y,70.0
+MXN,Vanilla Butterfly,SocGen,2000000.0,1Y_2Y_10Y,8.0
+MXN,Vanilla Butterfly,SocGen,5000000.0,1Y_2Y_10Y,14.0
+MXN,Vanilla Butterfly,SocGen,10000000.0,1Y_2Y_10Y,20.0
+MXN,Vanilla Butterfly,SocGen,20000000.0,1Y_2Y_10Y,28.0
+MXN,Vanilla Butterfly,SocGen,50000000.0,1Y_2Y_10Y,40.0
+MXN,Vanilla Butterfly,SocGen,100000000.0,1Y_2Y_10Y,70.0
+MXN,Vanilla Butterfly,SocGen,2000000.0,1Y_5Y_10Y,8.0
+MXN,Vanilla Butterfly,SocGen,5000000.0,1Y_5Y_10Y,14.0
+MXN,Vanilla Butterfly,SocGen,10000000.0,1Y_5Y_10Y,20.0
+MXN,Vanilla Butterfly,SocGen,20000000.0,1Y_5Y_10Y,28.0
+MXN,Vanilla Butterfly,SocGen,50000000.0,1Y_5Y_10Y,40.0
+MXN,Vanilla Butterfly,SocGen,100000000.0,1Y_5Y_10Y,70.0
+MXN,Vanilla Butterfly,SocGen,2000000.0,2Y_5Y_10Y,8.0
+MXN,Vanilla Butterfly,SocGen,5000000.0,2Y_5Y_10Y,14.0
+MXN,Vanilla Butterfly,SocGen,10000000.0,2Y_5Y_10Y,20.0
+MXN,Vanilla Butterfly,SocGen,20000000.0,2Y_5Y_10Y,28.0
+MXN,Vanilla Butterfly,SocGen,50000000.0,2Y_5Y_10Y,40.0
+MXN,Vanilla Butterfly,SocGen,100000000.0,2Y_5Y_10Y,70.0
+MXN,Vanilla Butterfly,Barclays,2000000.0,1Y_2Y_5Y,4.0
+MXN,Vanilla Butterfly,Barclays,5000000.0,1Y_2Y_5Y,6.0
+MXN,Vanilla Butterfly,Barclays,10000000.0,1Y_2Y_5Y,8.0
+MXN,Vanilla Butterfly,Barclays,20000000.0,1Y_2Y_5Y,10.0
+MXN,Vanilla Butterfly,Barclays,50000000.0,1Y_2Y_5Y,15.0
+MXN,Vanilla Butterfly,Barclays,100000000.0,1Y_2Y_5Y,20.0
+MXN,Vanilla Butterfly,Barclays,2000000.0,1Y_2Y_10Y,8.0
+MXN,Vanilla Butterfly,Barclays,5000000.0,1Y_2Y_10Y,10.0
+MXN,Vanilla Butterfly,Barclays,10000000.0,1Y_2Y_10Y,12.0
+MXN,Vanilla Butterfly,Barclays,20000000.0,1Y_2Y_10Y,14.0
+MXN,Vanilla Butterfly,Barclays,50000000.0,1Y_2Y_10Y,15.0
+MXN,Vanilla Butterfly,Barclays,100000000.0,1Y_2Y_10Y,20.0
+MXN,Vanilla Butterfly,Barclays,2000000.0,1Y_5Y_10Y,6.0
+MXN,Vanilla Butterfly,Barclays,5000000.0,1Y_5Y_10Y,8.0
+MXN,Vanilla Butterfly,Barclays,10000000.0,1Y_5Y_10Y,10.0
+MXN,Vanilla Butterfly,Barclays,20000000.0,1Y_5Y_10Y,12.0
+MXN,Vanilla Butterfly,Barclays,50000000.0,1Y_5Y_10Y,15.0
+MXN,Vanilla Butterfly,Barclays,100000000.0,1Y_5Y_10Y,20.0
+MXN,Vanilla Butterfly,Barclays,2000000.0,2Y_5Y_10Y,6.0
+MXN,Vanilla Butterfly,Barclays,5000000.0,2Y_5Y_10Y,8.0
+MXN,Vanilla Butterfly,Barclays,10000000.0,2Y_5Y_10Y,8.0
+MXN,Vanilla Butterfly,Barclays,20000000.0,2Y_5Y_10Y,10.0
+MXN,Vanilla Butterfly,Barclays,50000000.0,2Y_5Y_10Y,15.0
+MXN,Vanilla Butterfly,Barclays,100000000.0,2Y_5Y_10Y,20.0
+MXN,Vanilla Butterfly,RBC,2000000.0,1Y_2Y_5Y,20.0
+MXN,Vanilla Butterfly,RBC,5000000.0,1Y_2Y_5Y,25.0
+MXN,Vanilla Butterfly,RBC,10000000.0,1Y_2Y_5Y,35.0
+MXN,Vanilla Butterfly,RBC,20000000.0,1Y_2Y_5Y,40.0
+MXN,Vanilla Butterfly,RBC,50000000.0,1Y_2Y_5Y,50.0
+MXN,Vanilla Butterfly,RBC,100000000.0,1Y_2Y_5Y,50.0
+MXN,Vanilla Butterfly,RBC,2000000.0,1Y_2Y_10Y,40.0
+MXN,Vanilla Butterfly,RBC,5000000.0,1Y_2Y_10Y,50.0
+MXN,Vanilla Butterfly,RBC,10000000.0,1Y_2Y_10Y,60.0
+MXN,Vanilla Butterfly,RBC,20000000.0,1Y_2Y_10Y,80.0
+MXN,Vanilla Butterfly,RBC,50000000.0,1Y_2Y_10Y,100.0
+MXN,Vanilla Butterfly,RBC,100000000.0,1Y_2Y_10Y,100.0
+MXN,Vanilla Butterfly,RBC,2000000.0,1Y_5Y_10Y,20.0
+MXN,Vanilla Butterfly,RBC,5000000.0,1Y_5Y_10Y,25.0
+MXN,Vanilla Butterfly,RBC,10000000.0,1Y_5Y_10Y,35.0
+MXN,Vanilla Butterfly,RBC,20000000.0,1Y_5Y_10Y,40.0
+MXN,Vanilla Butterfly,RBC,50000000.0,1Y_5Y_10Y,50.0
+MXN,Vanilla Butterfly,RBC,100000000.0,1Y_5Y_10Y,50.0
+MXN,Vanilla Butterfly,RBC,2000000.0,2Y_5Y_10Y,20.0
+MXN,Vanilla Butterfly,RBC,5000000.0,2Y_5Y_10Y,25.0
+MXN,Vanilla Butterfly,RBC,10000000.0,2Y_5Y_10Y,30.0
+MXN,Vanilla Butterfly,RBC,20000000.0,2Y_5Y_10Y,40.0
+MXN,Vanilla Butterfly,RBC,50000000.0,2Y_5Y_10Y,40.0
+MXN,Vanilla Butterfly,RBC,100000000.0,2Y_5Y_10Y,40.0
+MXN,Vanilla Butterfly,Credit Agricole,2000000.0,1Y_2Y_5Y,
+MXN,Vanilla Butterfly,Credit Agricole,5000000.0,1Y_2Y_5Y,
+MXN,Vanilla Butterfly,Credit Agricole,10000000.0,1Y_2Y_5Y,
+MXN,Vanilla Butterfly,Credit Agricole,20000000.0,1Y_2Y_5Y,
+MXN,Vanilla Butterfly,Credit Agricole,50000000.0,1Y_2Y_5Y,
+MXN,Vanilla Butterfly,Credit Agricole,100000000.0,1Y_2Y_5Y,
+MXN,Vanilla Butterfly,Credit Agricole,2000000.0,1Y_2Y_10Y,
+MXN,Vanilla Butterfly,Credit Agricole,5000000.0,1Y_2Y_10Y,
+MXN,Vanilla Butterfly,Credit Agricole,10000000.0,1Y_2Y_10Y,
+MXN,Vanilla Butterfly,Credit Agricole,20000000.0,1Y_2Y_10Y,
+MXN,Vanilla Butterfly,Credit Agricole,50000000.0,1Y_2Y_10Y,
+MXN,Vanilla Butterfly,Credit Agricole,100000000.0,1Y_2Y_10Y,
+MXN,Vanilla Butterfly,Credit Agricole,2000000.0,1Y_5Y_10Y,
+MXN,Vanilla Butterfly,Credit Agricole,5000000.0,1Y_5Y_10Y,
+MXN,Vanilla Butterfly,Credit Agricole,10000000.0,1Y_5Y_10Y,
+MXN,Vanilla Butterfly,Credit Agricole,20000000.0,1Y_5Y_10Y,
+MXN,Vanilla Butterfly,Credit Agricole,50000000.0,1Y_5Y_10Y,
+MXN,Vanilla Butterfly,Credit Agricole,100000000.0,1Y_5Y_10Y,
+MXN,Vanilla Butterfly,Credit Agricole,2000000.0,2Y_5Y_10Y,
+MXN,Vanilla Butterfly,Credit Agricole,5000000.0,2Y_5Y_10Y,
+MXN,Vanilla Butterfly,Credit Agricole,10000000.0,2Y_5Y_10Y,
+MXN,Vanilla Butterfly,Credit Agricole,20000000.0,2Y_5Y_10Y,
+MXN,Vanilla Butterfly,Credit Agricole,50000000.0,2Y_5Y_10Y,
+MXN,Vanilla Butterfly,Credit Agricole,100000000.0,2Y_5Y_10Y,
+MXN,Vanilla Butterfly,Santander,2000000.0,1Y_2Y_5Y,5.0
+MXN,Vanilla Butterfly,Santander,5000000.0,1Y_2Y_5Y,7.0
+MXN,Vanilla Butterfly,Santander,10000000.0,1Y_2Y_5Y,10.0
+MXN,Vanilla Butterfly,Santander,20000000.0,1Y_2Y_5Y,15.0
+MXN,Vanilla Butterfly,Santander,50000000.0,1Y_2Y_5Y,20.0
+MXN,Vanilla Butterfly,Santander,100000000.0,1Y_2Y_5Y,40.0
+MXN,Vanilla Butterfly,Santander,2000000.0,1Y_2Y_10Y,6.0
+MXN,Vanilla Butterfly,Santander,5000000.0,1Y_2Y_10Y,8.0
+MXN,Vanilla Butterfly,Santander,10000000.0,1Y_2Y_10Y,10.0
+MXN,Vanilla Butterfly,Santander,20000000.0,1Y_2Y_10Y,15.0
+MXN,Vanilla Butterfly,Santander,50000000.0,1Y_2Y_10Y,20.0
+MXN,Vanilla Butterfly,Santander,100000000.0,1Y_2Y_10Y,40.0
+MXN,Vanilla Butterfly,Santander,2000000.0,1Y_5Y_10Y,6.0
+MXN,Vanilla Butterfly,Santander,5000000.0,1Y_5Y_10Y,8.0
+MXN,Vanilla Butterfly,Santander,10000000.0,1Y_5Y_10Y,10.0
+MXN,Vanilla Butterfly,Santander,20000000.0,1Y_5Y_10Y,15.0
+MXN,Vanilla Butterfly,Santander,50000000.0,1Y_5Y_10Y,20.0
+MXN,Vanilla Butterfly,Santander,100000000.0,1Y_5Y_10Y,40.0
+MXN,Vanilla Butterfly,Santander,2000000.0,2Y_5Y_10Y,4.0
+MXN,Vanilla Butterfly,Santander,5000000.0,2Y_5Y_10Y,7.0
+MXN,Vanilla Butterfly,Santander,10000000.0,2Y_5Y_10Y,10.0
+MXN,Vanilla Butterfly,Santander,20000000.0,2Y_5Y_10Y,15.0
+MXN,Vanilla Butterfly,Santander,50000000.0,2Y_5Y_10Y,20.0
+MXN,Vanilla Butterfly,Santander,100000000.0,2Y_5Y_10Y,40.0
+MXN,Vanilla Butterfly,BBVA,2000000.0,1Y_2Y_5Y,8.0
+MXN,Vanilla Butterfly,BBVA,5000000.0,1Y_2Y_5Y,12.0
+MXN,Vanilla Butterfly,BBVA,10000000.0,1Y_2Y_5Y,15.0
+MXN,Vanilla Butterfly,BBVA,20000000.0,1Y_2Y_5Y,30.0
+MXN,Vanilla Butterfly,BBVA,50000000.0,1Y_2Y_5Y,50.0
+MXN,Vanilla Butterfly,BBVA,100000000.0,1Y_2Y_5Y,70.0
+MXN,Vanilla Butterfly,BBVA,2000000.0,1Y_2Y_10Y,8.0
+MXN,Vanilla Butterfly,BBVA,5000000.0,1Y_2Y_10Y,12.0
+MXN,Vanilla Butterfly,BBVA,10000000.0,1Y_2Y_10Y,15.0
+MXN,Vanilla Butterfly,BBVA,20000000.0,1Y_2Y_10Y,30.0
+MXN,Vanilla Butterfly,BBVA,50000000.0,1Y_2Y_10Y,50.0
+MXN,Vanilla Butterfly,BBVA,100000000.0,1Y_2Y_10Y,70.0
+MXN,Vanilla Butterfly,BBVA,2000000.0,1Y_5Y_10Y,8.0
+MXN,Vanilla Butterfly,BBVA,5000000.0,1Y_5Y_10Y,12.0
+MXN,Vanilla Butterfly,BBVA,10000000.0,1Y_5Y_10Y,15.0
+MXN,Vanilla Butterfly,BBVA,20000000.0,1Y_5Y_10Y,30.0
+MXN,Vanilla Butterfly,BBVA,50000000.0,1Y_5Y_10Y,50.0
+MXN,Vanilla Butterfly,BBVA,100000000.0,1Y_5Y_10Y,70.0
+MXN,Vanilla Butterfly,BBVA,2000000.0,2Y_5Y_10Y,8.0
+MXN,Vanilla Butterfly,BBVA,5000000.0,2Y_5Y_10Y,12.0
+MXN,Vanilla Butterfly,BBVA,10000000.0,2Y_5Y_10Y,15.0
+MXN,Vanilla Butterfly,BBVA,20000000.0,2Y_5Y_10Y,30.0
+MXN,Vanilla Butterfly,BBVA,50000000.0,2Y_5Y_10Y,50.0
+MXN,Vanilla Butterfly,BBVA,100000000.0,2Y_5Y_10Y,70.0
